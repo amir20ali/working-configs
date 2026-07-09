@@ -4,78 +4,80 @@
 
 ## 📊 Statistics
 - **Total tested:** 4603 configs
-- **Working configs:** 104
-- **Passed all 3 tests:** 56
+- **Working configs:** 166
+- **Passed all 3 tests:** 93
 - **Reliable configs (≥2 passes):** 40
 - **Speed tested:** 0
-- **Last updated:** 2026-07-09 22:59:00
+- **Last updated:** 2026-07-09 23:21:13
 
 ## 🚀 Top Configs
 
 ### #1: EPODONIOS
 - **Reliability:** 3/3 passes
-- **TCP Latency:** 902ms
-- **HTTP Latency:** 378ms
-- **Proxy IP:** 91.107.146.59
+- **TCP Latency:** 316ms
+- **HTTP Latency:** 480ms
+- **Proxy IP:** 194.59.9.4
 - [View Config](working_configs.txt)
 
 ### #2: EPODONIOS
 - **Reliability:** 3/3 passes
-- **TCP Latency:** 916ms
-- **HTTP Latency:** 414ms
-- **Proxy IP:** 91.107.146.59
+- **TCP Latency:** 300ms
+- **HTTP Latency:** 496ms
+- **Proxy IP:** 5.175.236.54
 - [View Config](working_configs.txt)
 
 ### #3: EPODONIOS
 - **Reliability:** 3/3 passes
-- **TCP Latency:** 1657ms
-- **HTTP Latency:** 451ms
-- **Proxy IP:** 217.60.0.48
+- **TCP Latency:** 289ms
+- **HTTP Latency:** 489ms
+- **Proxy IP:** 207.2.123.197
 - [View Config](working_configs.txt)
 
 ### #4: EPODONIOS
 - **Reliability:** 3/3 passes
-- **TCP Latency:** 189ms
-- **HTTP Latency:** 495ms
+- **TCP Latency:** 126ms
+- **HTTP Latency:** 975ms
+- **Proxy IP:** 208.77.244.151
 - [View Config](working_configs.txt)
 
 ### #5: EPODONIOS
 - **Reliability:** 3/3 passes
-- **TCP Latency:** 224ms
-- **HTTP Latency:** 458ms
-- **Proxy IP:** 146.70.20.103
+- **TCP Latency:** 118ms
+- **HTTP Latency:** 936ms
+- **Proxy IP:** 46.8.69.106
 - [View Config](working_configs.txt)
 
-### #6: ❤️🧑‍💻 کانفیگ ملی در #EPODONIOS
+### #6: EPODONIOS
 - **Reliability:** 3/3 passes
-- **TCP Latency:** 145ms
-- **HTTP Latency:** 481ms
+- **TCP Latency:** 116ms
+- **HTTP Latency:** 572ms
+- **Proxy IP:** 91.107.146.193
 - [View Config](working_configs.txt)
 
 ### #7: EPODONIOS
 - **Reliability:** 3/3 passes
-- **TCP Latency:** 96ms
-- **HTTP Latency:** 451ms
+- **TCP Latency:** 112ms
+- **HTTP Latency:** 859ms
+- **Proxy IP:** 65.109.177.195
 - [View Config](working_configs.txt)
 
 ### #8: ❤️🧑‍💻 کانفیگ ملی در #EPODONIOS
 - **Reliability:** 3/3 passes
-- **TCP Latency:** 1620ms
-- **HTTP Latency:** 529ms
-- **Proxy IP:** 91.192.81.154
+- **TCP Latency:** 95ms
+- **HTTP Latency:** 495ms
 - [View Config](working_configs.txt)
 
-### #9: ❤️🧑‍💻 کانفیگ ملی در #EPODONIOS
+### #9: EPODONIOS
 - **Reliability:** 3/3 passes
-- **TCP Latency:** 1620ms
-- **HTTP Latency:** 462ms
+- **TCP Latency:** 101ms
+- **HTTP Latency:** 567ms
+- **Proxy IP:** 144.31.186.7
 - [View Config](working_configs.txt)
 
 ### #10: EPODONIOS
 - **Reliability:** 3/3 passes
-- **TCP Latency:** 1421ms
-- **HTTP Latency:** 697ms
-- **Proxy IP:** 217.179.6.70
+- **TCP Latency:** 110ms
+- **HTTP Latency:** 483ms
 - [View Config](working_configs.txt)
 
 
