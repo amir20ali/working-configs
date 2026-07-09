@@ -1,0 +1,20 @@
+# Working V2Ray/Xray Configs
+# Generated: 2026-07-09 22:35:25
+# Total working: 3
+# Total tested: 6
+# XRAY core used
+# ================================================
+
+# 1. Score: 120 | Reliability: 3/3 | TCP: 132ms | HTTP: 2029ms | Speed: 2.19 Mbps | EPODONIOS
+# Pass details: P1:3786ms | P2:2029ms | P3:3108ms
+# Speed test: 2.19 Mbps in 10.19s
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?encryption=none&security=tls&sni=deicl.redstone-vex.sbs&fp=chrome&type=ws&host=deicl.redstone-vex.sbs&path=%2Fsea#EPODONIOS
+
+# 2. Score: 100 | Reliability: 3/3 | TCP: 114ms | HTTP: 955ms | EPODONIOS
+# Pass details: P1:1011ms | P2:955ms | P3:975ms
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?encryption=none&security=none&type=ws&host=download.pusytroller.gq&path=%2F#EPODONIOS
+
+# 3. Score: 95 | Reliability: 2/3 | TCP: 111ms | HTTP: 502ms | IP: 192.76.160.200 | EPODONIOS
+# Pass details: P1:589ms | P2:502ms | P3:✗
+vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@140.248.180.30:443?encryption=none&security=tls&sni=speedtest.net&allowInsecure=1&type=ws&host=hamshahriesfahan.com&path=%2Fvip1#EPODONIOS
+
