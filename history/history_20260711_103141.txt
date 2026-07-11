@@ -1,0 +1,15 @@
+# Working V2Ray/Xray Configs
+# Generated: 2026-07-11 10:31:38
+# Total working: 1
+# Total tested: 6
+# XRAY core used
+# ================================================
+# IMPORTANT: These configs are tested on Shatel Internet Provider Network
+# Performance may vary on different ISPs
+# ================================================
+
+# 1. Score: 140 | Reliability: 3/3 | TCP: 118ms | HTTP: 756ms | Speed: 3.28 Mbps | IP: 5.2.71.158 | EPODONIOS
+# Pass details: P1:794ms | P2:756ms | P3:1720ms
+# Speed test: 3.28 Mbps in 2.44s
+vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@140.248.180.30:443?encryption=none&security=tls&sni=speedtest.net&allowInsecure=1&type=ws&host=hamshahriesfahan.com&path=%2Fvip1#EPODONIOS
+
