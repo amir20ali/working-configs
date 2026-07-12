@@ -1,197 +1,203 @@
 # Working V2Ray/Xray Configs
-# Generated: 2026-07-11 10:44:59
+# Generated: 2026-07-12 20:20:58
 # Total working: 40
-# Total tested: 4497
+# Total tested: 4553
 # XRAY core used
 # ================================================
 # IMPORTANT: These configs are tested on Shatel Internet Provider Network
 # Performance may vary on different ISPs
 # ================================================
 
-# 1. Score: 140 | Reliability: 3/3 | TCP: 160ms | HTTP: 762ms | Speed: 1.24 Mbps | IP: 31.59.185.57 | EPODONIOS
-# Pass details: P1:771ms | P2:762ms | P3:1158ms
-# Speed test: 1.24 Mbps in 5.34s
-trojan://MiTiVPN@giantfood.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=N--l&host=n-la-nbad.MaQRor.Ir&sni=nland-o-nl.MaQRor.Ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#EPODONIOS
+# 1. Score: 140 | Reliability: 3/3 | TCP: 112ms | HTTP: 725ms | Speed: 1.46 Mbps | IP: 2.27.39.147 | EPODONIOS
+# Pass details: P1:831ms | P2:800ms | P3:725ms
+# Speed test: 1.46 Mbps in 5.02s
+trojan://MiTiVPN@redis.io:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=n-s-L&host=n-la-nbvjad.App-CloUd.IR&sni=nlandif-o-nhdl.App-CloUd.IR&alpn=h2,http/1.1&fp=chrome&insecure=1&allowInsecure=1#EPODONIOS
 
-# 2. Score: 140 | Reliability: 3/3 | TCP: 113ms | HTTP: 746ms | Speed: 2.72 Mbps | IP: 65.109.176.53 | EPODONIOS
-# Pass details: P1:746ms | P2:856ms | P3:922ms
-# Speed test: 2.72 Mbps in 2.94s
-trojan://MiTiVPN@visa.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=f--l&host=f--ls-Fl.MaQRor.Ir&sni=fl-o--7-flla.MaQRor.Ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#EPODONIOS
+# 2. Score: 140 | Reliability: 3/3 | TCP: 127ms | HTTP: 734ms | Speed: 1.24 Mbps | IP: 152.55.184.101 | EPODONIOS
+# Pass details: P1:1465ms | P2:764ms | P3:734ms
+# Speed test: 1.24 Mbps in 5.42s
+vless://3aedf221-f6c5-9f8d-49da-2547c302cb03@rvg-production-aa24.up.railway.app:443?&security=tls&type=ws&headerType=none&host=rvg-production-aa24.up.railway.app&path=/ws/3aedf221-f6c5-9f8d-49da-2547c302cb03#EPODONIOS
 
-# 3. Score: 140 | Reliability: 3/3 | TCP: 112ms | HTTP: 676ms | Speed: 1.52 Mbps | IP: 152.55.184.28 | EPODONIOS
-# Pass details: P1:882ms | P2:999ms | P3:676ms
-# Speed test: 1.52 Mbps in 5.01s
-vless://89840694-089e-5f2b-5928-fbeaa3b23108@x4g-production-8b77.up.railway.app:443?path=/ws/89840694-089e-5f2b-5928-fbeaa3b23108&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=&fp=chrome&type=ws&allowInsecure=0&sni=#EPODONIOS
+# 3. Score: 140 | Reliability: 3/3 | TCP: 95ms | HTTP: 581ms | Speed: 1.28 Mbps | IP: 91.107.145.208 | EPODONIOS
+# Pass details: P1:1089ms | P2:1816ms | P3:581ms
+# Speed test: 1.28 Mbps in 5.02s
+vless://8ddb745a-2e59-4085-85b7-9284ac6bc535@dc9ee2e040041de4.mbcloudynias.ir:50567?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=6115f6a9eb8467c6#EPODONIOS
 
-# 4. Score: 140 | Reliability: 3/3 | TCP: 111ms | HTTP: 660ms | Speed: 1.05 Mbps | IP: 91.107.150.246 | EPODONIOS
-# Pass details: P1:3244ms | P2:660ms | P3:2042ms
-# Speed test: 1.05 Mbps in 5.37s
-vless://Join,telegram:TurboConfigs@91.107.150.246:443?encryption=none&headerType=http&host=play.google.com&path=/&security=none&type=tcp#EPODONIOS
+# 4. Score: 140 | Reliability: 3/3 | TCP: 123ms | HTTP: 820ms | Speed: 1.47 Mbps | IP: 51.38.127.93 | EPODONIOS
+# Pass details: P1:820ms | P2:2801ms | P3:4782ms
+# Speed test: 1.47 Mbps in 5.38s
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.59.1:443?encryption=none&type=ws&security=tls&path=/GOrbEh&host=rubifen.adaspoloandco.com&sni=rubifen.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0#EPODONIOS
 
-# 5. Score: 140 | Reliability: 3/3 | TCP: 111ms | HTTP: 697ms | Speed: 1.65 Mbps | IP: 152.55.184.140 | EPODONIOS
-# Pass details: P1:1455ms | P2:710ms | P3:697ms
-# Speed test: 1.65 Mbps in 4.86s
-vless://ef61d287-1771-71f0-211a-474478346d4f@x4g-production-7c77.up.railway.app:443?alpn=http/1.1&encryption=none&fp=chrome&host=x4g-production-7c77.up.railway.app&path=/ws/ef61d287-1771-71f0-211a-474478346d4f&security=tls&sni=x4g-production-7c77.up.railway.app&type=ws#EPODONIOS
+# 5. Score: 140 | Reliability: 3/3 | TCP: 101ms | HTTP: 848ms | Speed: 1.84 Mbps | IP: 146.59.35.134 | EPODONIOS
+# Pass details: P1:1194ms | P2:2008ms | P3:848ms
+# Speed test: 1.84 Mbps in 4.34s
+vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=/download.php&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#EPODONIOS
 
-# 6. Score: 140 | Reliability: 3/3 | TCP: 112ms | HTTP: 802ms | Speed: 2.24 Mbps | IP: 146.59.35.134 | EPODONIOS
-# Pass details: P1:802ms | P2:813ms | P3:1182ms
-# Speed test: 2.24 Mbps in 3.57s
-vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?encryption=none&type=ws&security=tls&path=/download.php&host=chopin.adaspoloandco.com&sni=chopin.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0#EPODONIOS
+# 6. Score: 140 | Reliability: 3/3 | TCP: 127ms | HTTP: 703ms | Speed: 1.34 Mbps | IP: 65.109.215.50 | EPODONIOS
+# Pass details: P1:735ms | P2:978ms | P3:703ms
+# Speed test: 1.34 Mbps in 5.10s
+vmess://eyJhZGQiOiAiNjUuMTA5LjIxNS41MCIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICJmNmQyZjlkMS03MDMyLTQ3MGUtOWM0My1hNWYyNTk3MDBkYjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjI3Mjg1IiwgInBzIjogIkVQT0RPTklPUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 
-# 7. Score: 140 | Reliability: 3/3 | TCP: 111ms | HTTP: 674ms | Speed: 1.66 Mbps | IP: 152.55.184.140 | EPODONIOS
-# Pass details: P1:674ms | P2:785ms | P3:711ms
-# Speed test: 1.66 Mbps in 4.82s
-vless://ef61d287-1771-71f0-211a-474478346d4f@x4g-production-7c77.up.railway.app:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=x4g-production-7c77.up.railway.app&path=%2Fws%2Fef61d287-1771-71f0-211a-474478346d4f&security=tls&sni=x4g-production-7c77.up.railway.app&type=ws#EPODONIOS
+# 7. Score: 140 | Reliability: 3/3 | TCP: 116ms | HTTP: 850ms | Speed: 1.10 Mbps | IP: 152.55.184.91 | EPODONIOS
+# Pass details: P1:850ms | P2:850ms | P3:1025ms
+# Speed test: 1.10 Mbps in 5.01s
+vless://e004cd21-d55b-a5cf-b0e2-af27acc7ec83@x4g-production-b148.up.railway.app:443?path=%2Fws%2Fe004cd21-d55b-a5cf-b0e2-af27acc7ec83&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-b148.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=x4g-production-b148.up.railway.app#EPODONIOS
 
-# 8. Score: 140 | Reliability: 3/3 | TCP: 111ms | HTTP: 683ms | Speed: 1.34 Mbps | IP: 152.55.184.140 | EPODONIOS
-# Pass details: P1:778ms | P2:710ms | P3:683ms
-# Speed test: 1.34 Mbps in 5.00s
-vless://ef61d287-1771-71f0-211a-474478346d4f@x4g-production-7c77.up.railway.app:443?path=%2Fws%2Fef61d287-1771-71f0-211a-474478346d4f&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-7c77.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-7c77.up.railway.app#EPODONIOS
+# 8. Score: 130 | Reliability: 3/3 | TCP: 175ms | HTTP: 821ms | Speed: 0.60 Mbps | IP: 78.109.17.114 | EPODONIOS
+# Pass details: P1:2081ms | P2:2755ms | P3:821ms
+# Speed test: 0.60 Mbps in 5.50s
+trojan://MiTiVPN@89.116.250.135:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=SW-22&host=bw--ivb-b--vvbcs.MaQror.IR&sni=Swdb-ueu-oe.MaQror.IR&alpn=h2,http/1.1&fp=chrome&insecure=1&allowInsecure=1#EPODONIOS
 
-# 9. Score: 130 | Reliability: 3/3 | TCP: 129ms | HTTP: 936ms | Speed: 0.85 Mbps | IP: 89.22.236.0 | EPODONIOS
-# Pass details: P1:936ms | P2:1041ms | P3:992ms
-# Speed test: 0.85 Mbps in 5.37s
-trojan://MiTiVPN@172.67.75.194:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=s---w&security=tls&alpn=http/1.1&insecure=0&host=bw--ivs-b--vvs.MaQRor.Ir&fp=chrome&type=ws&allowInsecure=0&sni=wbjj-bbcs-.MaQRor.Ir#EPODONIOS
+# 9. Score: 130 | Reliability: 3/3 | TCP: 175ms | HTTP: 845ms | Speed: 0.72 Mbps | IP: 82.117.84.249 | EPODONIOS
+# Pass details: P1:1000ms | P2:845ms | P3:1821ms
+# Speed test: 0.72 Mbps in 5.53s
+trojan://MiTiVPN@basecamp.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=FL-44&host=f--ls-Fvl.MaQror.IR&sni=fl-o--7-fllav.MaQror.IR&alpn=h2,http/1.1&fp=chrome&insecure=1&allowInsecure=1#EPODONIOS
 
-# 10. Score: 130 | Reliability: 3/3 | TCP: 161ms | HTTP: 884ms | Speed: 0.50 Mbps | IP: 41.216.182.105 | EPODONIOS
-# Pass details: P1:942ms | P2:884ms | P3:932ms
-# Speed test: 0.50 Mbps in 5.10s
-trojan://MiTiVPN@172.67.75.194:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=s---w&security=tls&alpn=http/1.1&insecure=1&host=bw--ivs-b--vvs.MaQRor.Ir&fp=chrome&type=ws&allowInsecure=1&sni=wbjj-bbcs-.MaQRor.Ir#EPODONIOS
+# 10. Score: 130 | Reliability: 3/3 | TCP: 190ms | HTTP: 766ms | Speed: 0.56 Mbps | IP: 67.220.80.246 | EPODONIOS
+# Pass details: P1:950ms | P2:766ms | P3:2153ms
+# Speed test: 0.56 Mbps in 5.04s
+trojan://MiTiVPN@basecamp.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=NL-55&host=n-la-nbvjad.MaQror.IR&sni=nlandif-o-nhdl.MaQror.IR&alpn=h2,http/1.1&fp=chrome&insecure=1&allowInsecure=1#EPODONIOS
 
-# 11. Score: 130 | Reliability: 3/3 | TCP: 160ms | HTTP: 836ms | Speed: 0.73 Mbps | IP: 192.145.30.27 | EPODONIOS
-# Pass details: P1:861ms | P2:1023ms | P3:836ms
-# Speed test: 0.73 Mbps in 5.01s
-trojan://MiTiVPN@giantfood.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=s---w&host=bw--ivs-b--vvs.MaQRor.Ir&sni=wbjj-bbcs-.MaQRor.Ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#EPODONIOS
+# 11. Score: 130 | Reliability: 3/3 | TCP: 175ms | HTTP: 797ms | Speed: 0.59 Mbps | IP: 213.21.251.234 | EPODONIOS
+# Pass details: P1:1034ms | P2:797ms | P3:823ms
+# Speed test: 0.59 Mbps in 5.48s
+trojan://MiTiVPN@basecamp.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=SW-22&host=bw--ivb-b--vvbcs.MaQror.IR&sni=Swdb-ueu-oe.MaQror.IR&alpn=h2,http/1.1&fp=chrome&insecure=1&allowInsecure=1#EPODONIOS
 
-# 12. Score: 130 | Reliability: 3/3 | TCP: 97ms | HTTP: 697ms | Speed: 0.64 Mbps | IP: 138.124.98.222 | EPODONIOS
-# Pass details: P1:1026ms | P2:714ms | P3:697ms
-# Speed test: 0.64 Mbps in 5.35s
-trojan://MiTiVPN@visa.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=N--l&host=n-la-nbad.MaQRor.Ir&sni=nland-o-nl.MaQRor.Ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#EPODONIOS
+# 12. Score: 130 | Reliability: 3/3 | TCP: 112ms | HTTP: 786ms | Speed: 0.60 Mbps | IP: 138.124.85.247 | EPODONIOS
+# Pass details: P1:933ms | P2:786ms | P3:2419ms
+# Speed test: 0.60 Mbps in 5.50s
+trojan://MiTiVPN@redis.io:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=S--W-S&host=bw--ivsb-b--vvbcs.App-CloUd.IR&sni=Swowidb-ueu-oe.App-CloUd.IR&alpn=h2,http/1.1&fp=chrome&insecure=1&allowInsecure=1#EPODONIOS
 
-# 13. Score: 130 | Reliability: 3/3 | TCP: 97ms | HTTP: 747ms | Speed: 2.06 Mbps | EPODONIOS
-# Pass details: P1:785ms | P2:831ms | P3:747ms
-# Speed test: 2.06 Mbps in 3.88s
-trojan://MiTiVPN@visa.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=s---w&host=bw--ivs-b--vvs.MaQRor.Ir&sni=wbjj-bbcs-.MaQRor.Ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#EPODONIOS
+# 13. Score: 130 | Reliability: 3/3 | TCP: 174ms | HTTP: 843ms | Speed: 0.38 Mbps | IP: 91.186.216.240 | EPODONIOS
+# Pass details: P1:1055ms | P2:880ms | P3:843ms
+# Speed test: 0.38 Mbps in 5.15s
+trojan://MiTiVPN@www.speedtest.net:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=SW-22&host=bw--ivb-b--vvbcs.MaQror.IR&sni=Swdb-ueu-oe.MaQror.IR&alpn=h2,http/1.1&fp=chrome&insecure=1&allowInsecure=1#EPODONIOS
 
-# 14. Score: 130 | Reliability: 3/3 | TCP: 111ms | HTTP: 1146ms | Speed: 2.60 Mbps | IP: 46.8.69.106 | EPODONIOS
-# Pass details: P1:1180ms | P2:1146ms | P3:1185ms
-# Speed test: 2.60 Mbps in 3.08s
-vless://340e99a1-5987-411f-bf9c-ee9c69423e31@www.speedtest.net:8443?mode=auto&path=/Hi&security=tls&alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.KBGWRMDGYrWQgipXfVuTdtfBucHMihlxgZ86wHaASnU&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=vip2.pro1.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=vip2.pro1.dpdns.org#EPODONIOS
+# 14. Score: 130 | Reliability: 3/3 | TCP: 143ms | HTTP: 766ms | Speed: 0.15 Mbps | IP: 152.55.184.101 | EPODONIOS
+# Pass details: P1:1497ms | P2:770ms | P3:766ms
+# Speed test: 0.15 Mbps in 5.48s
+vless://3aedf221-f6c5-9f8d-49da-2547c302cb03@69.46.46.87:443?alpn=http/1.1&encryption=none&fp=chrome&host=rvg-production-aa24.up.railway.app&path=/ws/3aedf221-f6c5-9f8d-49da-2547c302cb03&security=tls&sni=rvg-production-aa24.up.railway.app&type=ws#EPODONIOS
 
-# 15. Score: 130 | Reliability: 3/3 | TCP: 123ms | HTTP: 1098ms | Speed: 1.71 Mbps | IP: 54.193.175.225 | EPODONIOS
-# Pass details: P1:1448ms | P2:1422ms | P3:1098ms
-# Speed test: 1.71 Mbps in 4.67s
-vless://65bed288-9602-d3aa-f7ef-752da3683677@x4g-production-1e7a.up.railway.app:443?path=/ws/65bed288-9602-d3aa-f7ef-752da3683677&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-1e7a.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-1e7a.up.railway.app#EPODONIOS
+# 15. Score: 130 | Reliability: 3/3 | TCP: 96ms | HTTP: 880ms | Speed: 0.54 Mbps | IP: 195.162.69.241 | EPODONIOS
+# Pass details: P1:880ms | P2:924ms | P3:977ms
+# Speed test: 0.54 Mbps in 5.45s
+vless://6d41e0c5-c90f-4f38-aa46-072a3db0cd56@195.162.69.241:4433?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=ws&path=/ws#EPODONIOS
 
-# 16. Score: 130 | Reliability: 3/3 | TCP: 112ms | HTTP: 1374ms | Speed: 1.60 Mbps | IP: 54.215.16.125 | EPODONIOS
-# Pass details: P1:1410ms | P2:1374ms | P3:1379ms
-# Speed test: 1.60 Mbps in 5.01s
-vless://71210a34-a349-967e-35e7-669c0b60cb9c@x4g-production-13aa.up.railway.app:443?encryption=none&security=tls&type=ws&host=x4g-production-13aa.up.railway.app&path=/ws/71210a34-a349-967e-35e7-669c0b60cb9c&sni=x4g-production-13aa.up.railway.app&fp=chrome&alpn=http/1.1#EPODONIOS
+# 16. Score: 130 | Reliability: 3/3 | TCP: 128ms | HTTP: 887ms | Speed: 0.67 Mbps | IP: 195.162.69.241 | EPODONIOS
+# Pass details: P1:888ms | P2:887ms | P3:921ms
+# Speed test: 0.67 Mbps in 5.14s
+vless://6d41e0c5-c90f-4f38-aa46-072a3db0cd56@195.162.69.241:4433?encryption=none&security=none&type=ws&path=/ws#EPODONIOS
 
-# 17. Score: 130 | Reliability: 3/3 | TCP: 112ms | HTTP: 511ms | Speed: 0.67 Mbps | IP: 91.107.150.246 | EPODONIOS
-# Pass details: P1:3041ms | P2:511ms | P3:1905ms
-# Speed test: 0.67 Mbps in 5.09s
-vless://Join,telegram:TurboConfigs@91.107.150.246:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
+# 17. Score: 130 | Reliability: 3/3 | TCP: 128ms | HTTP: 869ms | Speed: 0.38 Mbps | IP: 195.162.69.241 | EPODONIOS
+# Pass details: P1:869ms | P2:888ms | P3:887ms
+# Speed test: 0.38 Mbps in 5.14s
+vless://6d41e0c5-c90f-4f38-aa46-072a3db0cd56@195.162.69.241:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=grpc#EPODONIOS
 
-# 18. Score: 130 | Reliability: 3/3 | TCP: 112ms | HTTP: 685ms | Speed: 0.62 Mbps | IP: 152.55.184.53 | EPODONIOS
-# Pass details: P1:994ms | P2:708ms | P3:685ms
-# Speed test: 0.62 Mbps in 5.31s
-vless://a57c04f8-3c73-7f22-58dc-d4f7e26b70cf@x4g-update-production.up.railway.app:443?encryption=none&security=tls&sni=x4g-update-production.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=x4g-update-production.up.railway.app&path=/ws/a57c04f8-3c73-7f22-58dc-d4f7e26b70cf#EPODONIOS
+# 18. Score: 130 | Reliability: 3/3 | TCP: 112ms | HTTP: 776ms | Speed: 0.32 Mbps | IP: 195.162.69.241 | EPODONIOS
+# Pass details: P1:782ms | P2:805ms | P3:776ms
+# Speed test: 0.32 Mbps in 5.01s
+vless://6d41e0c5-c90f-4f38-aa46-072a3db0cd56@195.162.69.241:8080?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
 
-# 19. Score: 130 | Reliability: 3/3 | TCP: 112ms | HTTP: 694ms | Speed: 0.73 Mbps | IP: 51.38.127.93 | EPODONIOS
-# Pass details: P1:756ms | P2:791ms | P3:694ms
-# Speed test: 0.73 Mbps in 5.37s
+# 19. Score: 130 | Reliability: 3/3 | TCP: 95ms | HTTP: 725ms | Speed: 0.42 Mbps | IP: 192.76.160.203 | EPODONIOS
+# Pass details: P1:2509ms | P2:769ms | P3:725ms
+# Speed test: 0.42 Mbps in 5.27s
+vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@140.248.180.30:443?path=/vip1&security=tls&encryption=none&insecure=1&host=hamshahriesfahan.com&type=ws&allowInsecure=1&sni=speedtest.net#EPODONIOS
+
+# 20. Score: 130 | Reliability: 3/3 | TCP: 111ms | HTTP: 694ms | Speed: 0.52 Mbps | IP: 192.76.160.203 | EPODONIOS
+# Pass details: P1:2844ms | P2:810ms | P3:694ms
+# Speed test: 0.52 Mbps in 5.22s
+vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@199.232.9.94:443?path=/vip1&security=tls&encryption=none&insecure=1&host=hamshahriesfahan.com&type=ws&allowInsecure=1&sni=speedtest.net#EPODONIOS
+
+# 21. Score: 130 | Reliability: 3/3 | TCP: 95ms | HTTP: 858ms | Speed: 0.56 Mbps | IP: 192.76.160.203 | EPODONIOS
+# Pass details: P1:1994ms | P2:858ms | P3:1181ms
+# Speed test: 0.56 Mbps in 5.23s
+vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@199.232.9.94:443?sni=speedtest.net&security=tls&allowInsecure=1&insecure=1&host=hamshahriesfahan.com&path=/vip1&encryption=none&type=ws#EPODONIOS
+
+# 22. Score: 130 | Reliability: 3/3 | TCP: 110ms | HTTP: 634ms | Speed: 0.42 Mbps | IP: 135.125.184.5 | EPODONIOS
+# Pass details: P1:1375ms | P2:4104ms | P3:634ms
+# Speed test: 0.42 Mbps in 5.04s
+vless://8ddb745a-2e59-4085-85b7-9284ac6bc535@c4d0c173a443abc8.nimaghaffarzadeh.ir:56625?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=chrome&type=grpc&sni=icloud.com&sid=2acdb7659ae9df84#EPODONIOS
+
+# 23. Score: 130 | Reliability: 3/3 | TCP: 111ms | HTTP: 686ms | Speed: 0.56 Mbps | IP: 135.125.184.5 | EPODONIOS
+# Pass details: P1:1327ms | P2:3077ms | P3:686ms
+# Speed test: 0.56 Mbps in 5.02s
+vless://8ddb745a-2e59-4085-85b7-9284ac6bc535@c4d0c173a443abc8.nimaghaffarzadeh.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=chrome&type=grpc&sni=icloud.com&sid=2acdb7659ae9df84#EPODONIOS
+
+# 24. Score: 130 | Reliability: 3/3 | TCP: 127ms | HTTP: 693ms | Speed: 0.83 Mbps | IP: 152.55.184.157 | EPODONIOS
+# Pass details: P1:943ms | P2:3239ms | P3:693ms
+# Speed test: 0.83 Mbps in 5.01s
+vless://9759bd9a-f2d8-4ddf-80a1-8215e592f95b@vless-panel-production-2384.up.railway.app:443?path=/tun&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=&fp=chrome&type=ws&allowInsecure=0&sni=#EPODONIOS
+
+# 25. Score: 130 | Reliability: 3/3 | TCP: 111ms | HTTP: 773ms | Speed: 0.78 Mbps | IP: 152.55.184.157 | EPODONIOS
+# Pass details: P1:807ms | P2:3008ms | P3:773ms
+# Speed test: 0.78 Mbps in 5.11s
+vless://9759bd9a-f2d8-4ddf-80a1-8215e592f95b@vless-panel-production-2384.up.railway.app:443?path=/tun&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=vless-panel-production-2384.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=vless-panel-production-2384.up.railway.app#EPODONIOS
+
+# 26. Score: 130 | Reliability: 3/3 | TCP: 114ms | HTTP: 857ms | Speed: 0.40 Mbps | IP: 167.233.167.163 | EPODONIOS
+# Pass details: P1:3551ms | P2:2606ms | P3:857ms
+# Speed test: 0.40 Mbps in 5.46s
+vless://cbcf2255-6d66-4039-b7d6-c10d6ffc99e7@1.tls.fastly.veraspeed.ir:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+
+# 27. Score: 130 | Reliability: 3/3 | TCP: 116ms | HTTP: 838ms | Speed: 0.63 Mbps | IP: 51.38.127.93 | EPODONIOS
+# Pass details: P1:838ms | P2:2961ms | P3:4767ms
+# Speed test: 0.63 Mbps in 5.02s
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.59.1:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#EPODONIOS
+
+# 28. Score: 130 | Reliability: 3/3 | TCP: 116ms | HTTP: 800ms | Speed: 0.86 Mbps | IP: 152.55.184.91 | EPODONIOS
+# Pass details: P1:800ms | P2:3600ms | P3:3060ms
+# Speed test: 0.86 Mbps in 5.01s
+vless://e004cd21-d55b-a5cf-b0e2-af27acc7ec83@x4g-production-b148.up.railway.app:443?path=/ws/e004cd21-d55b-a5cf-b0e2-af27acc7ec83&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-b148.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-b148.up.railway.app#EPODONIOS
+
+# 29. Score: 130 | Reliability: 3/3 | TCP: 127ms | HTTP: 727ms | Speed: 0.52 Mbps | IP: 152.55.184.101 | EPODONIOS
+# Pass details: P1:727ms | P2:1721ms | P3:853ms
+# Speed test: 0.52 Mbps in 5.42s
+vless://3aedf221-f6c5-9f8d-49da-2547c302cb03@rvg-production-aa24.up.railway.app:443?path=%2Fws%2F3aedf221-f6c5-9f8d-49da-2547c302cb03&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rvg-production-aa24.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-aa24.up.railway.app#EPODONIOS
+
+# 30. Score: 130 | Reliability: 3/3 | TCP: 32ms | HTTP: 755ms | Speed: 0.38 Mbps | IP: 138.124.15.220 | EPODONIOS
+# Pass details: P1:850ms | P2:2829ms | P3:755ms
+# Speed test: 0.38 Mbps in 5.11s
+trojan://MiTiVPN@openai.com:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DF--l&host=f--ls-Fvl.App-CloUd.IR&sni=fl-o--7-fllav.App-CloUd.IR&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&allowInsecure=1#EPODONIOS
+
+# 31. Score: 130 | Reliability: 3/3 | TCP: 48ms | HTTP: 682ms | Speed: 0.40 Mbps | IP: 195.133.59.150 | EPODONIOS
+# Pass details: P1:739ms | P2:1175ms | P3:682ms
+# Speed test: 0.40 Mbps in 5.11s
+trojan://MiTiVPN@openai.com:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dn-s-L&host=n-la-nbvjad.App-CloUd.IR&sni=nlandif-o-nhdl.App-CloUd.IR&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&allowInsecure=1#EPODONIOS
+
+# 32. Score: 130 | Reliability: 3/3 | TCP: 143ms | HTTP: 993ms | Speed: 0.44 Mbps | IP: 91.107.254.171 | EPODONIOS
+# Pass details: P1:993ms | P2:1204ms | P3:1514ms
+# Speed test: 0.44 Mbps in 5.01s
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@162.159.38.119:443?host=octopusss5.info&allowInsecure=0&path=%2Fudfyfws&type=ws&security=tls&sni=octopusss5.info&insecure=0&fp=chrome&encryption=none#EPODONIOS
+
+# 33. Score: 130 | Reliability: 3/3 | TCP: 119ms | HTTP: 835ms | Speed: 0.71 Mbps | IP: 51.20.202.203 | EPODONIOS
+# Pass details: P1:835ms | P2:927ms | P3:1026ms
+# Speed test: 0.71 Mbps in 5.03s
+trojan://MiTiVPN@basecamp.com:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DSW-22&host=bw--ivb-b--vvbcs.MaQror.IR&sni=Swdb-ueu-oe.MaQror.IR&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&allowInsecure=1#EPODONIOS
+
+# 34. Score: 110 | Reliability: 3/3 | TCP: 175ms | HTTP: 813ms | IP: 138.124.85.247 | EPODONIOS
+# Pass details: P1:1742ms | P2:813ms | P3:858ms
+trojan://MiTiVPN@89.116.250.135:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=SW-22&security=tls&alpn=h2,http/1.1&insecure=1&host=bw--ivb-b--vvbcs.MaQror.IR&fp=chrome&type=ws&allowInsecure=1&sni=Swdb-ueu-oe.MaQror.IR#EPODONIOS
+
+# 35. Score: 110 | Reliability: 3/3 | TCP: 48ms | HTTP: 823ms | IP: 95.143.196.18 | EPODONIOS
+# Pass details: P1:957ms | P2:823ms | P3:841ms
+trojan://MiTiVPN@openai.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=S--W-S&host=bw--ivsb-b--vvbcs.App-CloUd.IR&sni=Swowidb-ueu-oe.App-CloUd.IR&alpn=h2,http/1.1&fp=chrome&insecure=1&allowInsecure=1#EPODONIOS
+
+# 36. Score: 110 | Reliability: 3/3 | TCP: 111ms | HTTP: 791ms | IP: 31.77.145.230 | EPODONIOS
+# Pass details: P1:791ms | P2:2014ms | P3:916ms
+vless://b08f7f87-fda7-4674-8e40-82fdcc09672a@digitalocean.com:2086?path=/Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12---Join---@Arshiavpn12&security=none&encryption=none&host=arshia.lezzatArshia.ir&type=httpupgrade#EPODONIOS
+
+# 37. Score: 110 | Reliability: 3/3 | TCP: 128ms | HTTP: 535ms | IP: 45.154.96.227 | EPODONIOS
+# Pass details: P1:535ms | P2:1627ms | P3:1514ms
+vless://b2b904aa-6521-47d6-8114-08691e5b74c0@afj1d.sannest.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
+
+# 38. Score: 110 | Reliability: 3/3 | TCP: 127ms | HTTP: 867ms | IP: 51.38.127.93 | EPODONIOS
+# Pass details: P1:867ms | P2:3144ms | P3:4795ms
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#EPODONIOS
 
-# 20. Score: 130 | Reliability: 3/3 | TCP: 131ms | HTTP: 882ms | Speed: 0.43 Mbps | IP: 135.181.32.60 | EPODONIOS
-# Pass details: P1:1101ms | P2:882ms | P3:893ms
-# Speed test: 0.43 Mbps in 5.10s
-vless://d00034dc-475a-6d22-ec7e-bbaf93abf370@fn4.sannest.ir:8443?security=reality&encryption=none&pbk=DJ9B-OWkR4FwRvEfHpdAKqEasnRdVcZHoAaMueWEGWA&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=bd#EPODONIOS
+# 39. Score: 110 | Reliability: 3/3 | TCP: 128ms | HTTP: 775ms | IP: 208.77.244.82 | EPODONIOS
+# Pass details: P1:775ms | P2:1140ms | P3:2916ms
+vless://db633771-6002-4e85-b4f3-103e328ad861@x4g-production-4ce4.up.railway.app:443?path=%2Fws%2Fdb633771-6002-4e85-b4f3-103e328ad861&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-4ce4.up.railway.app#EPODONIOS
 
-# 21. Score: 130 | Reliability: 3/3 | TCP: 128ms | HTTP: 910ms | Speed: 0.50 Mbps | IP: 65.109.177.195 | EPODONIOS
-# Pass details: P1:1999ms | P2:1245ms | P3:910ms
-# Speed test: 0.50 Mbps in 5.38s
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&type=tcp&headerType=http#EPODONIOS
-
-# 22. Score: 130 | Reliability: 3/3 | TCP: 128ms | HTTP: 959ms | Speed: 0.43 Mbps | IP: 65.109.177.195 | EPODONIOS
-# Pass details: P1:2453ms | P2:3030ms | P3:959ms
-# Speed test: 0.43 Mbps in 5.12s
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&headerType=http&type=tcp#EPODONIOS
-
-# 23. Score: 130 | Reliability: 3/3 | TCP: 144ms | HTTP: 553ms | Speed: 0.15 Mbps | IP: 91.107.146.59 | EPODONIOS
-# Pass details: P1:2665ms | P2:553ms | P3:1640ms
-# Speed test: 0.15 Mbps in 5.22s
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&headerType=http&type=tcp#EPODONIOS
-
-# 24. Score: 130 | Reliability: 3/3 | TCP: 113ms | HTTP: 659ms | Speed: 0.76 Mbps | IP: 152.55.184.24 | EPODONIOS
-# Pass details: P1:826ms | P2:771ms | P3:659ms
-# Speed test: 0.76 Mbps in 5.08s
-vless://fd410906-cb49-760c-8c7b-64e230f8d4d4@1405-4-19-ansooyefilter-telegram.up.railway.app:443?encryption=none&security=tls&type=ws&host=1405-4-19-ansooyefilter-telegram.up.railway.app&path=/ws/fd410906-cb49-760c-8c7b-64e230f8d4d4&sni=1405-4-19-ansooyefilter-telegram.up.railway.app&fp=chrome&alpn=http/1.1#EPODONIOS
-
-# 25. Score: 130 | Reliability: 3/3 | TCP: 127ms | HTTP: 673ms | Speed: 0.79 Mbps | IP: 141.227.130.212 | EPODONIOS
-# Pass details: P1:1033ms | P2:829ms | P3:673ms
-# Speed test: 0.79 Mbps in 5.03s
-vless://3f176170-afe0-4847-91f9-64e05d004eec@netherland.panelbaz.com:5000?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=qq&type=tcp&sni=play.google.com#EPODONIOS
-
-# 26. Score: 120 | Reliability: 3/3 | TCP: 268ms | HTTP: 728ms | Speed: 0.59 Mbps | IP: 108.165.236.6 | EPODONIOS
-# Pass details: P1:932ms | P2:872ms | P3:728ms
-# Speed test: 0.59 Mbps in 5.02s
-trojan://MITIVPN@basecamp.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=D--e&host=De1-2-3.MaQRor.Ir&sni=de-jodo.MaQRor.Ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#EPODONIOS
-
-# 27. Score: 120 | Reliability: 3/3 | TCP: 268ms | HTTP: 755ms | Speed: 0.75 Mbps | IP: 205.172.57.27 | EPODONIOS
-# Pass details: P1:755ms | P2:1130ms | P3:1111ms
-# Speed test: 0.75 Mbps in 5.03s
-trojan://MITIVPN@basecamp.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=U-s&host=my-usa-ol.MaQRor.Ir&sni=UsAa-bUs.MaQRor.Ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#EPODONIOS
-
-# 28. Score: 110 | Reliability: 3/3 | TCP: 160ms | HTTP: 772ms | IP: 45.131.185.203 | EPODONIOS
-# Pass details: P1:875ms | P2:869ms | P3:772ms
-trojan://MiTiVPN@giantfood.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=f--l&host=f--ls-Fl.MaQRor.Ir&sni=fl-o--7-flla.MaQRor.Ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#EPODONIOS
-
-# 29. Score: 110 | Reliability: 3/3 | TCP: 112ms | HTTP: 678ms | IP: 152.55.184.28 | EPODONIOS
-# Pass details: P1:736ms | P2:690ms | P3:678ms
-vless://89840694-089e-5f2b-5928-fbeaa3b23108@x4g-production-8b77.up.railway.app:443?path=/ws/89840694-089e-5f2b-5928-fbeaa3b23108&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-8b77.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-8b77.up.railway.app#EPODONIOS
-
-# 30. Score: 110 | Reliability: 3/3 | TCP: 176ms | HTTP: 675ms | IP: 146.0.79.33 | EPODONIOS
-# Pass details: P1:730ms | P2:675ms | P3:712ms
-trojan://MiTiVPN@104.16.71.48:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DN--l&security=tls&alpn=http%2F1.1&insecure=1&host=n-la-nbad.MaQRor.Ir&fp=chrome&type=ws&allowInsecure=1&sni=nland-o-nl.MaQRor.Ir#EPODONIOS
-
-# 31. Score: 110 | Reliability: 3/3 | TCP: 32ms | HTTP: 963ms | IP: 51.159.158.233 | EPODONIOS
-# Pass details: P1:963ms | P2:3738ms | P3:1389ms
-trojan://humanity@2.144.21.112:40443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
-
-# 32. Score: 110 | Reliability: 3/3 | TCP: 111ms | HTTP: 701ms | IP: 211.49.57.175 | EPODONIOS
-# Pass details: P1:701ms | P2:1497ms | P3:1483ms
-vless://2ff7eec6-da48-46ab-b770-5c83400a528c@104.17.170.132:8880?encryption=none&host=icy-glade-ad0f.412.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#EPODONIOS
-
-# 33. Score: 100 | Reliability: 3/3 | TCP: 224ms | HTTP: 822ms | IP: 95.141.241.216 | EPODONIOS
-# Pass details: P1:890ms | P2:875ms | P3:822ms
-trojan://MiTiVPN@104.21.55.230:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=s---w&security=tls&alpn=http/1.1&insecure=1&host=bw--ivs-b--vvs.MaQRor.Ir&fp=chrome&type=ws&allowInsecure=1&sni=wbjj-bbcs-.MaQRor.Ir#EPODONIOS
-
-# 34. Score: 100 | Reliability: 3/3 | TCP: 268ms | HTTP: 865ms | IP: 84.32.217.55 | EPODONIOS
-# Pass details: P1:865ms | P2:879ms | P3:1106ms
-trojan://MiTiVPN@basecamp.com:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=s---w&host=bw--ivs-b--vvs.MaQRor.Ir&sni=wbjj-bbcs-.MaQRor.Ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#EPODONIOS
-
-# 35. Score: 100 | Reliability: 3/3 | TCP: 1131ms | HTTP: 897ms | IP: 186.190.211.188 | EPODONIOS
-# Pass details: P1:897ms | P2:3011ms | P3:1227ms
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?encryption=none&security=tls&sni=186.190.211.188&insecure=1&allowInsecure=1&type=tcp&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#EPODONIOS
-
-# 36. Score: 100 | Reliability: 3/3 | TCP: 129ms | HTTP: 1238ms | IP: 186.190.211.188 | EPODONIOS
-# Pass details: P1:1592ms | P2:2913ms | P3:1238ms
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#EPODONIOS
-
-# 37. Score: 100 | Reliability: 3/3 | TCP: 129ms | HTTP: 790ms | EPODONIOS
-# Pass details: P1:790ms | P2:3360ms | P3:1378ms
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=/?&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#EPODONIOS
-
-# 38. Score: 100 | Reliability: 3/3 | TCP: 1131ms | HTTP: 598ms | IP: 186.190.211.188 | EPODONIOS
-# Pass details: P1:598ms | P2:3706ms | P3:1735ms
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=/?BIA_TELEGRAM@YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#EPODONIOS
-
-# 39. Score: 100 | Reliability: 3/3 | TCP: 1233ms | HTTP: 889ms | IP: 45.92.218.81 | EPODONIOS
-# Pass details: P1:3375ms | P2:889ms | P3:4234ms
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#EPODONIOS
-
-# 40. Score: 100 | Reliability: 3/3 | TCP: 96ms | HTTP: 1631ms | IP: 152.55.184.101 | EPODONIOS
-# Pass details: P1:2879ms | P2:2053ms | P3:1631ms
-vless://3aedf221-f6c5-9f8d-49da-2547c302cb03@rvg-production-aa24.up.railway.app:443?path=/ws/3aedf221-f6c5-9f8d-49da-2547c302cb03&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-aa24.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-aa24.up.railway.app#EPODONIOS
+# 40. Score: 110 | Reliability: 3/3 | TCP: 103ms | HTTP: 821ms | IP: 87.239.250.189 | EPODONIOS
+# Pass details: P1:904ms | P2:1113ms | P3:821ms
+trojan://MiTiVPN@104.17.122.62:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DFL-44&host=f--ls-Fvl.MaQror.IR&sni=fl-o--7-fllav.MaQror.IR&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&allowInsecure=1#EPODONIOS
 
