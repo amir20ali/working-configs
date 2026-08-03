@@ -1,0 +1,84 @@
+# Working V2Ray/Xray Configs
+# Generated: 2026-08-03 12:38:22
+# Total working: 16
+# Total tested: 4159
+# XRAY core used
+# ================================================
+# IMPORTANT: These configs are tested on Shatel Internet Provider Network
+# Performance may vary on different ISPs
+# ================================================
+
+# 1. Score: 140 | Reliability: 3/3 | TCP: 131ms | HTTP: 559ms | Speed: 3.21 Mbps | IP: 172.237.121.128 | EPODONIOS
+# Pass details: P1:603ms | P2:559ms | P3:586ms
+# Speed test: 3.21 Mbps in 2.49s
+vless://de5dcb9e-6a72-45a2-8d3d-de00e5431426@49.13.232.160:22012?security=reality&encryption=none&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&headerType=none&type=tcp&sni=login.yahoo.com&sid=c6e19c434dc87df7#EPODONIOS
+
+# 2. Score: 130 | Reliability: 3/3 | TCP: 111ms | HTTP: 942ms | Speed: 0.15 Mbps | IP: 51.159.158.233 | EPODONIOS
+# Pass details: P1:1349ms | P2:986ms | P3:942ms
+# Speed test: 0.15 Mbps in 5.07s
+trojan://humanity@2.144.21.112:40443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
+
+# 3. Score: 130 | Reliability: 3/3 | TCP: 112ms | HTTP: 665ms | Speed: 0.79 Mbps | IP: 104.28.196.57 | EPODONIOS
+# Pass details: P1:665ms | P2:705ms | P3:726ms
+# Speed test: 0.79 Mbps in 5.11s
+vless://4f5f4219-b7c2-4eb3-b07d-fd390d35107b@www.speedtest.net:8443?mode=auto&path=/cdn/cache/pg&security=tls&alpn=h3,h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":"5000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000","xmux":{"maxConcurrency":"32-64","hKeepAlivePeriod":25,"hMaxRequestTimes":"1000-1500","hMaxReusableSecs":"3000-5000"}}&insecure=0&host=dl.iransamanegostar.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=dl.iransamanegostar.ir#EPODONIOS
+
+# 4. Score: 130 | Reliability: 3/3 | TCP: 124ms | HTTP: 603ms | Speed: 0.31 Mbps | IP: 144.31.179.7 | EPODONIOS
+# Pass details: P1:603ms | P2:841ms | P3:652ms
+# Speed test: 0.31 Mbps in 5.14s
+vless://840336f4-2c42-4f97-9f0f-97f13642bc5a@get2s.skystreamgame.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&security=reality&sid=4326&sni=get2s.skystreamgame.com&type=tcp#EPODONIOS
+
+# 5. Score: 120 | Reliability: 3/3 | TCP: 431ms | HTTP: 908ms | Speed: 0.86 Mbps | IP: 152.53.12.245 | EPODONIOS
+# Pass details: P1:1714ms | P2:1166ms | P3:908ms
+# Speed test: 0.86 Mbps in 5.03s
+trojan://521314@millionaire.levikogjgfdd.ir:443?path=/Leviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#EPODONIOS
+
+# 6. Score: 120 | Reliability: 3/3 | TCP: 431ms | HTTP: 903ms | Speed: 1.11 Mbps | EPODONIOS
+# Pass details: P1:1245ms | P2:1072ms | P3:903ms
+# Speed test: 1.11 Mbps in 5.01s
+trojan://521314@millionaire.levikogjgfdd.ir:443?security=tls&sni=tjplay.lxdxo.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=tjplay.lxdxo.kdns.fr&path=/Leviko_v2ray#EPODONIOS
+
+# 7. Score: 120 | Reliability: 3/3 | TCP: 431ms | HTTP: 923ms | Speed: 1.08 Mbps | EPODONIOS
+# Pass details: P1:1388ms | P2:923ms | P3:956ms
+# Speed test: 1.08 Mbps in 5.08s
+trojan://521314@millionaire.levikogjgfdd.ir:443?type=ws&security=tls&path=/Leviko_v2ray&host=tjplay.lxdxo.kdns.fr&sni=tjplay.lxdxo.kdns.fr&insecure=0&allowInsecure=0#EPODONIOS
+
+# 8. Score: 120 | Reliability: 3/3 | TCP: 112ms | HTTP: 447ms | IP: 91.107.138.191 | EPODONIOS
+# Pass details: P1:1401ms | P2:447ms | P3:457ms
+vless://35c13bb9-9d22-4d89-bfd2-76fe7abf04ff@194.77.220.41:28?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+
+# 9. Score: 120 | Reliability: 3/3 | TCP: 246ms | HTTP: 1165ms | Speed: 2.04 Mbps | IP: 170.205.30.56 | EPODONIOS
+# Pass details: P1:1619ms | P2:1165ms | P3:1498ms
+# Speed test: 2.04 Mbps in 3.91s
+vless://shady-vpn-shady-vpn-shady_vpn1@second.shadydomain.qzz.io:37789?mode=auto&path=/shady_vpn@shady_vpn@shady_vpn@shady_vpn@shady_vpn@shady_vpn@shady_vpn@shady_vpn@&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"1-1000"}&pbk=UkvgTlCFgSf2A2FtCJISg8r3hhRQbbfJIpQ6mSlL71k&fp=chrome&spx=/4e5be2e8ed40954&type=xhttp&sni=www.cloudflare.com&sid=0dadb8f893#EPODONIOS
+
+# 10. Score: 110 | Reliability: 3/3 | TCP: 208ms | HTTP: 1006ms | Speed: 0.90 Mbps | IP: 213.32.31.113 | EPODONIOS
+# Pass details: P1:1058ms | P2:1151ms | P3:1006ms
+# Speed test: 0.90 Mbps in 5.01s
+vless://49e76398-5127-4005-90cb-c2a971f745f1@162.159.38.119:443?path=/all&security=tls&alpn=h2&encryption=none&insecure=0&host=ncrem.sunrocketbox-fla.sbs&type=ws&allowInsecure=0&sni=ncrem.sunrocketbox-fla.sbs#EPODONIOS
+
+# 11. Score: 110 | Reliability: 3/3 | TCP: 134ms | HTTP: 463ms | EPODONIOS
+# Pass details: P1:463ms | P2:1215ms | P3:470ms
+vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.53.197:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
+
+# 12. Score: 110 | Reliability: 3/3 | TCP: 349ms | HTTP: 1096ms | Speed: 0.50 Mbps | IP: 60.249.101.13 | EPODONIOS
+# Pass details: P1:1096ms | P2:1214ms | P3:1981ms
+# Speed test: 0.50 Mbps in 5.37s
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?encryption=none&security=none&type=tcp#EPODONIOS
+
+# 13. Score: 110 | Reliability: 3/3 | TCP: 141ms | HTTP: 527ms | IP: 162.19.228.119 | EPODONIOS
+# Pass details: P1:827ms | P2:527ms | P3:1925ms
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#EPODONIOS
+
+# 14. Score: 100 | Reliability: 3/3 | TCP: 118ms | HTTP: 1033ms | IP: 2.26.252.199 | EPODONIOS
+# Pass details: P1:1039ms | P2:2334ms | P3:1033ms
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.67.66.177:2095?&type=ws&headerType=none&host=cnmfangbinxingnmsl.cnm-fangbinxingnmsl-250.workers.dev&path=/#EPODONIOS
+
+# 15. Score: 100 | Reliability: 3/3 | TCP: 123ms | HTTP: 992ms | EPODONIOS
+# Pass details: P1:992ms | P2:995ms | P3:1029ms
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.146.153:2095?type=ws&host=fangbinxingnmsl.pusytroller.gq&path=/#EPODONIOS
+
+# 16. Score: 90 | Reliability: 3/3 | TCP: 270ms | HTTP: 1018ms | IP: 206.82.3.130 | EPODONIOS
+# Pass details: P1:1018ms | P2:3441ms | P3:1496ms
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+
