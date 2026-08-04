@@ -1,84 +1,60 @@
 # Working V2Ray/Xray Configs
-# Generated: 2026-08-03 12:38:22
-# Total working: 16
-# Total tested: 4159
+# Generated: 2026-08-04 23:50:25
+# Total working: 11
+# Total tested: 4356
 # XRAY core used
 # ================================================
 # IMPORTANT: These configs are tested on Shatel Internet Provider Network
 # Performance may vary on different ISPs
 # ================================================
 
-# 1. Score: 140 | Reliability: 3/3 | TCP: 131ms | HTTP: 559ms | Speed: 3.21 Mbps | IP: 172.237.121.128 | EPODONIOS
-# Pass details: P1:603ms | P2:559ms | P3:586ms
-# Speed test: 3.21 Mbps in 2.49s
-vless://de5dcb9e-6a72-45a2-8d3d-de00e5431426@49.13.232.160:22012?security=reality&encryption=none&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&headerType=none&type=tcp&sni=login.yahoo.com&sid=c6e19c434dc87df7#EPODONIOS
+# 1. Score: 130 | Reliability: 3/3 | TCP: 225ms | HTTP: 956ms | Speed: 1.10 Mbps | IP: 82.39.154.132 | EPODONIOS
+# Pass details: P1:956ms | P2:1543ms | P3:2273ms
+# Speed test: 1.10 Mbps in 5.55s
+vless://f3ca0464-f6cc-4c60-a237-df97544ebf8a@ops.mobleamiri10.ir:12060?security=reality&pqv=BS0bct83nZO1p8VnBf5dCmpQFhr2lK4tZaopVyG1PkDC3c6KvTnEIdlOVKF83u_krikmzuTSsbHPz6InqPn1PZna0f2L6fv9cG8dDkj5JfmKUvK-Fu9t9Z1q5k3t8iRdJ7JnegdXi8TDp1MWWM3OQyShSSqu-PlKlVe9Ks06z_Ja7npKFkyf1Gmc4QeYWPgzvNePdkDwUURcuR2o5x7kJVhIaoi4Fvfr-J2JX1usbWLcf_XFvo8eNwfy9o6bFfZZ_vUVzdzgiQpS6hs0uxbQBOsXOut_qVJMkuTDyd_e_PWaEef7sYEw_kKPgVIMb8hqbLcfy_-8JRST4aadg7AwqaGPcwRE0R0Y5Fvvmo8_AThRtNBS5z6n2UwkFSGtxedXJGuMWW5K6G9KmjKUIsGgiHtYVb9IdBhDjMgmMEnQN-GNiUEbq4wcLwzkY5qCMvMZB2VagrP6H5SW-0M8NV_oljF2MC7al7Af1dyIxka4sT_vuDisTCF942A-gpKVNHgAS92VmN992XykLUj8JNY6XPvqcL8Y5xCqf06yLitejw_8svsN-Ode-x8IK8lvxRLVUgj9nL2BPpmeuIdTgOSxtRU2yUn4MvAoyNU7j1qYG3x25Z1fjfj5kYEoxCNN0259mbgKVlts5Fb4UjAaIIVKtLSmEiE65jqNpv4UrlychDapSsXHaxOgvN-RyWM-LSFW9TQmowy80KyfW6PJ_t_kLeoTdf_TZVeALc4jNQ8pTVWK_bAIMTdEshHyr3ZkvLIiznSGDp9Z611E0P3V_8Tdd8YZ8PmiZViRGGVs6O-FyO_eXwWoMrH3GE7RS6jtFllA5kk9g3bjVto1VecJ8XM0gGAmWKjJs9HO0CqEA-LosMUAt8rZQFXuVeOgHOXppsA-AAN9kMIoh2AMpWiIeuf9Dllq1ASY8PDkuC1J9QKeKQSaC_m207b5tS6i9vzUki2UeSACFV9GrdDfkifbrsqIEDOvQbBFXs3b1otAaY-g-psIQvIc6Ti7HeASEoeuvHnJ4THaMJwVcf9G6yHsvehU99iT7ou8R0zqWdmkbn6WEsPzmomWwCf0Us0RhkNxnpmr_nXlptJvg7up9vYWjuFeec1FWhGFa0TsYQCUZ0b75GE9AV1FVZeZB-IEsAvguPnlar5iNdHDVvZ8n-yhJdCWVXp9zY5TFp9Zl0oSiuY2dG7M46qWozR9CmghAiXzPHY7yzM3TBQYShdyVuvsuxEjUn5eetN2_ZVBdsRmoO7xKS3yaspvDOBH2GNGARrBav7JZCUpsMJ8TTFjd58apZG5U7bpKfmwSEW3pHLvtVmIvD3-BKPMitjjuio_gVTdepgNHrVOiZi37DEcNs2PALlTqVDqTTCuX_IK9URwQrNsU-p3PXoFjlAMrvUENgflUOvHElf2n1d6wS_yBgcc9SwuaYULBMpaVLhCFi3vOwH69NlPFxJhXUjj3BS2Hs9qoZzr-MZfoJYpwF9XhV0HThUyljMEtueAgkUPLbqFlI2CnRrQpvRyPt8UZubXomXrUtVmUaaCcD_7f8FrhK8xGgGhFmrFZCVIQe5uZpOKX7MhW0b-wl9-YdbdsOn1v_6RT74pEL25Neeb3wrvRoHca4xIics3PETgNnTecE_yBo4uar7SE4RZihPRdbaRlfCmLVZ0sfcEUO1duh130bDu2MTFvsj4dZwle4IqXXDX1tFMDiPEiWs8Xcf9T-HWqcEQsHKynwHsqXtXMGHgAjBokTEq4A3UQAqt8pXh7v4voKw15TFUYnpHU6pkMXUFvhLk0r4ujk9OQwFhX6ObCMcFWj1kmTDSz3E3Sz0U2kpNg4EVxCBd5Spzok_Y0eQnczdenIUgK_zjOiEhUPq9uCEHzrGAqts1DqppDwBgAhUghR1YterleTPYCPkokGH28asoCDM-Fkl9Cxs4mW9NKqxnZ57ptr8mLw-AeJCqy-wo50EqafVkBggnqjqOnwwTo59xOOA6bXBajhLrr8jugtDnUw7-NyteAzm3lUIEZaeXGe_Cum8QVVWPhV43PfX-tP6LfOWKuHNrwHHD98ukuBzCv3I6K2FoDvaINOZW8uLnSrMmQV9__cVwZTzd8Hn3AMZblG9OAVG_tl92OHzHmp1LT730rXVclOTLQJ1ddYvbS0Gpm21Y-VXmZoxKxoBAaMmxFt-bxNqH12cGX5mfv3U0cWUBNiwCGwiCXMUUzEzoI7xQc_DOTxvCz-1E2hs9FPFLTUWhjfpDYl5W8hCgk471w7eHOPT-CMSl76fOJYL_RFHEDDBgYhxWq4wIo5CYTwBeTpTKKAGF19dtcj7KXZy4OV9o0dCKQy6RNOCuSSylHU0CNx48flzJxeZ4qxq2Cuz05QYqMPvVjJf_BKvQ7F5u6eIVw-0evEUo5TTi_i-l5231tG_sry_6pPnqeDzkP8r9G9orpOiPR2kWovaS89PfTjILwijlFsCISNib3OChLeBLNwykI1eJ-M1Ug6PUovXHGBgQ44j1oEavaBxu7ekmN2Mbp-h6G6OQxk-LCwjDTvKVd8ursB_LjNqNgIu-R1Z_0h22NeMJh77eNMiX9gbyXSxnT22Wq5ds6IbFrViF7fM2JBM&encryption=none&pbk=B-tuPcA2tHUlR7p67Z5I3MQek6XPGfhGKg8N3wPekF4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=8e33e34bc732f832#EPODONIOS
 
-# 2. Score: 130 | Reliability: 3/3 | TCP: 111ms | HTTP: 942ms | Speed: 0.15 Mbps | IP: 51.159.158.233 | EPODONIOS
-# Pass details: P1:1349ms | P2:986ms | P3:942ms
-# Speed test: 0.15 Mbps in 5.07s
-trojan://humanity@2.144.21.112:40443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
+# 2. Score: 120 | Reliability: 3/3 | TCP: 106ms | HTTP: 413ms | IP: 178.83.157.2 | EPODONIOS
+# Pass details: P1:413ms | P2:2685ms | P3:454ms
+vless://d8b42cd5-a149-4356-9e61-000000000000@95.214.38.159:2550?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 
-# 3. Score: 130 | Reliability: 3/3 | TCP: 112ms | HTTP: 665ms | Speed: 0.79 Mbps | IP: 104.28.196.57 | EPODONIOS
-# Pass details: P1:665ms | P2:705ms | P3:726ms
-# Speed test: 0.79 Mbps in 5.11s
-vless://4f5f4219-b7c2-4eb3-b07d-fd390d35107b@www.speedtest.net:8443?mode=auto&path=/cdn/cache/pg&security=tls&alpn=h3,h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":"5000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000","xmux":{"maxConcurrency":"32-64","hKeepAlivePeriod":25,"hMaxRequestTimes":"1000-1500","hMaxReusableSecs":"3000-5000"}}&insecure=0&host=dl.iransamanegostar.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=dl.iransamanegostar.ir#EPODONIOS
+# 3. Score: 120 | Reliability: 3/3 | TCP: 228ms | HTTP: 980ms | Speed: 0.73 Mbps | IP: 167.233.25.228 | EPODONIOS
+# Pass details: P1:980ms | P2:1568ms | P3:1747ms
+# Speed test: 0.73 Mbps in 5.57s
+vless://f3ca0464-f6cc-4c60-a237-df97544ebf8a@hde.mobleamiri10.ir:3770?security=reality&pqv=8AP24vVamtMkO5wxGU9rppbya-sUAh-gsSd6tOeaIrkCLX4hpbd4gWLQY8_ENSGU-LI-YhR2kF9ciLhKXpgCb-dc8pvkJK58AsCCkGKZmcKNIVB9q4rUhu7TRTTaVKieMatZMHNgV99GTnQgLJerSKr6CRxEB7yxse6W9i9KDiSTW92pkuiF2-KVT6eVigc5ukyCLq3VFtzJWwcu4dG0zXSlUOesa-lgkKmfoZe1wRRlgJH7A6GwRYQTKcU-CmsP0r9frfAKgFO3VtHCe4WsWh-nJte7BYbDm9_yt8thFG-oooQYahbWWJKXszFBzYft-Qt-QoFbBO3EN-mFYHbpEpII6The-WVXdzDKDoimGyRZiZp2XNOsnmfNkWXFTyE8LX3smX7CjU17wlNXnvCYXOEELYouaPdClD52oWQx4MEI9TEI_w5DzsWMnTYC3Q6YCT1kwFMKSMr7M6RN6nmv7ZUUmf2-vSLJEqZpTt4TnyiaiODtkPVYuavH7uWYUhE4W60AZivEEPDdCSx7kwUjDxdDCJHnetXfYFMeIrUUXkpKPDcaqd4vVboGUw5Medi0Idhj_1Pr3pT5MFIAA5m_-2ivczfo9JO-amrXfvPNkRvzz0zoukMH_-58EGTi0RsmxOzgelRTQYTAYXmBVBfOG8A3cb_SX57xqfWdyTpXDP2IN522FhQe3mLB8B6y9hNcNwGxxzE8lmY5ewJYL14k81GdDhG_asOvQD6OMqASrPF3Or8eD4dKFsnAbkKPjh_8xtQl0WA2zRqw2vYZNepp_88Z998jgaZreuUvoar7BY1WErMJ-zVru76Z18SJLBFaueVa6h8akhnhCIYquwR6VorOB1bqy6qYd4aWIdJ_y2PQlwHj9z8x1H010bGBLO7usVueQ_286uZ0xbJA7K-suyOG8eyFoMXwUtzpmOOjkc7aheRMvlul6uKojhmX_Oo2rzp_YGtUJNRD4iAahXq3qgKOzOYT6_bLCk8FuHx4QUMk0aD9ING09-UaTQhZ_K4MpPTUmebDFHQ8owei1jgFU4NQOUthSgYE1ntUSYaytz7B8BLRFjNVNJF0sWlMx1c1yEzFUgQ5fh_RafF1rR9mmqgT-h38W3ijfvfsaBg8loQQtrom-PBqjVuVhXNZiTf8jZKgV2lWaIiUpe1qRfiO3wjuJj9sHkX0Rwma88phF2mfOJa38yL3zfrcr9YSn9qNcoD_SmQxztV_bN9azPUowblzA577M3JYzOpciqBqHTdVUvH9P5lEUcpeaXQgbEH-Y6b9CzpUEKORNOtk1zi4NCOBI6MRPNvq-e-QuPL4tQE1W4w4cdFuBUSmcnqDV2iQpz6RUE4ZSyPJU_pFx509W_e1PziD0ZQf8JF9kkZRmYa6P6jiRDuSXEci61WEAPd8CElIKjlqjbmO2oJgJZtc18d6YpZVAWNtSTcOkvEEr0C81z4R7PbKz8aa5lN4C8GVeOWzre0qWImgIz4YVl2Sk2O8i8kymfaSu8RAlS2qmSbA-dMyhX0iB17PZwbLEBQhHbvwdPFBy27g9bSl8OV9ML7nciiYXyGJX2h5yHvagmQC0tctGC4ojlslenCIgAOY5-m1PqdssKxZXdLwxVRaka4ZG6tJiFRt0hvE6oSXNRXETNOBxmCoH0MUoVkVd6AZ7YuBXPinOpC4rCpTuyJuMTs3W28hE2oJ-sR75fstuWQBExARRfRY3LhN_hbSCMx5wL7sC3R-DudVADn7pANxn6vQBr6FS-GuWYpo2vpSDaQBC3YwJJK9OzPKo7gnBbg36fknJ9WeCesEuXhxHm5v81BTdqS1sQX7eN2hIYXaW2Cs2e8e-nmaqJHC4dbWlINN6t7Xf5PZzdGz4IzSqOT4gUUyzfEIQqEMiDyKxOzFaS_w5owCw5HI1ysAOhtpJ3hvidfQ743Q9L3U-Nlzn6-vw8ePa4Tq-_OcDgEJ1_lroieZR4YCZR6Jzrf03s0HYA7o6Mq1Yo9wWeO8jwAr6hsfu7JkqQYwCFVAh2YetfS2-DYqxJR3NM3lTEOMS2CTgWHporPAWjbWfUHcHCujDPNoBe6uEcZGfyGUIyGx2vdG_bUmxNSSvXt935F1BtZ18fqQk8SboUDEsb9SQBBOnjVL9t8Tl9xap7qiIcxGXJIJyfEs0g4AShnnudQQwL6DTrBexG3zi4ElnU0DYr2aqikqFmo9Ur1ohhjk1uBlraVTFD44Km29KyoJUN05-szd0065ZyY-V04rNOpk_um7onIePcrzdo-p3KhHCbi5nC78ntk6VNaauqrW6pnGzV1v5FSB7LzcJxQJaHY07-f5s658dk4nDI2nWZHCsfss9r-8m8htpBFN5BNtyxfUx_DXFYYKKx_mDq-Et4qpNFuqbIAUhRFFIFw1vsvfFv7mvSQPZQLIBBynQqnNVcVOvLnB5SyR8IoZ7Ktm8XPpPxulCf6P2I7qZsl6sdCWrg9tBY9C5Cc7lxPu0UWMm8KsJDqGgSpAZLxjU8YNB-SwkelLbcothvJTiNZcbaxn301meGAryjtmr3XjkuFeNHkgj442VT0A3HWjfYYBNvL9m_DWTSFjXKkr3Tit2MI-_dcvWzNXyiM&encryption=none&pbk=ELP_3NkuidJ_Ze66sWRte1sRb_Wxnp2XSk4E5-nN4T0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=1a6ce783b05a09b0#EPODONIOS
 
-# 4. Score: 130 | Reliability: 3/3 | TCP: 124ms | HTTP: 603ms | Speed: 0.31 Mbps | IP: 144.31.179.7 | EPODONIOS
-# Pass details: P1:603ms | P2:841ms | P3:652ms
-# Speed test: 0.31 Mbps in 5.14s
-vless://840336f4-2c42-4f97-9f0f-97f13642bc5a@get2s.skystreamgame.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&security=reality&sid=4326&sni=get2s.skystreamgame.com&type=tcp#EPODONIOS
+# 4. Score: 120 | Reliability: 3/3 | TCP: 225ms | HTTP: 962ms | Speed: 0.62 Mbps | IP: 104.234.138.52 | EPODONIOS
+# Pass details: P1:962ms | P2:1513ms | P3:2234ms
+# Speed test: 0.62 Mbps in 5.51s
+vless://f3ca0464-f6cc-4c60-a237-df97544ebf8a@ops.mobleamiri10.ir:12040?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=fQDkeiBisubMkwd06rtA26vkl3ha2pckM7TrFdh400U&sid=6c68bc8692a8d9a4&pqv=4WE9SLzFC4s-_MVYuuhEIrjggtkr0S5elyQdljMToVrkMHfuNR8shB6k87pWVHA4lVjvk8bwYcLRSAxaCJ0m_j7XdC-evWO0vS9ekZotBZyfUyP9SwfhLEEa56R6MpODAnGUCXhrhzcW4q6Ftsuo2KrlHKcsR9-SrtG0fc-C_cK1uaZJneefUqDphTOdGGNrMKl2_NureTSZE-3ziLpRtCCjofG6tWUk72PYcMf-weOj811wjkOeSRHGCjQQS-C1IFhZ48psZFdmc4WVsCRwz42oEqqNvfiJYwQAx2BEzSTsMQPuCNH0A2rVyULjWc24tT1lOt9txKKhBLRC1HNcx1X24zApceP8MNSfqJzKZe_TJJRZ5ezwVxUryJdHAUx32quvf0M6PSpJpUWx4SJQvJHKgMEljt0SGWwflYFNfPdP0vs2FMU5-A268XXh4tU0jEzm9Mn8MNrBtaraTpBidLN1QtpgDpfOobzmtJlZTcxk_jhwtbrCjo2n2WqmkgUCG_8TdvvIxrC3OaAuV5lnpzySCQVBFzXZs7WsKAZsxS0NIyTf8j4xN8qzVCzyW8gbToHb0mhqdRlw9vsbfo5Z1SzpvibSup2W030GeouIXownL09kmRiE6oCsSX-C36sDatoVENWeAKENp7pIhKRXYstOoflGmxaz7TJSaXoC7zAgMmsP6cxbPRZyCi4MfcwnyqyBH9qTFaSqsNg7qHMAyIVTdMea-zW5cseR1wMZ7F_7ar0IXttxCm0j52GESDrwmTmetNUPQovdw7bb1IQboo00b0ksrq609Z8efz2WhMIj5jLDqJCFJj21qXU_VjbvmIsN8hFcRUhY0vw44DvtldqEDatkEhftfyqLyuh4e5EJqJ0voIdt_esN4Iguy4dV0SLkWlZxnBwQ94MMATgqX1-jRaOYIBEfK_yaNdyh7y3djFB78fk8mxeT6IVnhUSlEIKCI3gwyEpgPKvf5U1t56aKtp5j7GkOH41hYPfi68ALgQGlN90MOIuWKljPwuUSJd_za_NeGdYQjdZvSbki9gmyETit1VE39myuSxXuLpP9-HBIHgW3_LKMrvGtRSP8jR-oduhDA6C3hfifihbLQFAv2CnJxidiKjc2yp_XXc06Z-2O_SxM2LNzerGu1Y7bNmiMJ-8ulPylRbaDbUiCXF4FtRrotXIvfuEh9XHeb26qVY58OeUCOlcXVOTNBppvebzYX08-d2RvPbDFtvZQVR8R7nBTShudqzJoxzLwSMSPG9460OKDWcRtW25Q9mTDA7ZltdugQePcNicY1nbJUwSz3TE9QADVC8umuprgnGzP_eRr34FJopDjOhvblVLByWKdM7w-8RcqDFFW7OuRSHLcmH9a3L_9qQcR3CdUGuOeaA274bCxSmqZwIx4Xgq0PKQvxBVLtWxi1ycGAUs79EjFlJ3yYVLEl9i-JFzm1tuy4xoVGMUXG9Qq1nZc3O9fcjjm_VDG6atlYQuWadsXBrS5AVBIsCcttdgvpOY3aXshR0Qpp6R3Urh-aP5tx3PeRdQGLYUk7l4JeBGyuoPgii92Hhu4XOp8zVtP3588lpPfeqCf64DTzP3d2HozyWRQ9S4iGGx3rMS3YceRYSC38hm7U0H876LqJmA5AQFO-YhlqWWGEU8H_DGkaSHniYks2NGc4MXcmM09RfhFLnGROvUb4-HWueZewylX-TccRcF6X3Dhx6vF5YCya_zjJnsElcIzfhS2iZhyZ5oZHz_A5K3AsPHVBD6vjDrFXzgbe-Svu0DSsYt7rU01u87Kve_hJt-xtMD5wqSVgB1C9M7ckUQLpuxQDnn3pDrT1bmfnKEjUVJpkfwXQW56KFnXj618oktMIXcEsnh5CyUtGFhcqndazYw2uj_7fFpvdrmgMV0kSSjVEsK5lZDFQVD48k4Du7qkhGKPPz1CjjQ7GppebdSlMZ8Hdru9nJz4QFOGiFy5dQa4GT9WgYZ7j-qAEheuFBsc6OUjFINGyli64k1wjrvIs1X-cGJnM0GLcmm-nTOyYHen_tQxklHBYZxy7liV3SmHTMdi99ZqkrlJzr3Xswa143QPki2o6dLMSHH_zj9ITnPOvuQEzbinauuak_gKlNY_1Q8tioHhCC4ZgI_ONdLXx8oU0q9bLTzqs75LkVRt0PdVBEfb-ZRQ2HgVoFbfADse9vi2Sw2dloIgB8etwjUD4nF5fA0_DyX2hI32QvP5uxyeCm9pHcrLqq3DJ0LoWc3FoFVQqBy5ehr0j-hb3bEFv_TWDO8rqZDQv5WDqTP08zFwKAhcZ8al_uPpZptq-mWjsYM0CZmnpRq4FHgSZeJnwOchA_it4aheNHH8JZLkVktewA3PzJrhShpOYTYNZxnsdEE6kVMbXtdxNCA2401dBhPulOfDYkEfKVOfHwymXG7RKsfnnZXX8NcZXA3Xl28P3JEUjWb4cUnW7N9qHiojip4jFSte6MXBAVCmBNB-HDxgTT7o-QjbV2gV4JmaQ3-vD4bqoFkOEeerkwSQvEml6Nw1JseSQfqbAU3W-IZSG-izIiMg1mtUax8BbytF6tBAMOXhHDOHRStJl0XUMoqp6g11MvquhdbZhPfWk3s&type=tcp&headerType=none#EPODONIOS
 
-# 5. Score: 120 | Reliability: 3/3 | TCP: 431ms | HTTP: 908ms | Speed: 0.86 Mbps | IP: 152.53.12.245 | EPODONIOS
-# Pass details: P1:1714ms | P2:1166ms | P3:908ms
-# Speed test: 0.86 Mbps in 5.03s
-trojan://521314@millionaire.levikogjgfdd.ir:443?path=/Leviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#EPODONIOS
+# 5. Score: 120 | Reliability: 3/3 | TCP: 225ms | HTTP: 906ms | Speed: 0.55 Mbps | IP: 104.234.138.52 | EPODONIOS
+# Pass details: P1:906ms | P2:1431ms | P3:2264ms
+# Speed test: 0.55 Mbps in 5.30s
+vless://f3ca0464-f6cc-4c60-a237-df97544ebf8a@ops.mobleamiri10.ir:12040?security=reality&pqv=4WE9SLzFC4s-_MVYuuhEIrjggtkr0S5elyQdljMToVrkMHfuNR8shB6k87pWVHA4lVjvk8bwYcLRSAxaCJ0m_j7XdC-evWO0vS9ekZotBZyfUyP9SwfhLEEa56R6MpODAnGUCXhrhzcW4q6Ftsuo2KrlHKcsR9-SrtG0fc-C_cK1uaZJneefUqDphTOdGGNrMKl2_NureTSZE-3ziLpRtCCjofG6tWUk72PYcMf-weOj811wjkOeSRHGCjQQS-C1IFhZ48psZFdmc4WVsCRwz42oEqqNvfiJYwQAx2BEzSTsMQPuCNH0A2rVyULjWc24tT1lOt9txKKhBLRC1HNcx1X24zApceP8MNSfqJzKZe_TJJRZ5ezwVxUryJdHAUx32quvf0M6PSpJpUWx4SJQvJHKgMEljt0SGWwflYFNfPdP0vs2FMU5-A268XXh4tU0jEzm9Mn8MNrBtaraTpBidLN1QtpgDpfOobzmtJlZTcxk_jhwtbrCjo2n2WqmkgUCG_8TdvvIxrC3OaAuV5lnpzySCQVBFzXZs7WsKAZsxS0NIyTf8j4xN8qzVCzyW8gbToHb0mhqdRlw9vsbfo5Z1SzpvibSup2W030GeouIXownL09kmRiE6oCsSX-C36sDatoVENWeAKENp7pIhKRXYstOoflGmxaz7TJSaXoC7zAgMmsP6cxbPRZyCi4MfcwnyqyBH9qTFaSqsNg7qHMAyIVTdMea-zW5cseR1wMZ7F_7ar0IXttxCm0j52GESDrwmTmetNUPQovdw7bb1IQboo00b0ksrq609Z8efz2WhMIj5jLDqJCFJj21qXU_VjbvmIsN8hFcRUhY0vw44DvtldqEDatkEhftfyqLyuh4e5EJqJ0voIdt_esN4Iguy4dV0SLkWlZxnBwQ94MMATgqX1-jRaOYIBEfK_yaNdyh7y3djFB78fk8mxeT6IVnhUSlEIKCI3gwyEpgPKvf5U1t56aKtp5j7GkOH41hYPfi68ALgQGlN90MOIuWKljPwuUSJd_za_NeGdYQjdZvSbki9gmyETit1VE39myuSxXuLpP9-HBIHgW3_LKMrvGtRSP8jR-oduhDA6C3hfifihbLQFAv2CnJxidiKjc2yp_XXc06Z-2O_SxM2LNzerGu1Y7bNmiMJ-8ulPylRbaDbUiCXF4FtRrotXIvfuEh9XHeb26qVY58OeUCOlcXVOTNBppvebzYX08-d2RvPbDFtvZQVR8R7nBTShudqzJoxzLwSMSPG9460OKDWcRtW25Q9mTDA7ZltdugQePcNicY1nbJUwSz3TE9QADVC8umuprgnGzP_eRr34FJopDjOhvblVLByWKdM7w-8RcqDFFW7OuRSHLcmH9a3L_9qQcR3CdUGuOeaA274bCxSmqZwIx4Xgq0PKQvxBVLtWxi1ycGAUs79EjFlJ3yYVLEl9i-JFzm1tuy4xoVGMUXG9Qq1nZc3O9fcjjm_VDG6atlYQuWadsXBrS5AVBIsCcttdgvpOY3aXshR0Qpp6R3Urh-aP5tx3PeRdQGLYUk7l4JeBGyuoPgii92Hhu4XOp8zVtP3588lpPfeqCf64DTzP3d2HozyWRQ9S4iGGx3rMS3YceRYSC38hm7U0H876LqJmA5AQFO-YhlqWWGEU8H_DGkaSHniYks2NGc4MXcmM09RfhFLnGROvUb4-HWueZewylX-TccRcF6X3Dhx6vF5YCya_zjJnsElcIzfhS2iZhyZ5oZHz_A5K3AsPHVBD6vjDrFXzgbe-Svu0DSsYt7rU01u87Kve_hJt-xtMD5wqSVgB1C9M7ckUQLpuxQDnn3pDrT1bmfnKEjUVJpkfwXQW56KFnXj618oktMIXcEsnh5CyUtGFhcqndazYw2uj_7fFpvdrmgMV0kSSjVEsK5lZDFQVD48k4Du7qkhGKPPz1CjjQ7GppebdSlMZ8Hdru9nJz4QFOGiFy5dQa4GT9WgYZ7j-qAEheuFBsc6OUjFINGyli64k1wjrvIs1X-cGJnM0GLcmm-nTOyYHen_tQxklHBYZxy7liV3SmHTMdi99ZqkrlJzr3Xswa143QPki2o6dLMSHH_zj9ITnPOvuQEzbinauuak_gKlNY_1Q8tioHhCC4ZgI_ONdLXx8oU0q9bLTzqs75LkVRt0PdVBEfb-ZRQ2HgVoFbfADse9vi2Sw2dloIgB8etwjUD4nF5fA0_DyX2hI32QvP5uxyeCm9pHcrLqq3DJ0LoWc3FoFVQqBy5ehr0j-hb3bEFv_TWDO8rqZDQv5WDqTP08zFwKAhcZ8al_uPpZptq-mWjsYM0CZmnpRq4FHgSZeJnwOchA_it4aheNHH8JZLkVktewA3PzJrhShpOYTYNZxnsdEE6kVMbXtdxNCA2401dBhPulOfDYkEfKVOfHwymXG7RKsfnnZXX8NcZXA3Xl28P3JEUjWb4cUnW7N9qHiojip4jFSte6MXBAVCmBNB-HDxgTT7o-QjbV2gV4JmaQ3-vD4bqoFkOEeerkwSQvEml6Nw1JseSQfqbAU3W-IZSG-izIiMg1mtUax8BbytF6tBAMOXhHDOHRStJl0XUMoqp6g11MvquhdbZhPfWk3s&encryption=none&pbk=fQDkeiBisubMkwd06rtA26vkl3ha2pckM7TrFdh400U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=6c68bc8692a8d9a4#EPODONIOS
 
-# 6. Score: 120 | Reliability: 3/3 | TCP: 431ms | HTTP: 903ms | Speed: 1.11 Mbps | EPODONIOS
-# Pass details: P1:1245ms | P2:1072ms | P3:903ms
-# Speed test: 1.11 Mbps in 5.01s
-trojan://521314@millionaire.levikogjgfdd.ir:443?security=tls&sni=tjplay.lxdxo.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=tjplay.lxdxo.kdns.fr&path=/Leviko_v2ray#EPODONIOS
+# 6. Score: 110 | Reliability: 3/3 | TCP: 157ms | HTTP: 696ms | IP: 152.53.245.45 | EPODONIOS
+# Pass details: P1:1406ms | P2:696ms | P3:1803ms
+trojan://MiTiVPN@151.101.66.172:80?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/de---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=none&host=s1-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net&type=ws#EPODONIOS
 
-# 7. Score: 120 | Reliability: 3/3 | TCP: 431ms | HTTP: 923ms | Speed: 1.08 Mbps | EPODONIOS
-# Pass details: P1:1388ms | P2:923ms | P3:956ms
-# Speed test: 1.08 Mbps in 5.08s
-trojan://521314@millionaire.levikogjgfdd.ir:443?type=ws&security=tls&path=/Leviko_v2ray&host=tjplay.lxdxo.kdns.fr&sni=tjplay.lxdxo.kdns.fr&insecure=0&allowInsecure=0#EPODONIOS
+# 7. Score: 110 | Reliability: 3/3 | TCP: 468ms | HTTP: 1679ms | Speed: 0.28 Mbps | IP: 81.85.93.108 | EPODONIOS
+# Pass details: P1:2319ms | P2:1679ms | P3:1756ms
+# Speed test: 0.28 Mbps in 5.54s
+vless://c96cac1f-b41a-4357-93ce-1ea03752a23c@81.85.93.108:443?security=reality&encryption=none&pbk=MMaMNq7UrbMXznJDgKScOaUML1GuDQrP2pLiqR0sJgE&headerType=none&fp=chrome&spx=/06f722e66565a8c&type=tcp&sni=ns.cloudflare.com&sid=9d728b#EPODONIOS
 
-# 8. Score: 120 | Reliability: 3/3 | TCP: 112ms | HTTP: 447ms | IP: 91.107.138.191 | EPODONIOS
-# Pass details: P1:1401ms | P2:447ms | P3:457ms
-vless://35c13bb9-9d22-4d89-bfd2-76fe7abf04ff@194.77.220.41:28?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+# 8. Score: 110 | Reliability: 3/3 | TCP: 225ms | HTTP: 1118ms | Speed: 0.71 Mbps | IP: 163.5.214.131 | EPODONIOS
+# Pass details: P1:1118ms | P2:1503ms | P3:2321ms
+# Speed test: 0.71 Mbps in 5.30s
+vless://f3ca0464-f6cc-4c60-a237-df97544ebf8a@ops.mobleamiri10.ir:12020?security=reality&pqv=2xJ848Lkd7GKj-K0fMjCgWZcs7MyCSm22uN1LA2tPQ-sk9yFcnVKi_o_jBtKE_4DmvUeeW9uzhx_sXdZ0mqSRNjAIea70JO5mWNBvFo3qBxEVubARo2fR28P6RYnNcWNkhEkIx1qW3lTeRgRabZvYfMOSQcgxIyuHWdqF6Hy9fPAyZTOYUtZoE65Qrj9egumXpDY1aTn1JO1zKMpveG3ihPqtopR8nuHhS6Qygxo5vwr-4G0cAzD90VOSwffsr7aJpK1Qujyp4GY3oZhNgKYY9lmIY4GIEyVX5KB3CbzviU6RegsBJ8Usff3EwTB9IIShgc4F5EeqoonJDIDjj3AWX5IBa7i_rluwgqoQ_OuQFU2LWwdoUrS9ywoGhabbLVn3tWIJbQCGbywAAb91RPpB-6QlMkhk5SB0ohQvjh-vyxCzLgcchBG8dnS5m0rjVktIC0eZZujh-7oJFMzstKVuBRxrHDgb_n6mK9Ng_1qLLPSzuzgwniEivs6K-3C3RTBPeyCPWr2812wm8-dOkMHySB1t1kBhnzVdSZsM814txlgxsMXs3icMb6_omEnVgF4yT93HDHIpxj74Y1BWckILWwNJkV0AAj57Z5gwdjlxMSrAzh_GM0rLKKJSNsqvFo8qoNfpYGsCxM8GBEm_W2X7gCuS7UiM2nP5xIJ-1l459EifmqZ2m4IbvuYj7uKnW84PN1CV5Xhk_mBKQReMvghNxDFV5yh2bDvX1NDv7R1ze2uE1ufxmtf90yC8GABL-sK1oniSwPBeS1yoKw5P3AZYp8fI7uxsXCZh2Y5EOA68ALTappao_npSStMFxqVSHO4zxG71Py5MKJMEALyklnebypznXbTA4YrELVqL6whQNJaEIDxV_gW7cAyEUqugB_zMTXZmdWNcyC01K6rKgs9JswmgWUowW5k1wkXwoz5zzfpjBCnjt6Rx4mSLh0K97vPNGuO4mf1QEgNyyIOUjFWhBwM_T2Zp5fniibI3oSJwxtal79jHrtybtSwXnIV9pv-EYNl0enGg6lyhPZJ_g0mTL-ydADNuNaBPQ0pxa5aacXpfV3vI4pwRFJgkt0uIHByF_F3SK2P-RMKyzYNPdMwSuJ-0CQDDEQHJbBt68e7_yPPdaboblPfgtTEmxqbzIy08jPx0d4wxW0lLoadjKSnauWSJJRXhv-lPQP9KffuSGsK6MHr1RINAXcfPb8En3sbWl79Df7aH4s6EcgqaJgVHIZHOJDxP984vLV7fIzU8HPRNyO5F6AWHrNat1b-MKpTqnF4haJ_s2dLmR49T_5twflh11WrirAZZSft08xD8JY3ADNkzwmV_Gfdbe8JMrwP2RZec2IjDJWJycAl7iNUBm1CKWDn70i7EZ_fnXZTv1cBtBEtvz_MIbN0jWVqFRG8cyj1-Lyydf4EoGBIzacVRDneGZhrnyx17EtKcAToaGm9PLK0BdsBWbbcuecWzv1-XjzBI9nl0xozZ8bMAay5L8WkUbiUWVRL-Td0os9YUKOacVoxKkvIesAnP7xTWFMPmo89c3AdhP367T2Oas_g59U7AyMpkzOvKvStCq7mYR8DVskyWCnwnDn-CvKRe3lCwo17LahhLXe55JyCGMNvsNo6wS-M_ie-23OJjIJ9Fxz2EZM26KzQYRVMI6insoWHCiZTlW8ejpXciMwh6fQZUWhQOVztrP5ETCNkREczGiFY7_89FY6n0HPKM4KrZ7dWo-5o4kuuKAoyhG1S9m_AoiwCxnMfYyNIeOZvC0ODwgkGlSS7Jcu-cJUUuthi84Zu24fVVa4y98BGTu_YZcOGSDlN6R5SxKzBZUs6fsSw2NZTwV9SBZPXJhpRJo0M6kpWnuziotiznxiUC0osyJRVUox41Z5O6hnddhVCxqBqouLc1zbgx4L-a-ls9ruAuQtvCW2JgvRVrbUYmLXpo6Ad1AaOAV2FLoWCh4nvYLH5y_GR0bF1VvULvQCWbfpFlbc2j8cvFL-9EQ0cTRbcWu0oZqW4UF_t2zMOkzrh-qwXcRq_lPuRgb5JWai3Ib992m-BtiG2jtjiIiyXNx3IEmD3tSehXbqGMzsHyhMo6I_4CnyEpmWRjovNPHg0QRE_N6eJm_yzQAo_B1CtD9Q3ylNh3zGU3u-a5BqyNyLs9YIV0ODKWjEEOs3ep2Zw8hmYi9cg-55bEtD7ToegcKtrae08Rn-cJVrkP57PcG-PFKDTTI_NCbqeU9a-k-INGQMbAtBCOkHIH2xzujm5R7TnMdTYB1mOUmjcAkV8Kqf3YUoDvp9slIhGJHU9CngyEgYZUlWNOlT73PLkMyjW93KESRJc0OHVVpk55akOXQFpUmDubo8HQcOTNGJ5hLX8XGaJBjWLrg8bGkcySNHnXpLgojDW10bX_etMwaS6AQmdyPMYZTMtys83sQgEbrQyXhgafjlj3SP3XQaIaKUC8ZZuMw4XQP7GIvROQSwXQ5p4pKcUYcDaZwHMPp_WcIY9rrvv7s144srOrskwxtaxW_7rbsq3g0HOKpMKOE2cIi4DnrcJ5JeT6VrbndnJq6K7pwokzcPe2ZTrUYZbfJOqWTfLsoz--aZmm-fBcps_ty2JtNfBSzM&encryption=none&pbk=5Vx5ShBc8TEaX4WMi63o8YWqb19kX5o9YmH2raJcfyY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=2f01bfa569c608ec#EPODONIOS
 
-# 9. Score: 120 | Reliability: 3/3 | TCP: 246ms | HTTP: 1165ms | Speed: 2.04 Mbps | IP: 170.205.30.56 | EPODONIOS
-# Pass details: P1:1619ms | P2:1165ms | P3:1498ms
-# Speed test: 2.04 Mbps in 3.91s
-vless://shady-vpn-shady-vpn-shady_vpn1@second.shadydomain.qzz.io:37789?mode=auto&path=/shady_vpn@shady_vpn@shady_vpn@shady_vpn@shady_vpn@shady_vpn@shady_vpn@shady_vpn@&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"1-1000"}&pbk=UkvgTlCFgSf2A2FtCJISg8r3hhRQbbfJIpQ6mSlL71k&fp=chrome&spx=/4e5be2e8ed40954&type=xhttp&sni=www.cloudflare.com&sid=0dadb8f893#EPODONIOS
+# 9. Score: 100 | Reliability: 3/3 | TCP: 153ms | HTTP: 1059ms | IP: 20.64.173.139 | EPODONIOS
+# Pass details: P1:1059ms | P2:1090ms | P3:1091ms
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?encryption=none&host=fuckingfangbinxing.pusytroller.cf&path=%2F&security=none&type=ws#EPODONIOS
 
-# 10. Score: 110 | Reliability: 3/3 | TCP: 208ms | HTTP: 1006ms | Speed: 0.90 Mbps | IP: 213.32.31.113 | EPODONIOS
-# Pass details: P1:1058ms | P2:1151ms | P3:1006ms
-# Speed test: 0.90 Mbps in 5.01s
-vless://49e76398-5127-4005-90cb-c2a971f745f1@162.159.38.119:443?path=/all&security=tls&alpn=h2&encryption=none&insecure=0&host=ncrem.sunrocketbox-fla.sbs&type=ws&allowInsecure=0&sni=ncrem.sunrocketbox-fla.sbs#EPODONIOS
+# 10. Score: 90 | Reliability: 3/3 | TCP: 154ms | HTTP: 1222ms | EPODONIOS
+# Pass details: P1:1222ms | P2:1254ms | P3:1944ms
+trojan://MiTiVPN@199.232.1.2:80?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/SG---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=none&host=s4-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&type=ws#EPODONIOS
 
-# 11. Score: 110 | Reliability: 3/3 | TCP: 134ms | HTTP: 463ms | EPODONIOS
-# Pass details: P1:463ms | P2:1215ms | P3:470ms
-vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.53.197:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
-
-# 12. Score: 110 | Reliability: 3/3 | TCP: 349ms | HTTP: 1096ms | Speed: 0.50 Mbps | IP: 60.249.101.13 | EPODONIOS
-# Pass details: P1:1096ms | P2:1214ms | P3:1981ms
-# Speed test: 0.50 Mbps in 5.37s
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?encryption=none&security=none&type=tcp#EPODONIOS
-
-# 13. Score: 110 | Reliability: 3/3 | TCP: 141ms | HTTP: 527ms | IP: 162.19.228.119 | EPODONIOS
-# Pass details: P1:827ms | P2:527ms | P3:1925ms
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#EPODONIOS
-
-# 14. Score: 100 | Reliability: 3/3 | TCP: 118ms | HTTP: 1033ms | IP: 2.26.252.199 | EPODONIOS
-# Pass details: P1:1039ms | P2:2334ms | P3:1033ms
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.67.66.177:2095?&type=ws&headerType=none&host=cnmfangbinxingnmsl.cnm-fangbinxingnmsl-250.workers.dev&path=/#EPODONIOS
-
-# 15. Score: 100 | Reliability: 3/3 | TCP: 123ms | HTTP: 992ms | EPODONIOS
-# Pass details: P1:992ms | P2:995ms | P3:1029ms
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.146.153:2095?type=ws&host=fangbinxingnmsl.pusytroller.gq&path=/#EPODONIOS
-
-# 16. Score: 90 | Reliability: 3/3 | TCP: 270ms | HTTP: 1018ms | IP: 206.82.3.130 | EPODONIOS
-# Pass details: P1:1018ms | P2:3441ms | P3:1496ms
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+# 11. Score: 90 | Reliability: 3/3 | TCP: 271ms | HTTP: 1401ms | IP: 185.31.200.119 | EPODONIOS
+# Pass details: P1:1401ms | P2:1555ms | P3:2581ms
+vless://Telegramjoin:TurboConfigs@185.31.200.119:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 
