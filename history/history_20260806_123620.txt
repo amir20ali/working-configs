@@ -1,0 +1,29 @@
+# Working V2Ray/Xray Configs
+# Generated: 2026-08-06 12:36:17
+# Total working: 4
+# Total tested: 5427
+# XRAY core used
+# ================================================
+# IMPORTANT: These configs are tested on Shatel Internet Provider Network
+# Performance may vary on different ISPs
+# ================================================
+
+# 1. Score: 130 | Reliability: 3/3 | TCP: 109ms | HTTP: 721ms | Speed: 3.60 Mbps | EPODONIOS
+# Pass details: P1:848ms | P2:1448ms | P3:721ms
+# Speed test: 3.60 Mbps in 2.22s
+vless://5bb07942-ca80-4577-acd0-e5935c3cd523@93.152.217.55:8443?security=reality&encryption=none&pbk=4uDjB4cV22HwhNwXkyicoWN5ocwxBB85i08lcRpN7Xc&headerType=none&fp=chrome&spx=/06fca620fa52ba5&type=tcp&flow=xtls-rprx-vision&sni=vk-portal.ru&sid=ad5cfe18#EPODONIOS
+
+# 2. Score: 120 | Reliability: 3/3 | TCP: 129ms | HTTP: 2736ms | Speed: 0.39 Mbps | IP: 194.104.10.68 | EPODONIOS
+# Pass details: P1:2736ms | P2:2763ms | P3:5530ms
+# Speed test: 0.39 Mbps in 5.01s
+vless://68b4b16e-2759-47a4-8a69-33118edf5ce6@194.104.10.68:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=z3U2vV7PRNvOraeAs6RnjM8aQbkOFdyp82ogXdS40mI&security=reality&sid=f64c0c7635cbddf5&sni=ned.leontunel.ru&type=tcp#EPODONIOS
+
+# 3. Score: 120 | Reliability: 3/3 | TCP: 149ms | HTTP: 1475ms | Speed: 0.90 Mbps | IP: 194.147.35.83 | EPODONIOS
+# Pass details: P1:3107ms | P2:1475ms | P3:4366ms
+# Speed test: 0.90 Mbps in 5.05s
+vless://68b4b16e-2759-47a4-8a69-33118edf5ce6@194.147.35.83:443?security=reality&encryption=none&pbk=5RK9ivB7UF_89vkywwpZjW3jAJqsEGskRSS7c0OUOXM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ang.leontunel.ru&sid=2f4761809cf9fbfb#EPODONIOS
+
+# 4. Score: 100 | Reliability: 3/3 | TCP: 165ms | HTTP: 1813ms | IP: 194.147.35.83 | EPODONIOS
+# Pass details: P1:1813ms | P2:2942ms | P3:3275ms
+vless://68b4b16e-2759-47a4-8a69-33118edf5ce6@ang.leontunel.ru:443?security=reality&encryption=none&pbk=5RK9ivB7UF_89vkywwpZjW3jAJqsEGskRSS7c0OUOXM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ang.leontunel.ru&sid=2f4761809cf9fbfb#EPODONIOS
+
