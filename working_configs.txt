@@ -1,86 +1,18 @@
 # Working V2Ray/Xray Configs
-# Generated: 2026-08-05 11:17:11
-# Total working: 16
-# Total tested: 4379
+# Generated: 2026-08-06 11:46:08
+# Total working: 2
+# Total tested: 4637
 # XRAY core used
 # ================================================
 # IMPORTANT: These configs are tested on Shatel Internet Provider Network
 # Performance may vary on different ISPs
 # ================================================
 
-# 1. Score: 150 | Reliability: 3/3 | TCP: 87ms | HTTP: 413ms | Speed: 1.04 Mbps | IP: 178.83.157.78 | EPODONIOS
-# Pass details: P1:2625ms | P2:603ms | P3:413ms
-# Speed test: 1.04 Mbps in 5.05s
-vless://d8b42cd5-a149-4356-9e61-000000000000@217.79.125.105:2550?&type=tcp&headerType=none&path=/#EPODONIOS
+# 1. Score: 90 | Reliability: 3/3 | TCP: 481ms | HTTP: 1731ms | IP: 14.137.238.144 | EPODONIOS
+# Pass details: P1:1731ms | P2:4641ms | P3:3610ms
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.144:10000?#EPODONIOS
 
-# 2. Score: 140 | Reliability: 3/3 | TCP: 114ms | HTTP: 608ms | Speed: 2.73 Mbps | IP: 91.107.182.197 | EPODONIOS
-# Pass details: P1:608ms | P2:806ms | P3:650ms
-# Speed test: 2.73 Mbps in 2.93s
-vless://7fc1ee8b-3abf-4b4e-ab73-007460d767bd@91.107.182.197:25520?encryption=none&fp=&pbk=CdbZitEgBioklscSAiU8eGR_sRvzLPrH3davu5DrNBc&security=reality&sid=a8de8bc1e9f5ef&sni=yahoo.com&type=tcp#EPODONIOS
-
-# 3. Score: 140 | Reliability: 3/3 | TCP: 128ms | HTTP: 953ms | Speed: 1.31 Mbps | IP: 45.43.75.124 | EPODONIOS
-# Pass details: P1:4039ms | P2:2378ms | P3:953ms
-# Speed test: 1.31 Mbps in 5.04s
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@millionaire.levikogjgfdd.ir:443?path=/hdgrbws&security=tls&encryption=none&host=terazhediii.info&type=ws&sni=terazhediii.info#EPODONIOS
-
-# 4. Score: 140 | Reliability: 3/3 | TCP: 111ms | HTTP: 634ms | Speed: 1.05 Mbps | IP: 178.83.157.78 | EPODONIOS
-# Pass details: P1:2195ms | P2:634ms | P3:4086ms
-# Speed test: 1.05 Mbps in 5.15s
-vless://d8b42cd5-a149-4356-9e61-000000000000@217.79.125.105:2550?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
-
-# 5. Score: 140 | Reliability: 3/3 | TCP: 128ms | HTTP: 910ms | Speed: 1.08 Mbps | IP: 45.43.75.124 | EPODONIOS
-# Pass details: P1:1908ms | P2:1007ms | P3:910ms
-# Speed test: 1.08 Mbps in 5.01s
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@millionaire.levikogjgfdd.ir:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&type=ws&allowInsecure=0&sni=terazhediii.info#EPODONIOS
-
-# 6. Score: 130 | Reliability: 3/3 | TCP: 114ms | HTTP: 623ms | Speed: 0.58 Mbps | IP: 91.107.182.197 | EPODONIOS
-# Pass details: P1:623ms | P2:743ms | P3:651ms
-# Speed test: 0.58 Mbps in 5.06s
-vless://7fc1ee8b-3abf-4b4e-ab73-007460d767bd@91.107.182.197:25520?encryption=none&type=raw&security=reality&sni=yahoo.com&pbk=CdbZitEgBioklscSAiU8eGR_sRvzLPrH3davu5DrNBc&sid=a8de8bc1e9f5ef&spx=/HesarWeb#EPODONIOS
-
-# 7. Score: 130 | Reliability: 3/3 | TCP: 168ms | HTTP: 996ms | Speed: 0.52 Mbps | IP: 45.43.75.124 | EPODONIOS
-# Pass details: P1:5246ms | P2:2453ms | P3:996ms
-# Speed test: 0.52 Mbps in 5.01s
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@162.159.38.119:443?path=/hdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&type=ws&allowInsecure=0&sni=terazhediii.info#EPODONIOS
-
-# 8. Score: 130 | Reliability: 3/3 | TCP: 168ms | HTTP: 1003ms | Speed: 1.37 Mbps | IP: 45.43.75.124 | EPODONIOS
-# Pass details: P1:3341ms | P2:1003ms | P3:1079ms
-# Speed test: 1.37 Mbps in 5.04s
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@162.159.38.119:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&type=ws&allowInsecure=0&sni=terazhediii.info#EPODONIOS
-
-# 9. Score: 120 | Reliability: 3/3 | TCP: 16ms | HTTP: 1062ms | Speed: 0.27 Mbps | IP: 91.107.159.156 | EPODONIOS
-# Pass details: P1:2199ms | P2:2620ms | P3:1062ms
-# Speed test: 0.27 Mbps in 5.16s
-vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@p01.parsi.sbs:2086?&type=ws&headerType=none&host=parsi.parsi.sbs&path=/#EPODONIOS
-
-# 10. Score: 120 | Reliability: 3/3 | TCP: 111ms | HTTP: 1687ms | Speed: 0.61 Mbps | IP: 45.91.135.115 | EPODONIOS
-# Pass details: P1:1874ms | P2:1970ms | P3:1687ms
-# Speed test: 0.61 Mbps in 5.20s
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443/?type=ws&encryption=none&flow=&host=d1yxsk0zprgivr.cloudfront.net&path=/&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&fp=chrome#EPODONIOS
-
-# 11. Score: 120 | Reliability: 3/3 | TCP: 126ms | HTTP: 1474ms | Speed: 0.48 Mbps | IP: 212.74.39.72 | EPODONIOS
-# Pass details: P1:1929ms | P2:1474ms | P3:2309ms
-# Speed test: 0.48 Mbps in 5.02s
-vless://XpnTeam-2@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-
-# 12. Score: 120 | Reliability: 3/3 | TCP: 128ms | HTTP: 1000ms | Speed: 1.78 Mbps | EPODONIOS
-# Pass details: P1:4406ms | P2:2389ms | P3:1000ms
-# Speed test: 1.78 Mbps in 4.50s
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@millionaire.levikogjgfdd.ir:443?path=/hdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&type=ws&allowInsecure=0&sni=terazhediii.info#EPODONIOS
-
-# 13. Score: 110 | Reliability: 3/3 | TCP: 80ms | HTTP: 853ms | IP: 104.28.219.140 | EPODONIOS
-# Pass details: P1:853ms | P2:2203ms | P3:1702ms
-vless://07730597-ba4f-4ca8-abe5-a53b28ad318c@vip.sinavm.ir:443?security=reality&encryption=none&pbk=7JDEwF5DtVN9ym8x_tHcdA5-L5hH_JlYNf-ZXUYqu18&headerType=none&fp=chrome&spx=/sinavm_sinavm_SiNAVM_SiNAVM&type=tcp&sni=android.com&sid=3f958af268#EPODONIOS
-
-# 14. Score: 110 | Reliability: 3/3 | TCP: 112ms | HTTP: 941ms | IP: 152.53.14.75 | EPODONIOS
-# Pass details: P1:1453ms | P2:941ms | P3:2578ms
-vless://26fb53e4-fd49-4b34-b605-b6cc1b1a06a8@104.16.72.101:8880?path=/pyip&security=&encryption=none&host=royal-shape-3771.93-728.workers.dev&type=ws#EPODONIOS
-
-# 15. Score: 110 | Reliability: 3/3 | TCP: 102ms | HTTP: 572ms | IP: 178.83.157.78 | EPODONIOS
-# Pass details: P1:2500ms | P2:572ms | P3:4502ms
-vless://d8b42cd5-a149-4356-9e61-000000000000@217.79.125.105:2550?encryption=none&packetEncoding=xudp#EPODONIOS
-
-# 16. Score: 100 | Reliability: 3/3 | TCP: 64ms | HTTP: 1013ms | IP: 104.28.219.140 | EPODONIOS
-# Pass details: P1:1013ms | P2:2122ms | P3:1768ms
-vless://07730597-ba4f-4ca8-abe5-a53b28ad318c@vip.sinavm.ir:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=android.com&pbk=7JDEwF5DtVN9ym8x_tHcdA5-L5hH_JlYNf-ZXUYqu18&sid=3f958af268&spx=/sinavm_sinavm_SiNAVM_SiNAVM#EPODONIOS
+# 2. Score: 80 | Reliability: 3/3 | TCP: 427ms | HTTP: 2882ms | EPODONIOS
+# Pass details: P1:2882ms | P2:3664ms | P3:4003ms
+vless://5bb07942-ca80-4577-acd0-e5935c3cd523@93.152.217.55:8443?security=reality&encryption=none&pbk=4uDjB4cV22HwhNwXkyicoWN5ocwxBB85i08lcRpN7Xc&headerType=none&fp=chrome&spx=/06fca620fa52ba5&type=tcp&flow=xtls-rprx-vision&sni=vk-portal.ru&sid=ad5cfe18#EPODONIOS
 
