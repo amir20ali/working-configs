@@ -1,0 +1,18 @@
+# Working V2Ray/Xray Configs
+# Generated: 2026-08-06 11:46:08
+# Total working: 2
+# Total tested: 4637
+# XRAY core used
+# ================================================
+# IMPORTANT: These configs are tested on Shatel Internet Provider Network
+# Performance may vary on different ISPs
+# ================================================
+
+# 1. Score: 90 | Reliability: 3/3 | TCP: 481ms | HTTP: 1731ms | IP: 14.137.238.144 | EPODONIOS
+# Pass details: P1:1731ms | P2:4641ms | P3:3610ms
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.144:10000?#EPODONIOS
+
+# 2. Score: 80 | Reliability: 3/3 | TCP: 427ms | HTTP: 2882ms | EPODONIOS
+# Pass details: P1:2882ms | P2:3664ms | P3:4003ms
+vless://5bb07942-ca80-4577-acd0-e5935c3cd523@93.152.217.55:8443?security=reality&encryption=none&pbk=4uDjB4cV22HwhNwXkyicoWN5ocwxBB85i08lcRpN7Xc&headerType=none&fp=chrome&spx=/06fca620fa52ba5&type=tcp&flow=xtls-rprx-vision&sni=vk-portal.ru&sid=ad5cfe18#EPODONIOS
+
