@@ -1,0 +1,138 @@
+# Working V2Ray/Xray Configs
+# Generated: 2026-08-10 23:25:41
+# Total working: 27
+# Total tested: 4773
+# XRAY core used
+# ================================================
+# IMPORTANT: These configs are tested on Shatel Internet Provider Network
+# Performance may vary on different ISPs
+# ================================================
+
+# 1. Score: 140 | Reliability: 3/3 | TCP: 128ms | HTTP: 702ms | Speed: 2.66 Mbps | IP: 91.132.59.16 | EPODONIOS
+# Pass details: P1:793ms | P2:851ms | P3:702ms
+# Speed test: 2.66 Mbps in 3.01s
+trojan://MiTiVPN@188.114.96.3:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NL---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&host=nlls-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&fp=chrome&type=ws&sni=Nl1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe#EPODONIOS
+
+# 2. Score: 140 | Reliability: 3/3 | TCP: 128ms | HTTP: 773ms | Speed: 1.08 Mbps | IP: 31.57.196.109 | EPODONIOS
+# Pass details: P1:790ms | P2:773ms | P3:860ms
+# Speed test: 1.08 Mbps in 5.03s
+trojan://MiTiVPN@188.114.96.3:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NL---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=nlls-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&fp=chrome&type=ws&allowInsecure=0&sni=Nl1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe#EPODONIOS
+
+# 3. Score: 140 | Reliability: 3/3 | TCP: 155ms | HTTP: 617ms | Speed: 1.85 Mbps | IP: 78.17.4.20 | EPODONIOS
+# Pass details: P1:617ms | P2:647ms | P3:718ms
+# Speed test: 1.85 Mbps in 4.33s
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.4.20:13868?security=reality&encryption=none&pbk=8SX8GXMe3lXOyY_acO4HFXXYJn_rOOf4zkYFrifV1Tk&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.epicgames.com&sid=e852dc#EPODONIOS
+
+# 4. Score: 140 | Reliability: 3/3 | TCP: 144ms | HTTP: 692ms | Speed: 1.00 Mbps | IP: 5.175.178.54 | EPODONIOS
+# Pass details: P1:1596ms | P2:1349ms | P3:692ms
+# Speed test: 1.00 Mbps in 5.39s
+vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@188.255.236.213:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&pbk=UMvz-4jhwqv9obtELN1iozBhEUsayjnOvXBSHEiX_DI&headerType=none&fp=chrome&flow=xtls-rprx-vision&encryption=none&sni=cosmic-aurora.cdn.cachefleet.com&type=tcp#EPODONIOS
+
+# 5. Score: 140 | Reliability: 3/3 | TCP: 80ms | HTTP: 886ms | Speed: 1.47 Mbps | IP: 208.69.78.161 | EPODONIOS
+# Pass details: P1:1276ms | P2:1764ms | P3:886ms
+# Speed test: 1.47 Mbps in 5.02s
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@95.129.236.252:443?path=/api/v2/camera/events/8f4c2d&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=azs.benz.ink#EPODONIOS
+
+# 6. Score: 140 | Reliability: 3/3 | TCP: 113ms | HTTP: 769ms | Speed: 1.62 Mbps | IP: 164.37.109.186 | EPODONIOS
+# Pass details: P1:769ms | P2:2086ms | P3:780ms
+# Speed test: 1.62 Mbps in 4.95s
+vless://c28ee61d-0d43-0064-8e6a-6397ed0ffc03@164.37.109.187:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gb.cdn.cachefleet.com&fp=chrome&pbk=sBSNX3DhJSWOkqTmRHisayVLisCBQLb4JcpKzwCrvC0&type=tcp&headerType=none#EPODONIOS
+
+# 7. Score: 130 | Reliability: 3/3 | TCP: 184ms | HTTP: 838ms | Speed: 0.87 Mbps | IP: 78.17.158.16 | EPODONIOS
+# Pass details: P1:1044ms | P2:915ms | P3:838ms
+# Speed test: 0.87 Mbps in 5.02s
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.158.16:13868?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.ea.com&fp=chrome&pbk=W24D31y_1ZaASX1bq3d85DQaQd_3NcJQCvg1wmCn-Uo&sid=e852dc&type=tcp&headerType=none#EPODONIOS
+
+# 8. Score: 130 | Reliability: 3/3 | TCP: 168ms | HTTP: 825ms | Speed: 0.76 Mbps | IP: 78.17.158.16 | EPODONIOS
+# Pass details: P1:951ms | P2:825ms | P3:898ms
+# Speed test: 0.76 Mbps in 5.17s
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.158.16:13868?security=reality&encryption=none&pbk=W24D31y_1ZaASX1bq3d85DQaQd_3NcJQCvg1wmCn-Uo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ea.com&sid=e852dc#EPODONIOS
+
+# 9. Score: 130 | Reliability: 3/3 | TCP: 168ms | HTTP: 626ms | Speed: 0.55 Mbps | IP: 78.17.185.45 | EPODONIOS
+# Pass details: P1:4387ms | P2:656ms | P3:626ms
+# Speed test: 0.55 Mbps in 5.24s
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.185.45:13868?security=reality&encryption=none&pbk=sgpya-5ohMKCjzyrDe4RWz7b8O9XegDzQ88oHCV45Gk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=booking.com&sid=e852dc#EPODONIOS
+
+# 10. Score: 130 | Reliability: 3/3 | TCP: 128ms | HTTP: 702ms | Speed: 0.93 Mbps | IP: 5.175.178.54 | EPODONIOS
+# Pass details: P1:778ms | P2:1955ms | P3:702ms
+# Speed test: 0.93 Mbps in 5.26s
+vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@188.255.236.213:443?security=reality&encryption=none&pbk=UMvz-4jhwqv9obtELN1iozBhEUsayjnOvXBSHEiX_DI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cosmic-aurora.cdn.cachefleet.com#EPODONIOS
+
+# 11. Score: 130 | Reliability: 3/3 | TCP: 144ms | HTTP: 715ms | Speed: 0.88 Mbps | IP: 5.175.178.54 | EPODONIOS
+# Pass details: P1:856ms | P2:2560ms | P3:715ms
+# Speed test: 0.88 Mbps in 5.31s
+vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@188.255.236.213:443?security=reality&encryption=none&pbk=UMvz-4jhwqv9obtELN1iozBhEUsayjnOvXBSHEiX_DI&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cosmic-aurora.cdn.cachefleet.com#EPODONIOS
+
+# 12. Score: 130 | Reliability: 3/3 | TCP: 126ms | HTTP: 733ms | Speed: 0.67 Mbps | IP: 5.175.178.54 | EPODONIOS
+# Pass details: P1:963ms | P2:1836ms | P3:733ms
+# Speed test: 0.67 Mbps in 5.15s
+vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@188.255.236.213:443?security=reality&encryption=none&pbk=UMvz-4jhwqv9obtELN1iozBhEUsayjnOvXBSHEiX_DI&host=TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cosmic-aurora.cdn.cachefleet.com#EPODONIOS
+
+# 13. Score: 130 | Reliability: 3/3 | TCP: 112ms | HTTP: 729ms | Speed: 0.45 Mbps | IP: 208.77.244.172 | EPODONIOS
+# Pass details: P1:747ms | P2:2308ms | P3:729ms
+# Speed test: 0.45 Mbps in 5.15s
+vless://6475e265-689d-0cd9-ab83-8a1e8b14b9b9@69.46.46.13:443?path=/ws/6475e265-689d-0cd9-ab83-8a1e8b14b9b9&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-7e13.up.railway.app&fp=chrome&type=ws&sni=rvg-production-7e13.up.railway.app#EPODONIOS
+
+# 14. Score: 130 | Reliability: 3/3 | TCP: 113ms | HTTP: 659ms | Speed: 0.58 Mbps | IP: 152.55.184.28 | EPODONIOS
+# Pass details: P1:758ms | P2:1282ms | P3:659ms
+# Speed test: 0.58 Mbps in 5.26s
+vless://b9ada118-788a-90e6-dad0-20b658645de5@69.46.46.12:443?path=/ws/b9ada118-788a-90e6-dad0-20b658645de5&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-0f89.up.railway.app&fp=chrome&type=ws&sni=rvg-production-0f89.up.railway.app#EPODONIOS
+
+# 15. Score: 130 | Reliability: 3/3 | TCP: 127ms | HTTP: 629ms | Speed: 0.92 Mbps | IP: 95.216.186.148 | EPODONIOS
+# Pass details: P1:739ms | P2:703ms | P3:629ms
+# Speed test: 0.92 Mbps in 5.09s
+vless://c8098c37-d9db-4824-8f82-642a932c5d14@d.telewebion.ir.varzesh3.com.de:443?security=reality&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&host=play.google.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=e915#EPODONIOS
+
+# 16. Score: 130 | Reliability: 3/3 | TCP: 128ms | HTTP: 675ms | Speed: 0.98 Mbps | IP: 2.27.169.118 | EPODONIOS
+# Pass details: P1:781ms | P2:675ms | P3:2374ms
+# Speed test: 0.98 Mbps in 5.06s
+trojan://MiTiVPN@188.114.96.3:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNL---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=nlls-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&fp=chrome&type=ws&allowInsecure=0&sni=Nl1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe#EPODONIOS
+
+# 17. Score: 120 | Reliability: 3/3 | TCP: 184ms | HTTP: 602ms | Speed: 0.58 Mbps | EPODONIOS
+# Pass details: P1:782ms | P2:635ms | P3:602ms
+# Speed test: 0.58 Mbps in 5.07s
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.4.20:13868?encryption=none&type=tcp&security=reality&pbk=8SX8GXMe3lXOyY_acO4HFXXYJn_rOOf4zkYFrifV1Tk&sid=e852dc&sni=www.epicgames.com&fp=chrome&flow=xtls-rprx-vision#EPODONIOS
+
+# 18. Score: 120 | Reliability: 3/3 | TCP: 113ms | HTTP: 1068ms | Speed: 0.58 Mbps | IP: 185.56.154.113 | EPODONIOS
+# Pass details: P1:1083ms | P2:1917ms | P3:1068ms
+# Speed test: 0.58 Mbps in 5.05s
+trojan://MITIVPN@104.16.1.120:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&insecure=0&host=Us-A-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&fp=chrome&type=ws&allowInsecure=0&sni=us-ga-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe#EPODONIOS
+
+# 19. Score: 110 | Reliability: 3/3 | TCP: 128ms | HTTP: 719ms | IP: 45.43.88.114 | EPODONIOS
+# Pass details: P1:719ms | P2:853ms | P3:804ms
+trojan://MiTiVPN@188.114.97.6:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/dde---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&host=nlls-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&fp=chrome&type=ws&sni=Nl1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe#EPODONIOS
+
+# 20. Score: 110 | Reliability: 3/3 | TCP: 168ms | HTTP: 1557ms | Speed: 0.50 Mbps | EPODONIOS
+# Pass details: P1:4564ms | P2:1557ms | P3:2042ms
+# Speed test: 0.50 Mbps in 5.12s
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.126.222:13868?security=reality&encryption=none&pbk=sgpya-5ohMKCjzyrDe4RWz7b8O9XegDzQ88oHCV45Gk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=booking.com&sid=e852dc#EPODONIOS
+
+# 21. Score: 110 | Reliability: 3/3 | TCP: 144ms | HTTP: 718ms | IP: 5.175.178.54 | EPODONIOS
+# Pass details: P1:1318ms | P2:1327ms | P3:718ms
+vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@188.255.236.213:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cosmic-aurora.cdn.cachefleet.com&fp=chrome&pbk=UMvz-4jhwqv9obtELN1iozBhEUsayjnOvXBSHEiX_DI&type=tcp&headerType=none#EPODONIOS
+
+# 22. Score: 110 | Reliability: 3/3 | TCP: 489ms | HTTP: 2643ms | Speed: 0.17 Mbps | IP: 31.43.191.39 | EPODONIOS
+# Pass details: P1:3430ms | P2:2643ms | P3:2714ms
+# Speed test: 0.17 Mbps in 5.01s
+vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.39:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&host=/?JOIN_bede_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=luminous-vortex.cdn.cachefleet.com#EPODONIOS
+
+# 23. Score: 100 | Reliability: 3/3 | TCP: 155ms | HTTP: 1323ms | IP: 78.17.112.103 | EPODONIOS
+# Pass details: P1:1323ms | P2:2862ms | P3:4984ms
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.112.103:13868?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=8SX8GXMe3lXOyY_acO4HFXXYJn_rOOf4zkYFrifV1Tk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.epicgames.com&sid=e852dc#EPODONIOS
+
+# 24. Score: 100 | Reliability: 3/3 | TCP: 80ms | HTTP: 1021ms | IP: 208.69.78.161 | EPODONIOS
+# Pass details: P1:1292ms | P2:1782ms | P3:1021ms
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@95.129.236.252:443?path=/api/v2/camera/events/8f4c2d&security=tls&encryption=none&type=ws&sni=azs.benz.ink#EPODONIOS
+
+# 25. Score: 90 | Reliability: 3/3 | TCP: 168ms | HTTP: 1317ms | EPODONIOS
+# Pass details: P1:1317ms | P2:2662ms | P3:2344ms
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.126.47:13868?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=sgpya-5ohMKCjzyrDe4RWz7b8O9XegDzQ88oHCV45Gk&sid=e852dc&sni=booking.com#EPODONIOS
+
+# 26. Score: 90 | Reliability: 3/3 | TCP: 283ms | HTTP: 1153ms | IP: 70.39.197.9 | EPODONIOS
+# Pass details: P1:3403ms | P2:1153ms | P3:1312ms
+vless://0bcec952-a452-43ed-9468-4547b9f5dfc4@70.39.197.9:59216?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
+
+# 27. Score: 90 | Reliability: 3/3 | TCP: 369ms | HTTP: 1087ms | IP: 141.193.154.182 | EPODONIOS
+# Pass details: P1:2349ms | P2:1881ms | P3:1087ms
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@180.178.60.253:10000/?type=tcp&encryption=none&flow=&packetEncoding=xudp#EPODONIOS
+
