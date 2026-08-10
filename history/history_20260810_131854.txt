@@ -1,0 +1,136 @@
+# Working V2Ray/Xray Configs
+# Generated: 2026-08-10 13:18:51
+# Total working: 27
+# Total tested: 4872
+# XRAY core used
+# ================================================
+# IMPORTANT: These configs are tested on Shatel Internet Provider Network
+# Performance may vary on different ISPs
+# ================================================
+
+# 1. Score: 140 | Reliability: 3/3 | TCP: 136ms | HTTP: 721ms | Speed: 1.85 Mbps | IP: 46.101.243.64 | EPODONIOS
+# Pass details: P1:838ms | P2:721ms | P3:801ms
+# Speed test: 1.85 Mbps in 4.32s
+trojan://MiTiVPN@104.254.140.62:443?type=ws&security=tls&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/dde---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&host=Dde1-mehrosaboran--mehrosaboran--mehrosaboran---mehrosaboran.kingnetwork.ir&sni=ddp-mehrosaboran--mehrosaboran--mehrosaboran.kingnetwork.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#EPODONIOS
+
+# 2. Score: 140 | Reliability: 3/3 | TCP: 186ms | HTTP: 884ms | Speed: 1.27 Mbps | IP: 147.78.180.2 | EPODONIOS
+# Pass details: P1:944ms | P2:884ms | P3:982ms
+# Speed test: 1.27 Mbps in 5.05s
+vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@88.218.44.5:993?encryption=none&type=tcp&security=reality&headerType=none&sni=www.epson.com&fp=chrome&insecure=1&allowInsecure=1&pbk=Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8&flow=xtls-rprx-vision#EPODONIOS
+
+# 3. Score: 130 | Reliability: 3/3 | TCP: 250ms | HTTP: 480ms | Speed: 0.93 Mbps | IP: 54.37.3.0 | EPODONIOS
+# Pass details: P1:839ms | P2:527ms | P3:480ms
+# Speed test: 0.93 Mbps in 5.16s
+vless://26c0589f-79e5-4789-8ff7-914f2e26e8e5@okb.lorqina.ir:40813?security=&encryption=none&headerType=&type=tcp#EPODONIOS
+
+# 4. Score: 130 | Reliability: 3/3 | TCP: 260ms | HTTP: 659ms | Speed: 1.37 Mbps | IP: 5.175.178.54 | EPODONIOS
+# Pass details: P1:803ms | P2:3844ms | P3:659ms
+# Speed test: 1.37 Mbps in 5.03s
+vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@188.255.236.213:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cosmic-aurora.cdn.cachefleet.com&fp=chrome&pbk=UMvz-4jhwqv9obtELN1iozBhEUsayjnOvXBSHEiX_DI&type=tcp&headerType=none#EPODONIOS
+
+# 5. Score: 130 | Reliability: 3/3 | TCP: 195ms | HTTP: 1051ms | Speed: 1.41 Mbps | IP: 147.78.180.2 | EPODONIOS
+# Pass details: P1:1073ms | P2:1051ms | P3:1261ms
+# Speed test: 1.41 Mbps in 5.02s
+vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@88.218.44.5:8443?encryption=none&type=grpc&security=reality&serviceName=TunService&mode=gun&sni=www.epson.com&fp=chrome&insecure=1&allowInsecure=1&pbk=Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8#EPODONIOS
+
+# 6. Score: 130 | Reliability: 3/3 | TCP: 187ms | HTTP: 956ms | Speed: 0.97 Mbps | IP: 45.148.233.2 | EPODONIOS
+# Pass details: P1:956ms | P2:1024ms | P3:1132ms
+# Speed test: 0.97 Mbps in 5.13s
+vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@88.218.44.5:993?encryption=none&type=tcp&security=reality&headerType=none&sni=download.nvidia.com&fp=chrome&insecure=1&allowInsecure=1&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&flow=xtls-rprx-vision#EPODONIOS
+
+# 7. Score: 130 | Reliability: 3/3 | TCP: 193ms | HTTP: 942ms | Speed: 0.57 Mbps | IP: 45.148.233.2 | EPODONIOS
+# Pass details: P1:1163ms | P2:942ms | P3:1428ms
+# Speed test: 0.57 Mbps in 5.03s
+vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@88.218.44.5:993?security=reality&encryption=none&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=download.nvidia.com#EPODONIOS
+
+# 8. Score: 130 | Reliability: 3/3 | TCP: 101ms | HTTP: 1198ms | Speed: 2.07 Mbps | IP: 91.107.171.53 | EPODONIOS
+# Pass details: P1:3276ms | P2:1563ms | P3:1198ms
+# Speed test: 2.07 Mbps in 3.87s
+vless://mahanvpn-mahanvpn@104.17.147.22:443?encryption=none&security=tls&sni=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=mAhaNrEaliteAm.MaHkHan.iR&path=/#EPODONIOS
+
+# 9. Score: 130 | Reliability: 3/3 | TCP: 101ms | HTTP: 1149ms | Speed: 2.22 Mbps | IP: 91.107.171.53 | EPODONIOS
+# Pass details: P1:3218ms | P2:1609ms | P3:1149ms
+# Speed test: 2.22 Mbps in 3.60s
+vless://mahanvpn-mahanvpn@104.17.147.22:443?path=/&security=tls&encryption=none&host=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&type=ws&sni=mAhaNrEaliteAm.MaHkHan.iR#EPODONIOS
+
+# 10. Score: 130 | Reliability: 3/3 | TCP: 100ms | HTTP: 1170ms | Speed: 1.60 Mbps | IP: 91.107.171.53 | EPODONIOS
+# Pass details: P1:3160ms | P2:1927ms | P3:1170ms
+# Speed test: 1.60 Mbps in 4.98s
+vless://mahanvpn-mahanvpn@104.17.148.22:443?encryption=none&security=tls&sni=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=mAhaNrEaliteAm.MaHkHan.iR&path=/#EPODONIOS
+
+# 11. Score: 130 | Reliability: 3/3 | TCP: 101ms | HTTP: 922ms | Speed: 0.76 Mbps | IP: 91.107.171.53 | EPODONIOS
+# Pass details: P1:922ms | P2:2758ms | P3:1089ms
+# Speed test: 0.76 Mbps in 5.01s
+vless://mahanvpn-mahanvpn@104.17.147.22:443?path=%2F&security=tls&encryption=none&insecure=0&host=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&type=ws&allowInsecure=0&sni=mAhaNrEaliteAm.MaHkHan.iR#EPODONIOS
+
+# 12. Score: 130 | Reliability: 3/3 | TCP: 117ms | HTTP: 985ms | Speed: 0.10 Mbps | IP: 91.107.171.53 | EPODONIOS
+# Pass details: P1:985ms | P2:3384ms | P3:1095ms
+# Speed test: 0.10 Mbps in 5.30s
+vless://mahanvpn-mahanvpn@92.42.96.240:443?path=%2F&security=tls&encryption=none&insecure=0&host=mAhaNrEaliteAm.MaHkHan.iR&type=ws&allowInsecure=0&sni=mAhaNrEaliteAm.MaHkHan.iR#EPODONIOS
+
+# 13. Score: 120 | Reliability: 3/3 | TCP: 191ms | HTTP: 1024ms | Speed: 0.61 Mbps | IP: 45.148.233.2 | EPODONIOS
+# Pass details: P1:1024ms | P2:1091ms | P3:1287ms
+# Speed test: 0.61 Mbps in 5.05s
+vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@88.218.44.5:8443?encryption=none&type=grpc&security=reality&serviceName=TunService&mode=gun&sni=download.nvidia.com&fp=chrome&insecure=1&allowInsecure=1&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ#EPODONIOS
+
+# 14. Score: 120 | Reliability: 3/3 | TCP: 177ms | HTTP: 1046ms | Speed: 0.65 Mbps | IP: 147.78.182.2 | EPODONIOS
+# Pass details: P1:2494ms | P2:2357ms | P3:1046ms
+# Speed test: 0.65 Mbps in 5.25s
+vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@88.218.44.5:993?encryption=none&type=tcp&security=reality&headerType=none&sni=dl.kaspersky.com&fp=chrome&insecure=1&allowInsecure=1&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&flow=xtls-rprx-vision#EPODONIOS
+
+# 15. Score: 110 | Reliability: 3/3 | TCP: 388ms | HTTP: 1069ms | Speed: 0.22 Mbps | IP: 70.39.197.9 | EPODONIOS
+# Pass details: P1:1069ms | P2:1106ms | P3:2943ms
+# Speed test: 0.22 Mbps in 5.01s
+vless://0bcec952-a452-43ed-9468-4547b9f5dfc4@70.39.197.9:59216?&type=tcp&headerType=none&path=/#EPODONIOS
+
+# 16. Score: 110 | Reliability: 3/3 | TCP: 586ms | HTTP: 1158ms | Speed: 0.21 Mbps | IP: 70.39.197.9 | EPODONIOS
+# Pass details: P1:2569ms | P2:1158ms | P3:2837ms
+# Speed test: 0.21 Mbps in 5.04s
+vless://0bcec952-a452-43ed-9468-4547b9f5dfc4@70.39.197.9:59216?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
+
+# 17. Score: 110 | Reliability: 3/3 | TCP: 111ms | HTTP: 666ms | IP: 138.124.244.77 | EPODONIOS
+# Pass details: P1:2322ms | P2:994ms | P3:666ms
+vless://8787dd0a-095a-414e-804f-a7d16a1ae166@138.124.244.77:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=fi1.hys.braidx.tech#EPODONIOS
+
+# 18. Score: 110 | Reliability: 3/3 | TCP: 129ms | HTTP: 634ms | IP: 138.124.244.77 | EPODONIOS
+# Pass details: P1:2100ms | P2:1114ms | P3:634ms
+vless://8787dd0a-095a-414e-804f-a7d16a1ae166@138.124.244.77:8443?security=tls&encryption=none&insecure=0&host=/?&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=fi1.hys.braidx.tech#EPODONIOS
+
+# 19. Score: 110 | Reliability: 3/3 | TCP: 177ms | HTTP: 1386ms | Speed: 0.37 Mbps | EPODONIOS
+# Pass details: P1:1546ms | P2:3608ms | P3:1386ms
+# Speed test: 0.37 Mbps in 5.23s
+vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@45.131.212.46:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sellflow.org&allowInsecure=1&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&packetEncoding=xudp#EPODONIOS
+
+# 20. Score: 110 | Reliability: 3/3 | TCP: 116ms | HTTP: 949ms | IP: 178.17.48.230 | EPODONIOS
+# Pass details: P1:949ms | P2:2220ms | P3:1029ms
+vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?encryption=none&security=reality&sni=c.primarymaster.online&fp=chrome&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&sid=c56c3ba3b9f676c5&type=grpc#EPODONIOS
+
+# 21. Score: 110 | Reliability: 3/3 | TCP: 110ms | HTTP: 756ms | IP: 178.17.48.230 | EPODONIOS
+# Pass details: P1:756ms | P2:2466ms | P3:969ms
+vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?mode=gun&security=reality&encryption=none&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&fp=chrome&type=grpc&sni=c.primarymaster.online&sid=c56c3ba3b9f676c5#EPODONIOS
+
+# 22. Score: 110 | Reliability: 3/3 | TCP: 109ms | HTTP: 677ms | IP: 178.17.48.230 | EPODONIOS
+# Pass details: P1:677ms | P2:2615ms | P3:1453ms
+vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?security=reality&encryption=none&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&fp=chrome&type=grpc&sni=c.primarymaster.online&sid=c56c3ba3b9f676c5#EPODONIOS
+
+# 23. Score: 110 | Reliability: 3/3 | TCP: 100ms | HTTP: 1217ms | Speed: 0.43 Mbps | EPODONIOS
+# Pass details: P1:3122ms | P2:1973ms | P3:1217ms
+# Speed test: 0.43 Mbps in 5.04s
+vless://mahanvpn-mahanvpn@104.17.148.22:443?path=/&security=tls&encryption=none&insecure=0&host=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&type=ws&allowInsecure=0&sni=mAhaNrEaliteAm.MaHkHan.iR#EPODONIOS
+
+# 24. Score: 100 | Reliability: 3/3 | TCP: 108ms | HTTP: 925ms | EPODONIOS
+# Pass details: P1:925ms | P2:1051ms | P3:1039ms
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.146.153:2095?path=/&security=none&encryption=none&host=fangbinxingnmsl.pusytroller.gq&type=ws#EPODONIOS
+
+# 25. Score: 100 | Reliability: 3/3 | TCP: 193ms | HTTP: 1254ms | IP: 147.78.182.2 | EPODONIOS
+# Pass details: P1:1380ms | P2:1254ms | P3:2525ms
+vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@88.218.44.5:8443?mode=gun&security=reality&encryption=none&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4&fp=chrome&type=grpc&serviceName=TunService&sni=dl.kaspersky.com#EPODONIOS
+
+# 26. Score: 100 | Reliability: 3/3 | TCP: 117ms | HTTP: 1373ms | IP: 91.107.171.53 | EPODONIOS
+# Pass details: P1:1922ms | P2:1740ms | P3:1373ms
+vless://mahanvpn-mahanvpn@92.42.96.240:443?path=/&security=tls&encryption=none&insecure=0&host=mAhaNrEaliteAm.MaHkHan.iR&type=ws&allowInsecure=0&sni=mAhaNrEaliteAm.MaHkHan.iR#EPODONIOS
+
+# 27. Score: 100 | Reliability: 3/3 | TCP: 117ms | HTTP: 1329ms | IP: 91.107.171.53 | EPODONIOS
+# Pass details: P1:1801ms | P2:1722ms | P3:1329ms
+vless://mahanvpn-mahanvpn@92.42.96.240:443?sni=mAhaNrEaliteAm.MaHkHan.iR&type=ws&host=mAhaNrEaliteAm.MaHkHan.iR&path=/?ed=2560fp=chrome&security=tls#EPODONIOS
+
