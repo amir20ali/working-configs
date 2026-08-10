@@ -3,93 +3,93 @@
 > **Note:** These configs are tested on **Shatel Internet Provider Network** (Iran). Performance may vary on other networks.
 
 ## 📊 Statistics
-- **Total tested:** 4872 configs
-- **Working configs:** 72
+- **Total tested:** 4773 configs
+- **Working configs:** 61
 - **Passed all 3 tests:** 27
 - **Reliable configs (≥2 passes):** 27
-- **Speed tested:** 18
-- **Last updated:** 2026-08-10 13:18:51
+- **Speed tested:** 20
+- **Last updated:** 2026-08-10 23:25:41
 
 ## 🚀 Top Configs
 
 ### #1: EPODONIOS
 - **Reliability:** 3/3 passes
-- **TCP Latency:** 136ms
-- **HTTP Latency:** 721ms
-- **Download Speed:** 1.85 Mbps (🆗 Fair)
-- **Proxy IP:** 46.101.243.64
+- **TCP Latency:** 128ms
+- **HTTP Latency:** 702ms
+- **Download Speed:** 2.66 Mbps (🆗 Fair)
+- **Proxy IP:** 91.132.59.16
 - [View Config](working_configs.txt)
 
 ### #2: EPODONIOS
 - **Reliability:** 3/3 passes
-- **TCP Latency:** 186ms
-- **HTTP Latency:** 884ms
-- **Download Speed:** 1.27 Mbps (🆗 Fair)
-- **Proxy IP:** 147.78.180.2
+- **TCP Latency:** 128ms
+- **HTTP Latency:** 773ms
+- **Download Speed:** 1.08 Mbps (🆗 Fair)
+- **Proxy IP:** 31.57.196.109
 - [View Config](working_configs.txt)
 
 ### #3: EPODONIOS
 - **Reliability:** 3/3 passes
-- **TCP Latency:** 250ms
-- **HTTP Latency:** 480ms
-- **Download Speed:** 0.93 Mbps (🐢 Slow)
-- **Proxy IP:** 54.37.3.0
+- **TCP Latency:** 155ms
+- **HTTP Latency:** 617ms
+- **Download Speed:** 1.85 Mbps (🆗 Fair)
+- **Proxy IP:** 78.17.4.20
 - [View Config](working_configs.txt)
 
 ### #4: EPODONIOS
 - **Reliability:** 3/3 passes
-- **TCP Latency:** 260ms
-- **HTTP Latency:** 659ms
-- **Download Speed:** 1.37 Mbps (🆗 Fair)
+- **TCP Latency:** 144ms
+- **HTTP Latency:** 692ms
+- **Download Speed:** 1.00 Mbps (🆗 Fair)
 - **Proxy IP:** 5.175.178.54
 - [View Config](working_configs.txt)
 
 ### #5: EPODONIOS
 - **Reliability:** 3/3 passes
-- **TCP Latency:** 195ms
-- **HTTP Latency:** 1051ms
-- **Download Speed:** 1.41 Mbps (🆗 Fair)
-- **Proxy IP:** 147.78.180.2
+- **TCP Latency:** 80ms
+- **HTTP Latency:** 886ms
+- **Download Speed:** 1.47 Mbps (🆗 Fair)
+- **Proxy IP:** 208.69.78.161
 - [View Config](working_configs.txt)
 
 ### #6: EPODONIOS
 - **Reliability:** 3/3 passes
-- **TCP Latency:** 187ms
-- **HTTP Latency:** 956ms
-- **Download Speed:** 0.97 Mbps (🐢 Slow)
-- **Proxy IP:** 45.148.233.2
+- **TCP Latency:** 113ms
+- **HTTP Latency:** 769ms
+- **Download Speed:** 1.62 Mbps (🆗 Fair)
+- **Proxy IP:** 164.37.109.186
 - [View Config](working_configs.txt)
 
 ### #7: EPODONIOS
 - **Reliability:** 3/3 passes
-- **TCP Latency:** 193ms
-- **HTTP Latency:** 942ms
-- **Download Speed:** 0.57 Mbps (🐢 Slow)
-- **Proxy IP:** 45.148.233.2
+- **TCP Latency:** 184ms
+- **HTTP Latency:** 838ms
+- **Download Speed:** 0.87 Mbps (🐢 Slow)
+- **Proxy IP:** 78.17.158.16
 - [View Config](working_configs.txt)
 
 ### #8: EPODONIOS
 - **Reliability:** 3/3 passes
-- **TCP Latency:** 101ms
-- **HTTP Latency:** 1198ms
-- **Download Speed:** 2.07 Mbps (🆗 Fair)
-- **Proxy IP:** 91.107.171.53
+- **TCP Latency:** 168ms
+- **HTTP Latency:** 825ms
+- **Download Speed:** 0.76 Mbps (🐢 Slow)
+- **Proxy IP:** 78.17.158.16
 - [View Config](working_configs.txt)
 
 ### #9: EPODONIOS
 - **Reliability:** 3/3 passes
-- **TCP Latency:** 101ms
-- **HTTP Latency:** 1149ms
-- **Download Speed:** 2.22 Mbps (🆗 Fair)
-- **Proxy IP:** 91.107.171.53
+- **TCP Latency:** 168ms
+- **HTTP Latency:** 626ms
+- **Download Speed:** 0.55 Mbps (🐢 Slow)
+- **Proxy IP:** 78.17.185.45
 - [View Config](working_configs.txt)
 
 ### #10: EPODONIOS
 - **Reliability:** 3/3 passes
-- **TCP Latency:** 100ms
-- **HTTP Latency:** 1170ms
-- **Download Speed:** 1.60 Mbps (🆗 Fair)
-- **Proxy IP:** 91.107.171.53
+- **TCP Latency:** 128ms
+- **HTTP Latency:** 702ms
+- **Download Speed:** 0.93 Mbps (🐢 Slow)
+- **Proxy IP:** 5.175.178.54
 - [View Config](working_configs.txt)
 
 
