@@ -1,0 +1,103 @@
+# Working V2Ray/Xray Configs
+# Generated: 2026-08-14 02:44:43
+# Total working: 19
+# Total tested: 4888
+# XRAY core used
+# ================================================
+# IMPORTANT: These configs are tested on Shatel Internet Provider Network
+# Performance may vary on different ISPs
+# ================================================
+
+# 1. Score: 140 | Reliability: 3/3 | TCP: 112ms | HTTP: 882ms | Speed: 1.46 Mbps | IP: 65.109.184.180 | EPODONIOS
+# Pass details: P1:910ms | P2:887ms | P3:882ms
+# Speed test: 1.46 Mbps in 5.23s
+vless://81df88b4-ab24-4510-dc5f-7ebdbf24ff0a@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&host=c12.com&fp=chrome&type=ws&sni=ssl.fastly.com#EPODONIOS
+
+# 2. Score: 130 | Reliability: 3/3 | TCP: 128ms | HTTP: 751ms | Speed: 0.56 Mbps | IP: 65.109.184.180 | EPODONIOS
+# Pass details: P1:751ms | P2:904ms | P3:900ms
+# Speed test: 0.56 Mbps in 5.05s
+vless://81df88b4-ab24-4510-dc5f-7ebdbf24ff0a@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+
+# 3. Score: 130 | Reliability: 3/3 | TCP: 112ms | HTTP: 696ms | Speed: 0.77 Mbps | IP: 31.76.80.69 | EPODONIOS
+# Pass details: P1:696ms | P2:750ms | P3:741ms
+# Speed test: 0.77 Mbps in 5.10s
+vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?fp=chrome&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&sni=www.amd.com&extra={  "mode" : "auto"}&mode=auto&encryption=none&sid=29b21343ab4d&spx=/y52f8gp4rv1il6u&security=reality&path=/&type=xhttp#EPODONIOS
+
+# 4. Score: 130 | Reliability: 3/3 | TCP: 132ms | HTTP: 616ms | Speed: 0.66 Mbps | IP: 31.76.80.69 | EPODONIOS
+# Pass details: P1:616ms | P2:672ms | P3:686ms
+# Speed test: 0.66 Mbps in 5.38s
+vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/&security=reality&encryption=none&extra=&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#EPODONIOS
+
+# 5. Score: 130 | Reliability: 3/3 | TCP: 113ms | HTTP: 641ms | Speed: 0.44 Mbps | IP: 188.225.33.206 | EPODONIOS
+# Pass details: P1:1552ms | P2:653ms | P3:641ms
+# Speed test: 0.44 Mbps in 5.06s
+vless://c124a209-d949-4951-8234-e2d918b3e6c0@188.225.33.206:8443?security=reality&encryption=none&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=max.ru#EPODONIOS
+
+# 6. Score: 120 | Reliability: 3/3 | TCP: 80ms | HTTP: 1175ms | Speed: 0.16 Mbps | IP: 78.135.77.138 | EPODONIOS
+# Pass details: P1:3864ms | P2:2300ms | P3:1175ms
+# Speed test: 0.16 Mbps in 6.10s
+vless://2bebed15-4476-4a46-84d3-6f09dc7672e3@turkey.blueheartz.ir:1824?security=reality&encryption=none&pbk=tge1_umgZzzbe243U0RmtmHKF9LNp-Hg6xg0KV7Zv1c&headerType=none&fp=chrome&spx=/3dc537d5cf5c4b1&type=tcp&flow=xtls-rprx-vision&sni=play-fe.googleapis.com&sid=3176#EPODONIOS
+
+# 7. Score: 120 | Reliability: 3/3 | TCP: 111ms | HTTP: 1279ms | Speed: 0.42 Mbps | IP: 198.100.154.175 | EPODONIOS
+# Pass details: P1:1470ms | P2:1460ms | P3:1279ms
+# Speed test: 0.42 Mbps in 5.19s
+vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@104.18.1.1:2087?insecure=0&type=ws&path=/download.php&allowInsecure=0&sni=Amphetamine.aDaspoloandco.com&host=Amphetamine.aDaspoloandco.com&encryption=none&security=tls&fp=chrome#EPODONIOS
+
+# 8. Score: 120 | Reliability: 3/3 | TCP: 111ms | HTTP: 1210ms | Speed: 0.55 Mbps | IP: 198.100.154.175 | EPODONIOS
+# Pass details: P1:1210ms | P2:1390ms | P3:1266ms
+# Speed test: 0.55 Mbps in 5.07s
+vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@104.18.1.1:2087?path=/download.php&security=tls&encryption=none&insecure=0&host=Amphetamine.aDaspoloandco.com&fp=chrome&ech=54.Mk+udp://86.54.11.200&type=ws&allowInsecure=0&sni=Amphetamine.aDaspoloandco.com#EPODONIOS
+
+# 9. Score: 120 | Reliability: 3/3 | TCP: 127ms | HTTP: 1219ms | Speed: 0.68 Mbps | IP: 198.100.154.175 | EPODONIOS
+# Pass details: P1:1223ms | P2:1219ms | P3:1326ms
+# Speed test: 0.68 Mbps in 5.11s
+vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@172.67.74.10:2087?path=/download.php&security=tls&encryption=none&insecure=0&host=amphetamine.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=amphetamine.adaspoloandco.com#EPODONIOS
+
+# 10. Score: 120 | Reliability: 3/3 | TCP: 147ms | HTTP: 1935ms | Speed: 0.33 Mbps | IP: 212.74.39.72 | EPODONIOS
+# Pass details: P1:4649ms | P2:3734ms | P3:1935ms
+# Speed test: 0.33 Mbps in 5.01s
+vless://XpnTeam-37@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+
+# 11. Score: 120 | Reliability: 3/3 | TCP: 127ms | HTTP: 1163ms | Speed: 0.18 Mbps | IP: 31.76.46.138 | EPODONIOS
+# Pass details: P1:1163ms | P2:2312ms | P3:1469ms
+# Speed test: 0.18 Mbps in 5.24s
+vless://d8523317-503e-43ad-b2c3-e5f77d725848@31.76.46.138:20422?encryption=none&type=raw&security=reality&sni=yahoo.com&fp=chrome&pbk=ZUQTvwYk_hDqSrw36uc18MkeEIXIGZZGsf5XWVwdqAQ&sid=90&spx=/HesarWeb#EPODONIOS
+
+# 12. Score: 120 | Reliability: 3/3 | TCP: 122ms | HTTP: 1131ms | Speed: 0.24 Mbps | IP: 31.76.46.138 | EPODONIOS
+# Pass details: P1:1131ms | P2:2729ms | P3:1375ms
+# Speed test: 0.24 Mbps in 5.02s
+vless://d8523317-503e-43ad-b2c3-e5f77d725848@31.76.46.138:20422?security=reality&encryption=none&pbk=ZUQTvwYk_hDqSrw36uc18MkeEIXIGZZGsf5XWVwdqAQ&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=90#EPODONIOS
+
+# 13. Score: 120 | Reliability: 3/3 | TCP: 96ms | HTTP: 1451ms | Speed: 0.37 Mbps | IP: 31.76.46.138 | EPODONIOS
+# Pass details: P1:1698ms | P2:2744ms | P3:1451ms
+# Speed test: 0.37 Mbps in 5.33s
+vless://d8523317-503e-43ad-b2c3-e5f77d725848@31.76.46.138:20422?security=reality&encryption=none&pbk=ZUQTvwYk_hDqSrw36uc18MkeEIXIGZZGsf5XWVwdqAQ&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=90#EPODONIOS
+
+# 14. Score: 120 | Reliability: 3/3 | TCP: 129ms | HTTP: 2352ms | Speed: 1.85 Mbps | EPODONIOS
+# Pass details: P1:2352ms | P2:4073ms | P3:5151ms
+# Speed test: 1.85 Mbps in 4.32s
+vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=/download.php&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#EPODONIOS
+
+# 15. Score: 120 | Reliability: 3/3 | TCP: 111ms | HTTP: 2324ms | Speed: 1.30 Mbps | EPODONIOS
+# Pass details: P1:2324ms | P2:4078ms | P3:4212ms
+# Speed test: 1.30 Mbps in 5.05s
+vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.27.66.214:8443?path=/download.php&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#EPODONIOS
+
+# 16. Score: 110 | Reliability: 3/3 | TCP: 132ms | HTTP: 623ms | IP: 31.76.80.69 | EPODONIOS
+# Pass details: P1:645ms | P2:623ms | P3:631ms
+vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?sid=29b21343ab4d&sni=www.amd.com&security=reality&path=/&encryption=none&fp=chrome&spx=/y52f8gp4rv1il6u&mode=auto&extra={  "mode" : "auto"}&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&type=xhttp#EPODONIOS
+
+# 17. Score: 110 | Reliability: 3/3 | TCP: 113ms | HTTP: 689ms | IP: 188.225.33.206 | EPODONIOS
+# Pass details: P1:2848ms | P2:2614ms | P3:689ms
+vless://c124a209-d949-4951-8234-e2d918b3e6c0@188.225.33.206:8443?security=reality&encryption=none&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru#EPODONIOS
+
+# 18. Score: 110 | Reliability: 3/3 | TCP: 175ms | HTTP: 1718ms | Speed: 0.59 Mbps | EPODONIOS
+# Pass details: P1:2526ms | P2:1718ms | P3:2414ms
+# Speed test: 0.59 Mbps in 5.02s
+vless://d98e06d3-7f42-41e8-8dad-e9f35517a992@104.16.72.162:8443?path=/&security=tls&encryption=none&insecure=0&host=ad-004.zensah3g.info.&fp=chrome&type=ws&allowInsecure=0&sni=ssl.zensah3g.info.#EPODONIOS
+
+# 19. Score: 110 | Reliability: 3/3 | TCP: 112ms | HTTP: 2087ms | Speed: 0.64 Mbps | EPODONIOS
+# Pass details: P1:2087ms | P2:4029ms | P3:3172ms
+# Speed test: 0.64 Mbps in 5.00s
+vless://f798a2c4-c51b-409d-b349-ca8455b36796@188.114.97.4:8443?path=/download.php&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#EPODONIOS
+
