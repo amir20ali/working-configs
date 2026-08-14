@@ -1,0 +1,78 @@
+# Working V2Ray/Xray Configs
+# Generated: 2026-08-14 19:59:59
+# Total working: 14
+# Total tested: 4746
+# XRAY core used
+# ================================================
+# IMPORTANT: These configs are tested on Shatel Internet Provider Network
+# Performance may vary on different ISPs
+# ================================================
+
+# 1. Score: 150 | Reliability: 3/3 | TCP: 198ms | HTTP: 496ms | Speed: 2.31 Mbps | IP: 178.83.45.29 | EPODONIOS
+# Pass details: P1:577ms | P2:3955ms | P3:496ms
+# Speed test: 2.31 Mbps in 3.46s
+vmess://eyJhZGQiOiAiMTc4LjgzLjQ1LjI5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI0ODQyMjMwMC00NThmLTRkYmItYjBmNS05NmY0NTQ1MGFiOWYiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjM4OTk4IiwgInBzIjogIkVQT0RPTklPUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+
+# 2. Score: 140 | Reliability: 3/3 | TCP: 150ms | HTTP: 693ms | Speed: 1.05 Mbps | IP: 94.156.155.27 | EPODONIOS
+# Pass details: P1:979ms | P2:818ms | P3:693ms
+# Speed test: 1.05 Mbps in 5.43s
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@94.156.155.27:443?encryption=none&fp=&pbk=bY0-zlTOPCaEWDMw_BTzuzJW513tl6Hc61n4Z-q1cHE&security=reality&sid=8f892fa1&sni=www.telekom.de&type=tcp#EPODONIOS
+
+# 3. Score: 140 | Reliability: 3/3 | TCP: 198ms | HTTP: 496ms | Speed: 0.66 Mbps | IP: 178.83.45.29 | EPODONIOS
+# Pass details: P1:606ms | P2:3840ms | P3:496ms
+# Speed test: 0.66 Mbps in 5.35s
+vmess://eyJhZGQiOiAiMTc4LjgzLjQ1LjI5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI0ODQyMjMwMC00NThmLTRkYmItYjBmNS05NmY0NTQ1MGFiOWYiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTiIsICJwb3J0IjogIjM4OTk4IiwgInBzIjogIkVQT0RPTklPUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+
+# 4. Score: 140 | Reliability: 3/3 | TCP: 198ms | HTTP: 577ms | Speed: 1.86 Mbps | IP: 178.83.45.29 | EPODONIOS
+# Pass details: P1:577ms | P2:4054ms | P3:595ms
+# Speed test: 1.86 Mbps in 4.30s
+vmess://eyJhZGQiOiAiMTc4LjgzLjQ1LjI5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI0ODQyMjMwMC00NThmLTRkYmItYjBmNS05NmY0NTQ1MGFiOWYiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICIzODk5OCIsICJwcyI6ICJFUE9ET05JT1MiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9
+
+# 5. Score: 130 | Reliability: 3/3 | TCP: 91ms | HTTP: 908ms | Speed: 0.41 Mbps | IP: 217.179.220.226 | EPODONIOS
+# Pass details: P1:2371ms | P2:3127ms | P3:908ms
+# Speed test: 0.41 Mbps in 5.06s
+vless://bd33c069-8f8c-4da3-9d14-9f539597ab66@176.109.88.216:443?encryption=none&type=tcp&security=reality&headerType=none&sni=api-maps.yandex.ru&fp=chrome&insecure=1&allowInsecure=1&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=a9c4f17e3b62d8&flow=xtls-rprx-vision#EPODONIOS
+
+# 6. Score: 130 | Reliability: 3/3 | TCP: 198ms | HTTP: 568ms | Speed: 0.61 Mbps | IP: 178.83.45.29 | EPODONIOS
+# Pass details: P1:568ms | P2:3737ms | P3:595ms
+# Speed test: 0.61 Mbps in 5.45s
+vmess://eyJhZGQiOiAiMTc4LjgzLjQ1LjI5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI0ODQyMjMwMC00NThmLTRkYmItYjBmNS05NmY0NTQ1MGFiOWYiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMzg5OTgiLCAicHMiOiAiRVBPRE9OSU9TIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==
+
+# 7. Score: 130 | Reliability: 3/3 | TCP: 198ms | HTTP: 569ms | Speed: 0.86 Mbps | IP: 178.83.45.29 | EPODONIOS
+# Pass details: P1:591ms | P2:3363ms | P3:569ms
+# Speed test: 0.86 Mbps in 5.07s
+vmess://eyJhZGQiOiAiMTc4LjgzLjQ1LjI5IiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogIjQ4NDIyMzAwLTQ1OGYtNGRiYi1iMGY1LTk2ZjQ1NDUwYWI5ZiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTiIsICJwb3J0IjogIjM4OTk4IiwgInBzIjogIkVQT0RPTklPUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
+
+# 8. Score: 120 | Reliability: 3/3 | TCP: 119ms | HTTP: 1399ms | Speed: 0.47 Mbps | IP: 212.74.39.72 | EPODONIOS
+# Pass details: P1:1779ms | P2:1409ms | P3:1399ms
+# Speed test: 0.47 Mbps in 5.46s
+vless://XpnTeam-38@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#EPODONIOS
+
+# 9. Score: 120 | Reliability: 3/3 | TCP: 122ms | HTTP: 1527ms | Speed: 0.68 Mbps | IP: 212.74.39.72 | EPODONIOS
+# Pass details: P1:1527ms | P2:1609ms | P3:2199ms
+# Speed test: 0.68 Mbps in 5.06s
+vless://XpnTeam-38@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+
+# 10. Score: 110 | Reliability: 3/3 | TCP: 194ms | HTTP: 1299ms | Speed: 0.23 Mbps | EPODONIOS
+# Pass details: P1:1469ms | P2:1320ms | P3:1299ms
+# Speed test: 0.23 Mbps in 5.37s
+vless://XpnTeam-39@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#EPODONIOS
+
+# 11. Score: 110 | Reliability: 3/3 | TCP: 194ms | HTTP: 2513ms | Speed: 0.33 Mbps | EPODONIOS
+# Pass details: P1:2997ms | P2:2513ms | P3:2614ms
+# Speed test: 0.33 Mbps in 5.14s
+vless://XpnTeam-39@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+
+# 12. Score: 100 | Reliability: 3/3 | TCP: 208ms | HTTP: 1875ms | Speed: 0.23 Mbps | EPODONIOS
+# Pass details: P1:2796ms | P2:3109ms | P3:1875ms
+# Speed test: 0.23 Mbps in 5.06s
+vless://bd33c069-8f8c-4da3-9d14-9f539597ab66@176.109.88.216:443?security=reality&encryption=none&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a9c4f17e3b62d8#EPODONIOS
+
+# 13. Score: 90 | Reliability: 3/3 | TCP: 302ms | HTTP: 2888ms | IP: 202.47.89.133 | EPODONIOS
+# Pass details: P1:2888ms | P2:2962ms | P3:3202ms
+vmess://eyJ2IjogIjIiLCAicHMiOiAiRVBPRE9OSU9TIiwgImFkZCI6ICIyMDIuNDcuODkuMTMzIiwgInBvcnQiOiAiNTM1NDgiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjNhMDM2MTNiLWJiYWMtNGEyMi1iZWU2LTJjOWE3NTFhMjc2MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvZGtmamgyMjIiLCAiaG9zdCI6ICIiLCAidGxzIjogIiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
+
+# 14. Score: 80 | Reliability: 3/3 | TCP: 704ms | HTTP: 2394ms | EPODONIOS
+# Pass details: P1:5766ms | P2:2394ms | P3:4466ms
+vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+
