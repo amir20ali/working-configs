@@ -1,0 +1,101 @@
+# Working V2Ray/Xray Configs
+# Generated: 2026-08-15 22:03:00
+# Total working: 19
+# Total tested: 4591
+# XRAY core used
+# ================================================
+# IMPORTANT: These configs are tested on Shatel Internet Provider Network
+# Performance may vary on different ISPs
+# ================================================
+
+# 1. Score: 130 | Reliability: 3/3 | TCP: 321ms | HTTP: 785ms | Speed: 1.84 Mbps | IP: 89.167.126.126 | EPODONIOS
+# Pass details: P1:1000ms | P2:785ms | P3:1745ms
+# Speed test: 1.84 Mbps in 4.35s
+vless://0a12328a-572e-46a5-9332-84d21a986407@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=SvnTeamChannel.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+
+# 2. Score: 130 | Reliability: 3/3 | TCP: 179ms | HTTP: 429ms | Speed: 0.95 Mbps | EPODONIOS
+# Pass details: P1:429ms | P2:440ms | P3:866ms
+# Speed test: 0.95 Mbps in 5.10s
+vless://1c2b69b0-c777-40fc-8a29-f87c28a451cd@212.100.171.149:5025?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+
+# 3. Score: 130 | Reliability: 3/3 | TCP: 232ms | HTTP: 722ms | Speed: 2.09 Mbps | IP: 65.109.187.250 | EPODONIOS
+# Pass details: P1:802ms | P2:722ms | P3:1841ms
+# Speed test: 2.09 Mbps in 3.83s
+vless://ae74a0a0-b8ca-4d14-c6ea-ecbb724b0c9c@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+
+# 4. Score: 130 | Reliability: 3/3 | TCP: 550ms | HTTP: 696ms | Speed: 1.42 Mbps | IP: 91.107.179.12 | EPODONIOS
+# Pass details: P1:926ms | P2:696ms | P3:1850ms
+# Speed test: 1.42 Mbps in 5.06s
+vless://d0f4d620-db2b-45e0-8353-a073461b1130@new01.asaltabie.monster:443?encryption=none&security=tls&sni=new01.asaltabie.monster&type=ws&host=new01.asaltabie.monster&path=/#EPODONIOS
+
+# 5. Score: 130 | Reliability: 3/3 | TCP: 321ms | HTTP: 745ms | Speed: 1.25 Mbps | IP: 2.28.26.221 | EPODONIOS
+# Pass details: P1:775ms | P2:745ms | P3:1466ms
+# Speed test: 1.25 Mbps in 5.04s
+vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?&security=tls&fp=chrome&sni=ssl.fastly.com&type=ws&headerType=none&host=lsjaoijji.global.ssl.fastly.neT.&path=/#EPODONIOS
+
+# 6. Score: 120 | Reliability: 3/3 | TCP: 182ms | HTTP: 1586ms | Speed: 0.53 Mbps | IP: 31.76.80.69 | EPODONIOS
+# Pass details: P1:4759ms | P2:1586ms | P3:3127ms
+# Speed test: 0.53 Mbps in 5.04s
+vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/&security=reality&encryption=none&extra=&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#EPODONIOS
+
+# 7. Score: 120 | Reliability: 3/3 | TCP: 180ms | HTTP: 1015ms | Speed: 0.51 Mbps | IP: 31.76.80.69 | EPODONIOS
+# Pass details: P1:1330ms | P2:1015ms | P3:2111ms
+# Speed test: 0.51 Mbps in 5.01s
+vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/?@mehrosaboran?ed=2048&security=reality&encryption=none&extra={"mode":"auto"}&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#EPODONIOS
+
+# 8. Score: 120 | Reliability: 3/3 | TCP: 224ms | HTTP: 2356ms | Speed: 1.01 Mbps | IP: 178.83.45.29 | EPODONIOS
+# Pass details: P1:4892ms | P2:2356ms | P3:2967ms
+# Speed test: 1.01 Mbps in 5.06s
+vmess://eyJhZGQiOiAiMTc4LjgzLjQ1LjI5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI0ODQyMjMwMC00NThmLTRkYmItYjBmNS05NmY0NTQ1MGFiOWYiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICIzODk5OCIsICJwcyI6ICJFUE9ET05JT1MiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9
+
+# 9. Score: 110 | Reliability: 3/3 | TCP: 282ms | HTTP: 1114ms | Speed: 0.53 Mbps | IP: 31.76.80.69 | EPODONIOS
+# Pass details: P1:1966ms | P2:1114ms | P3:2151ms
+# Speed test: 0.53 Mbps in 5.06s
+vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/?@TOOTFFARANGI?ed=2048&security=reality&encryption=none&extra={"mode":"auto"}&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#EPODONIOS
+
+# 10. Score: 110 | Reliability: 3/3 | TCP: 269ms | HTTP: 1624ms | Speed: 0.36 Mbps | IP: 149.33.0.216 | EPODONIOS
+# Pass details: P1:2247ms | P2:1624ms | P3:2220ms
+# Speed test: 0.36 Mbps in 5.12s
+vless://9d01e9f2-1569-48cd-beb3-36f706f5ad5b@45.146.131.154:8452?security=reality&encryption=none&pbk=neW65LaKi88zH-X9gRQPhl5YqQLz9E4IrVnOpS4BnkU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=45b10e93bc618c2c#EPODONIOS
+
+# 11. Score: 110 | Reliability: 3/3 | TCP: 619ms | HTTP: 1933ms | Speed: 0.26 Mbps | IP: 202.47.89.133 | EPODONIOS
+# Pass details: P1:1933ms | P2:2020ms | P3:2762ms
+# Speed test: 0.26 Mbps in 5.00s
+vmess://eyJhZGQiOiAiMjAyLjQ3Ljg5LjEzMyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaWQiOiAiM2EwMzYxM2ItYmJhYy00YTIyLWJlZTYtMmM5YTc1MWEyNzYxIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2RrZmpoMjIyIiwgInBvcnQiOiAiNTM1NDgiLCAicHMiOiAiRVBPRE9OSU9TIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+
+# 12. Score: 110 | Reliability: 3/3 | TCP: 400ms | HTTP: 2123ms | Speed: 0.18 Mbps | IP: 43.132.192.16 | EPODONIOS
+# Pass details: P1:2474ms | P2:2123ms | P3:2418ms
+# Speed test: 0.18 Mbps in 5.21s
+vmess://eyJhZGQiOiAiNDMuMTMyLjE5Mi4xNiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYWU4NjJlMWQtM2I4Yy00NDNhLTAyN2ItMzdjNmM2OWVmNDNjIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiOTUyNyIsICJwcyI6ICJFUE9ET05JT1MiLCAic2N5IjogImNoYWNoYTIwLXBvbHkxMzA1IiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==
+
+# 13. Score: 110 | Reliability: 3/3 | TCP: 530ms | HTTP: 1482ms | Speed: 0.69 Mbps | IP: 202.47.89.133 | EPODONIOS
+# Pass details: P1:3449ms | P2:4721ms | P3:1482ms
+# Speed test: 0.69 Mbps in 5.19s
+vmess://eyJhZGQiOiAiMjAyLjQ3Ljg5LjEzMyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiM2EwMzYxM2ItYmJhYy00YTIyLWJlZTYtMmM5YTc1MWEyNzYxIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2RrZmpoMjIyIiwgInBjcyI6ICIiLCAicG9ydCI6ICI1MzU0OCIsICJwcyI6ICJFUE9ET05JT1MiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9
+
+# 14. Score: 100 | Reliability: 3/3 | TCP: 247ms | HTTP: 1083ms | Speed: 0.81 Mbps | EPODONIOS
+# Pass details: P1:1083ms | P2:2150ms | P3:2700ms
+# Speed test: 0.81 Mbps in 5.08s
+vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto"}&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=/y52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#EPODONIOS
+
+# 15. Score: 100 | Reliability: 3/3 | TCP: 1547ms | HTTP: 645ms | IP: 5.254.53.226 | EPODONIOS
+# Pass details: P1:1292ms | P2:645ms | P3:1324ms
+vless://9b6251c2-81d4-4f7c-831e-9ef238ed1de2@At.Sav-savteAm.iR:2007?encryption=none&security=reality&type=xhttp&headerType=none&path=/&mode=auto&sni=updates.cdn-apple.com&fp=chrome&pbk=kmZbdvBKxDfqk_hkKUaljGXLWy9fI7wth0PhVdNAuBk&sid=e7f0105af761d925#EPODONIOS
+
+# 16. Score: 100 | Reliability: 3/3 | TCP: 1226ms | HTTP: 1878ms | Speed: 0.36 Mbps | EPODONIOS
+# Pass details: P1:1878ms | P2:4742ms | P3:5039ms
+# Speed test: 0.36 Mbps in 5.07s
+vless://9fd821e5-c26b-4e6f-a7c7-72dccee7a45b@65.109.191.184:55764?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#EPODONIOS
+
+# 17. Score: 90 | Reliability: 3/3 | TCP: 682ms | HTTP: 1227ms | IP: 154.41.80.141 | EPODONIOS
+# Pass details: P1:1227ms | P2:1476ms | P3:2015ms
+vless://1742863c-ce4b-4bb7-b807-80da29cbec86@www.gov.ua:8880?encryption=none&security=none&type=ws&host=icy-fog-9a41.70-a39.workers.dev&path=/pyip=proxyip.us.cmliussss.net#EPODONIOS
+
+# 18. Score: 90 | Reliability: 3/3 | TCP: 224ms | HTTP: 3266ms | IP: 178.83.45.29 | EPODONIOS
+# Pass details: P1:4928ms | P2:3980ms | P3:3266ms
+vmess://eyJhZGQiOiAiMTc4LjgzLjQ1LjI5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI0ODQyMjMwMC00NThmLTRkYmItYjBmNS05NmY0NTQ1MGFiOWYiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMzg5OTgiLCAicHMiOiAiRVBPRE9OSU9TIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==
+
+# 19. Score: 90 | Reliability: 3/3 | TCP: 224ms | HTTP: 2290ms | IP: 178.83.45.29 | EPODONIOS
+# Pass details: P1:4583ms | P2:2743ms | P3:2290ms
+vmess://eyJhZGQiOiAiMTc4LjgzLjQ1LjI5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI0ODQyMjMwMC00NThmLTRkYmItYjBmNS05NmY0NTQ1MGFiOWYiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjM4OTk4IiwgInBzIjogIkVQT0RPTklPUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+
