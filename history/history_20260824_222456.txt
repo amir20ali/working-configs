@@ -1,0 +1,14 @@
+# Working V2Ray/Xray Configs
+# Generated: 2026-08-24 22:24:51
+# Total working: 1
+# Total tested: 6
+# XRAY core used
+# ================================================
+# IMPORTANT: These configs are tested on Shatel Internet Provider Network
+# Performance may vary on different ISPs
+# ================================================
+
+# 1. Score: 75 | Reliability: 2/3 | TCP: 1191ms | HTTP: 1645ms | IP: 40.77.124.147 | EPODONIOS
+# Pass details: P1:1656ms | P2:1645ms | P3:✗
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?encryption=none&security=none&type=ws&host=download.pusytroller.gq&path=%2F#EPODONIOS
+
