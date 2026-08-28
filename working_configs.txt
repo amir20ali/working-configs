@@ -8,6 +8,12 @@
 # Performance may vary on different ISPs
 # ================================================
 
+trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&sni=borat-hopp.bumbleshrimp.com&type=tcp&headerType=none#%E2%9A%A1%20b2n.ir%2Fv2ray-configs%20%7C%20939
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkhLIFx1RDgzQ1x1RERFRFx1RDgzQ1x1RERGMCB8IEBSYXlkaWthbHggfCAzNjkzQTYiLA0KICAiYWRkIjogIjEwMy4yNDAuMTk3LjExMiIsDQogICJwb3J0IjogIjU1MzE0IiwNCiAgImlkIjogImJkYjY4NjI5LTFjNmEtNGVlZC04MDgzLTdkNDM3OWEyZGQ1MiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAiaHR0cCIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTIFx1RDgzQ1x1RERGQVx1RDgzQ1x1RERGOCB8IEBSYXlkaWthbHggfCAxOTQ1MEYiLA0KICAiYWRkIjogIjEwNy4xNzMuMjU0LjI3IiwNCiAgInBvcnQiOiAiMTUzMTEiLA0KICAiaWQiOiAiYWQ3OGQwMmItODczZi00Y2ZmLThkNGEtNjczZjUzZDZjZTBmIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@179.61.251.89:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&fp=chrome&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#%E2%9A%A1%20b2n.ir%2Fv2ray-configs%20%7C%20842
+
+
 # 1. Score: 140 | Reliability: 3/3 | TCP: 140ms | HTTP: 980ms | Speed: 1.03 Mbps | IP: 129.212.227.248 | EPODONIOS
 # Pass details: P1:1113ms | P2:980ms | P3:1013ms
 # Speed test: 1.03 Mbps in 5.03s
