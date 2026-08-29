@@ -1,43 +1,117 @@
 # Working Configs
-# Generated: 2026-08-29 19:52:13
-# Total working: 7
-# Total tested: 3947
+# Generated: 2026-08-30 00:52:26
+# Total working: 23
+# Total tested: 8614
 # XRAY core used
 # ================================================
 # Performance may vary on different ISPs
 # ================================================
 
-# 1. Score: 140 | Reliability: 3/3 | TCP: 89ms | HTTP: 577ms | Speed: 1.55 Mbps | IP: 65.109.176.188 | ⚡ b2n.ir/v2ray-configs | 832
-# Pass details: P1:614ms | P2:577ms | P3:621ms
-# Speed test: 1.55 Mbps in 5.03s
-vless://8e09f861-80cc-4aec-90d7-b851dace873d@146.75.119.82:80?path=ws%2F%3Fed%3D2048%2F%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%2F%3F2048&security=none&encryption=none&host=rb24.ir&type=ws#⚡ b2n.ir/v2ray-configs | 832
+# 1. Score: 140 | Reliability: 3/3 | TCP: 142ms | HTTP: 921ms | Speed: 2.06 Mbps | IP: 89.35.14.33 | EPODONIOS
+# Pass details: P1:921ms | P2:922ms | P3:1323ms
+# Speed test: 2.06 Mbps in 3.88s
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md4.univesalsrv.com:443?mode=gun&security=reality&encryption=none&authority=&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&fp=chrome&type=grpc&serviceName=hub.v1.ApiService&sni=md4.univesalsrv.com&sid=8e07337954f9823f#EPODONIOS
 
-# 2. Score: 130 | Reliability: 3/3 | TCP: 186ms | HTTP: 975ms | Speed: 0.35 Mbps | IP: 89.35.14.32 | ⚡ b2n.ir/v2ray-configs | 186
-# Pass details: P1:1117ms | P2:1027ms | P3:975ms
-# Speed test: 0.35 Mbps in 5.26s
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md3.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&fp=firefox&type=grpc&serviceName=stats.v2.PushService&sni=md3.univesalsrv.com&sid=9a72d40f1ff882b3#⚡ b2n.ir/v2ray-configs | 186
+# 2. Score: 140 | Reliability: 3/3 | TCP: 95ms | HTTP: 392ms | Speed: 0.78 Mbps | IP: 46.224.238.39 | EPODONIOS
+# Pass details: P1:1550ms | P2:410ms | P3:392ms
+# Speed test: 0.78 Mbps in 5.03s
+vless://61344a01-5e77-45ad-9f0b-243eedff1dd3@de-node.official-happ.online:22886/?type=tcp&encryption=none&flow=#EPODONIOS
 
-# 3. Score: 130 | Reliability: 3/3 | TCP: 120ms | HTTP: 608ms | Speed: 0.93 Mbps | IP: 213.130.137.130 | ⚡ b2n.ir/v2ray-configs | 354
-# Pass details: P1:644ms | P2:663ms | P3:608ms
+# 3. Score: 140 | Reliability: 3/3 | TCP: 102ms | HTTP: 564ms | Speed: 1.39 Mbps | IP: 213.130.137.170 | EPODONIOS
+# Pass details: P1:783ms | P2:692ms | P3:564ms
+# Speed test: 1.39 Mbps in 5.01s
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.170:443?encryption=none&security=reality&sni=panel.freesavesafe.com&fp=chrome&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb&type=xhttp&host=panel.freesavesafe.com&path=/#EPODONIOS
+
+# 4. Score: 130 | Reliability: 3/3 | TCP: 128ms | HTTP: 662ms | Speed: 0.30 Mbps | IP: 159.69.28.178 | EPODONIOS
+# Pass details: P1:727ms | P2:1068ms | P3:662ms
+# Speed test: 0.30 Mbps in 5.11s
+vless://20bcb7a8-c51b-4771-9686-6b4509dc9cd2@159.69.28.178:20995/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=itunes.apple.com&fp=chrome&security=reality&pbk=GqIZ3PiZBcvHMfXhk7BDZMWhF2Q4FrGVW9sgkllXkA4&sid=6ba85179e30d4fc2#EPODONIOS
+
+# 5. Score: 130 | Reliability: 3/3 | TCP: 143ms | HTTP: 1040ms | Speed: 1.01 Mbps | IP: 89.35.14.32 | EPODONIOS
+# Pass details: P1:1125ms | P2:1040ms | P3:1196ms
+# Speed test: 1.01 Mbps in 5.00s
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.32:443?mode=gun&security=reality&encryption=none&authority=&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&fp=chrome&type=grpc&serviceName=stats.v2.PushService&sni=md3.univesalsrv.com&sid=9a72d40f1ff882b3#EPODONIOS
+
+# 6. Score: 130 | Reliability: 3/3 | TCP: 127ms | HTTP: 920ms | Speed: 0.29 Mbps | IP: 89.35.14.32 | EPODONIOS
+# Pass details: P1:920ms | P2:946ms | P3:992ms
+# Speed test: 0.29 Mbps in 5.65s
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.32:443?security=reality&encryption=none&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&fp=chrome&type=grpc&serviceName=stats.v2.PushService&sni=md3.univesalsrv.com&sid=9a72d40f1ff882b3#EPODONIOS
+
+# 7. Score: 130 | Reliability: 3/3 | TCP: 143ms | HTTP: 854ms | Speed: 0.38 Mbps | IP: 89.35.14.33 | EPODONIOS
+# Pass details: P1:1018ms | P2:854ms | P3:1899ms
+# Speed test: 0.38 Mbps in 5.12s
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.33:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&encryption=none&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&fp=chrome&type=grpc&serviceName=hub.v1.ApiService&sni=md4.univesalsrv.com&sid=8e07337954f9823f#EPODONIOS
+
+# 8. Score: 130 | Reliability: 3/3 | TCP: 159ms | HTTP: 918ms | Speed: 0.53 Mbps | IP: 89.35.14.33 | EPODONIOS
+# Pass details: P1:932ms | P2:918ms | P3:1228ms
+# Speed test: 0.53 Mbps in 5.29s
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.33:443?security=reality&encryption=none&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&fp=chrome&type=grpc&serviceName=hub.v1.ApiService&sni=md4.univesalsrv.com&sid=8e07337954f9823f#EPODONIOS
+
+# 9. Score: 130 | Reliability: 3/3 | TCP: 142ms | HTTP: 870ms | Speed: 0.23 Mbps | IP: 89.35.14.32 | EPODONIOS
+# Pass details: P1:870ms | P2:942ms | P3:876ms
+# Speed test: 0.23 Mbps in 5.46s
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md3.univesalsrv.com:443?mode=gun&security=reality&encryption=none&authority=&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&fp=chrome&type=grpc&serviceName=stats.v2.PushService&sni=md3.univesalsrv.com&sid=9a72d40f1ff882b3#EPODONIOS
+
+# 10. Score: 130 | Reliability: 3/3 | TCP: 158ms | HTTP: 873ms | Speed: 0.22 Mbps | IP: 89.35.14.32 | EPODONIOS
+# Pass details: P1:888ms | P2:873ms | P3:1293ms
+# Speed test: 0.22 Mbps in 5.21s
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md3.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&fp=chrome&type=grpc&serviceName=stats.v2.PushService&sni=md3.univesalsrv.com&sid=9a72d40f1ff882b3#EPODONIOS
+
+# 11. Score: 130 | Reliability: 3/3 | TCP: 158ms | HTTP: 921ms | Speed: 0.43 Mbps | IP: 89.35.14.32 | EPODONIOS
+# Pass details: P1:921ms | P2:942ms | P3:981ms
+# Speed test: 0.43 Mbps in 5.11s
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md3.univesalsrv.com:443?security=reality&encryption=none&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&fp=chrome&type=grpc&serviceName=stats.v2.PushService&sni=md3.univesalsrv.com&sid=9a72d40f1ff882b3#EPODONIOS
+
+# 12. Score: 130 | Reliability: 3/3 | TCP: 142ms | HTTP: 945ms | Speed: 0.43 Mbps | IP: 89.35.14.33 | EPODONIOS
+# Pass details: P1:984ms | P2:945ms | P3:1115ms
+# Speed test: 0.43 Mbps in 5.08s
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md4.univesalsrv.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&encryption=none&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&fp=chrome&type=grpc&serviceName=hub.v1.ApiService&sni=&sid=8e07337954f9823f#EPODONIOS
+
+# 13. Score: 130 | Reliability: 3/3 | TCP: 142ms | HTTP: 862ms | Speed: 0.53 Mbps | IP: 89.35.14.33 | EPODONIOS
+# Pass details: P1:862ms | P2:889ms | P3:1032ms
+# Speed test: 0.53 Mbps in 5.02s
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md4.univesalsrv.com:443?security=reality&encryption=none&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&fp=chrome&type=grpc&serviceName=hub.v1.ApiService&sni=md4.univesalsrv.com&sid=8e07337954f9823f#EPODONIOS
+
+# 14. Score: 130 | Reliability: 3/3 | TCP: 112ms | HTTP: 685ms | Speed: 0.43 Mbps | IP: 109.176.229.45 | EPODONIOS
+# Pass details: P1:909ms | P2:685ms | P3:738ms
+# Speed test: 0.43 Mbps in 5.33s
+vless://60e2a548-96aa-4850-a279-1edab743c39b@uk1.cnyvpn.com:2083?security=reality&encryption=none&pbk=5_kjhGPcPUiUNJ0Mt4-YoRjphhDz3Hfvx1YCdbBRUA0&fp=chrome&type=grpc&serviceName=remnagrpc&sni=autotrader.co.uk&sid=8b71da690c3d5d03#EPODONIOS
+
+# 15. Score: 130 | Reliability: 3/3 | TCP: 123ms | HTTP: 1076ms | Speed: 1.56 Mbps | IP: 152.55.176.162 | EPODONIOS
+# Pass details: P1:1912ms | P2:1076ms | P3:1530ms
+# Speed test: 1.56 Mbps in 5.03s
+vless://f532a6ec-5c73-a79e-7cd4-cfc1659e8ede@inetchnl-production-7933.up.railway.app:443?encryption=none&security=tls&type=ws&host=inetchnl-production-7933.up.railway.app&path=/ws/f532a6ec-5c73-a79e-7cd4-cfc1659e8ede&sni=inetchnl-production-7933.up.railway.app&fp=chrome&alpn=h2,http/1.1,h3#EPODONIOS
+
+# 16. Score: 130 | Reliability: 3/3 | TCP: 143ms | HTTP: 776ms | Speed: 0.93 Mbps | IP: 150.40.126.24 | ⚡ b2n.ir/v2ray-configs | 644
+# Pass details: P1:776ms | P2:4744ms | P3:2364ms
 # Speed test: 0.93 Mbps in 5.02s
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.130:443?encryption=none&security=reality&sni=panel.freesavesafe.com&fp=firefox&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb&type=xhttp&host=panel.freesavesafe.com&path=%2F#⚡ b2n.ir/v2ray-configs | 354
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.24:443?mode=gun&security=reality&encryption=none&pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&fp=firefox&type=grpc&serviceName=gw.v1.ObjectService&sni=rs5.univesalsrv.com&sid=4872856d5489c37d#⚡ b2n.ir/v2ray-configs | 644
 
-# 4. Score: 130 | Reliability: 3/3 | TCP: 154ms | HTTP: 966ms | Speed: 0.28 Mbps | IP: 89.35.14.34 | ⚡ b2n.ir/v2ray-configs | 86
-# Pass details: P1:1604ms | P2:1761ms | P3:966ms
-# Speed test: 0.28 Mbps in 5.11s
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&fp=firefox&type=grpc&serviceName=app.v1.PushService&sni=md5.univesalsrv.com&sid=aa9884f2982b7d3c#⚡ b2n.ir/v2ray-configs | 86
+# 17. Score: 110 | Reliability: 3/3 | TCP: 127ms | HTTP: 885ms | IP: 89.35.14.33 | EPODONIOS
+# Pass details: P1:924ms | P2:885ms | P3:1036ms
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.33:443?mode=gun&security=reality&encryption=none&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&fp=chrome&type=grpc&serviceName=hub.v1.ApiService&sni=md4.univesalsrv.com&sid=8e07337954f9823f#EPODONIOS
 
-# 5. Score: 130 | Reliability: 3/3 | TCP: 179ms | HTTP: 624ms | Speed: 0.48 Mbps | IP: 150.129.10.119 | ⚡ b2n.ir/v2ray-configs | 337
-# Pass details: P1:763ms | P2:624ms | P3:698ms
-# Speed test: 0.48 Mbps in 5.29s
-vless://d900a139-8b5f-4758-8a32-389c6f36fc86@150.129.10.119:2054?encryption=none&security=reality&sni=ibm3.tsumshop.org&fp=firefox&pbk=IfLbcpKpIsnEoipMptU-jXSE9D7pRyaH7T-oLNJ0VQA&sid=876984c3480d9655&type=grpc&authority=&serviceName=grpc&mode=gun#⚡ b2n.ir/v2ray-configs | 337
+# 18. Score: 110 | Reliability: 3/3 | TCP: 126ms | HTTP: 780ms | IP: 150.40.126.21 | EPODONIOS
+# Pass details: P1:780ms | P2:811ms | P3:4691ms
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs3.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=gHDoSWGWMVZKWNKONWHw-Cpl0-bdI6GaKusgJIQ-vWQ&fp=chrome&type=grpc&serviceName=edge.v2.FeedService&sni=rs3.univesalsrv.com&sid=35d05b666e2c6cdf#EPODONIOS
 
-# 6. Score: 120 | Reliability: 3/3 | TCP: 206ms | HTTP: 949ms | Speed: 0.29 Mbps | IP: 89.35.14.33 | ⚡ b2n.ir/v2ray-configs | 178
-# Pass details: P1:1004ms | P2:1178ms | P3:949ms
-# Speed test: 0.29 Mbps in 5.24s
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.33:443?mode=gun&security=reality&encryption=none&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&fp=firefox&type=grpc&serviceName=hub.v1.ApiService&sni=md4.univesalsrv.com&sid=8e07337954f9823f#⚡ b2n.ir/v2ray-configs | 178
+# 19. Score: 110 | Reliability: 3/3 | TCP: 142ms | HTTP: 760ms | IP: 150.40.126.21 | EPODONIOS
+# Pass details: P1:787ms | P2:760ms | P3:2568ms
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs3.univesalsrv.com:443?security=reality&encryption=none&pbk=gHDoSWGWMVZKWNKONWHw-Cpl0-bdI6GaKusgJIQ-vWQ&fp=chrome&type=grpc&serviceName=edge.v2.FeedService&sni=rs3.univesalsrv.com&sid=35d05b666e2c6cdf#EPODONIOS
 
-# 7. Score: 110 | Reliability: 3/3 | TCP: 127ms | HTTP: 893ms | IP: 213.130.137.80 | ⚡ b2n.ir/v2ray-configs | 368
-# Pass details: P1:1265ms | P2:1342ms | P3:893ms
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.80:443?type=xhttp&security=reality&host=panel.freesavesafe.com&fp=firefox&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb&sni=panel.freesavesafe.com&path=%2F&mode=auto#⚡ b2n.ir/v2ray-configs | 368
+# 20. Score: 110 | Reliability: 3/3 | TCP: 126ms | HTTP: 813ms | IP: 150.40.126.22 | EPODONIOS
+# Pass details: P1:905ms | P2:813ms | P3:4061ms
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs4.univesalsrv.com:443?security=reality&encryption=none&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=chrome&type=grpc&serviceName=media.v1.StreamService&sni=rs4.univesalsrv.com&sid=861ac7d66953e55f#EPODONIOS
+
+# 21. Score: 110 | Reliability: 3/3 | TCP: 147ms | HTTP: 908ms | IP: 150.40.126.24 | EPODONIOS
+# Pass details: P1:955ms | P2:908ms | P3:4091ms
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs5.univesalsrv.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&encryption=none&pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&fp=chrome&type=grpc&serviceName=gw.v1.ObjectService&sni=&sid=4872856d5489c37d#EPODONIOS
+
+# 22. Score: 110 | Reliability: 3/3 | TCP: 126ms | HTTP: 875ms | IP: 150.40.126.24 | EPODONIOS
+# Pass details: P1:1036ms | P2:875ms | P3:2636ms
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs5.univesalsrv.com:443?security=reality&encryption=none&pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&fp=chrome&type=grpc&serviceName=gw.v1.ObjectService&sni=rs5.univesalsrv.com&sid=4872856d5489c37d#EPODONIOS
+
+# 23. Score: 100 | Reliability: 3/3 | TCP: 143ms | HTTP: 1264ms | IP: 150.40.126.18 | ⚡ b2n.ir/v2ray-configs | 703
+# Pass details: P1:1264ms | P2:4770ms | P3:4013ms
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs1.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY&fp=firefox&type=grpc&serviceName=node.v2.ObjectService&sni=rs1.univesalsrv.com&sid=ed0cd5cc2e26e6e7#⚡ b2n.ir/v2ray-configs | 703
 
