@@ -1,0 +1,43 @@
+# Working Configs
+# Generated: 2026-08-29 19:52:13
+# Total working: 7
+# Total tested: 3947
+# XRAY core used
+# ================================================
+# Performance may vary on different ISPs
+# ================================================
+
+# 1. Score: 140 | Reliability: 3/3 | TCP: 89ms | HTTP: 577ms | Speed: 1.55 Mbps | IP: 65.109.176.188 | ⚡ b2n.ir/v2ray-configs | 832
+# Pass details: P1:614ms | P2:577ms | P3:621ms
+# Speed test: 1.55 Mbps in 5.03s
+vless://8e09f861-80cc-4aec-90d7-b851dace873d@146.75.119.82:80?path=ws%2F%3Fed%3D2048%2F%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%2F%3F2048&security=none&encryption=none&host=rb24.ir&type=ws#⚡ b2n.ir/v2ray-configs | 832
+
+# 2. Score: 130 | Reliability: 3/3 | TCP: 186ms | HTTP: 975ms | Speed: 0.35 Mbps | IP: 89.35.14.32 | ⚡ b2n.ir/v2ray-configs | 186
+# Pass details: P1:1117ms | P2:1027ms | P3:975ms
+# Speed test: 0.35 Mbps in 5.26s
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md3.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&fp=firefox&type=grpc&serviceName=stats.v2.PushService&sni=md3.univesalsrv.com&sid=9a72d40f1ff882b3#⚡ b2n.ir/v2ray-configs | 186
+
+# 3. Score: 130 | Reliability: 3/3 | TCP: 120ms | HTTP: 608ms | Speed: 0.93 Mbps | IP: 213.130.137.130 | ⚡ b2n.ir/v2ray-configs | 354
+# Pass details: P1:644ms | P2:663ms | P3:608ms
+# Speed test: 0.93 Mbps in 5.02s
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.130:443?encryption=none&security=reality&sni=panel.freesavesafe.com&fp=firefox&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb&type=xhttp&host=panel.freesavesafe.com&path=%2F#⚡ b2n.ir/v2ray-configs | 354
+
+# 4. Score: 130 | Reliability: 3/3 | TCP: 154ms | HTTP: 966ms | Speed: 0.28 Mbps | IP: 89.35.14.34 | ⚡ b2n.ir/v2ray-configs | 86
+# Pass details: P1:1604ms | P2:1761ms | P3:966ms
+# Speed test: 0.28 Mbps in 5.11s
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&fp=firefox&type=grpc&serviceName=app.v1.PushService&sni=md5.univesalsrv.com&sid=aa9884f2982b7d3c#⚡ b2n.ir/v2ray-configs | 86
+
+# 5. Score: 130 | Reliability: 3/3 | TCP: 179ms | HTTP: 624ms | Speed: 0.48 Mbps | IP: 150.129.10.119 | ⚡ b2n.ir/v2ray-configs | 337
+# Pass details: P1:763ms | P2:624ms | P3:698ms
+# Speed test: 0.48 Mbps in 5.29s
+vless://d900a139-8b5f-4758-8a32-389c6f36fc86@150.129.10.119:2054?encryption=none&security=reality&sni=ibm3.tsumshop.org&fp=firefox&pbk=IfLbcpKpIsnEoipMptU-jXSE9D7pRyaH7T-oLNJ0VQA&sid=876984c3480d9655&type=grpc&authority=&serviceName=grpc&mode=gun#⚡ b2n.ir/v2ray-configs | 337
+
+# 6. Score: 120 | Reliability: 3/3 | TCP: 206ms | HTTP: 949ms | Speed: 0.29 Mbps | IP: 89.35.14.33 | ⚡ b2n.ir/v2ray-configs | 178
+# Pass details: P1:1004ms | P2:1178ms | P3:949ms
+# Speed test: 0.29 Mbps in 5.24s
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.33:443?mode=gun&security=reality&encryption=none&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&fp=firefox&type=grpc&serviceName=hub.v1.ApiService&sni=md4.univesalsrv.com&sid=8e07337954f9823f#⚡ b2n.ir/v2ray-configs | 178
+
+# 7. Score: 110 | Reliability: 3/3 | TCP: 127ms | HTTP: 893ms | IP: 213.130.137.80 | ⚡ b2n.ir/v2ray-configs | 368
+# Pass details: P1:1265ms | P2:1342ms | P3:893ms
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.80:443?type=xhttp&security=reality&host=panel.freesavesafe.com&fp=firefox&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb&sni=panel.freesavesafe.com&path=%2F&mode=auto#⚡ b2n.ir/v2ray-configs | 368
+
