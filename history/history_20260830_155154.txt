@@ -1,0 +1,13 @@
+# Working Configs
+# Generated: 2026-08-30 15:51:48
+# Total working: 1
+# Total tested: 3832
+# XRAY core used
+# ================================================
+# Performance may vary on different ISPs
+# ================================================
+
+# 1. Score: 75 | Reliability: 2/3 | TCP: 1430ms | HTTP: 3716ms | IP: 89.35.14.32 | ⚡ b2n.ir/v2ray-configs | 770
+# Pass details: P1:3716ms | P2:3923ms | P3:✗
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.32:443?mode=gun&security=reality&encryption=none&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&fp=firefox&type=grpc&serviceName=stats.v2.PushService&sni=md3.univesalsrv.com&sid=9a72d40f1ff882b3#⚡ b2n.ir/v2ray-configs | 770
+
