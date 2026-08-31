@@ -1,1 +1,63 @@
-vless://7c59eef8-978a-4071-bda4-5bcaf6d8521f@194.55.239.190:8445?encryption=none&security=reality&sni=strm.yandex.net&fp=firefox&pbk=ypzgxQ7VhTlTqjT0pAzWBIyotcG7SYqMpErwMBDci0g&type=xhttp&path=%2Fcontent%2Fdash%2Fsegments%2F&mode=stream-one&extra=%7B%22host%22%3A%22%22%2C%22path%22%3A%22%22%2C%22mode%22%3A%22%22%2C%22headers%22%3Anull%2C%22xPaddingBytes%22%3A%2250-150%22%2C%22xPaddingObfsMode%22%3Afalse%2C%22xPaddingKey%22%3A%22%22%2C%22xPaddingHeader%22%3A%22%22%2C%22xPaddingPlacement%22%3A%22%22%2C%22xPaddingMethod%22%3A%22%22%2C%22uplinkHTTPMethod%22%3A%22%22%2C%22sessionIDPlacement%22%3A%22%22%2C%22sessionIDKey%22%3A%22%22%2C%22sessionIDTable%22%3A%22%22%2C%22sessionIDLength%22%3A%220%22%2C%22seqPlacement%22%3A%22%22%2C%22seqKey%22%3A%22%22%2C%22uplinkDataPlacement%22%3A%22%22%2C%22uplinkDataKey%22%3A%22%22%2C%22uplinkChunkSize%22%3A%220%22%2C%22noGRPCHeader%22%3Afalse%2C%22noSSEHeader%22%3Afalse%2C%22scMaxEachPostBytes%22%3A%220%22%2C%22scMinPostsIntervalMs%22%3A%220%22%2C%22scMaxBufferedPosts%22%3A0%2C%22scStreamUpServerSecs%22%3A%220%22%2C%22serverMaxHeaderBytes%22%3A0%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A%220%22%2C%22cMaxReuseTimes%22%3A%22256-512%22%2C%22hMaxRequestTimes%22%3A%220%22%2C%22hMaxReusableSecs%22%3A%22900-1500%22%2C%22hKeepAlivePeriod%22%3A0%7D%2C%22downloadSettings%22%3Anull%2C%22extra%22%3Anull%7D#Reality%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
+# Working Configs
+# Generated: 2026-08-31 15:30:38
+# Total working: 11
+# Total tested: 3949
+# XRAY core used
+# ================================================
+# Performance may vary on different ISPs
+# ================================================
+
+# 1. Score: 130 | Reliability: 3/3 | TCP: 215ms | HTTP: 989ms | Speed: 1.83 Mbps | IP: 89.35.14.30 | ⚡ b2n.ir/v2ray-configs | 810
+# Pass details: P1:1297ms | P2:1612ms | P3:989ms
+# Speed test: 1.83 Mbps in 4.38s
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.30:443?mode=gun&security=reality&encryption=none&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&fp=firefox&type=grpc&serviceName=hub.v1.RelayService&sni=md1.univesalsrv.com&sid=221ba6174224ca5b#⚡ b2n.ir/v2ray-configs | 810
+
+# 2. Score: 130 | Reliability: 3/3 | TCP: 189ms | HTTP: 956ms | Speed: 0.29 Mbps | IP: 89.35.14.30 | ⚡ b2n.ir/v2ray-configs | 432
+# Pass details: P1:956ms | P2:1006ms | P3:1196ms
+# Speed test: 0.29 Mbps in 5.58s
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md1.univesalsrv.com:443?serviceName=hub.v1.RelayService&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&fp=firefox&type=grpc&mode=gun&encryption=none&security=reality&sni=md1.univesalsrv.com&sid=221ba6174224ca5b#⚡ b2n.ir/v2ray-configs | 432
+
+# 3. Score: 130 | Reliability: 3/3 | TCP: 128ms | HTTP: 923ms | Speed: 0.24 Mbps | IP: 150.40.126.18 | ⚡ b2n.ir/v2ray-configs | 195
+# Pass details: P1:1105ms | P2:923ms | P3:1122ms
+# Speed test: 0.24 Mbps in 5.64s
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs1.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY&fp=firefox&type=grpc&serviceName=node.v2.ObjectService&sni=rs1.univesalsrv.com&sid=ed0cd5cc2e26e6e7#⚡ b2n.ir/v2ray-configs | 195
+
+# 4. Score: 130 | Reliability: 3/3 | TCP: 144ms | HTTP: 749ms | Speed: 0.51 Mbps | IP: 150.40.126.24 | ⚡ b2n.ir/v2ray-configs | 580
+# Pass details: P1:1098ms | P2:920ms | P3:749ms
+# Speed test: 0.51 Mbps in 5.05s
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.24:443?mode=gun&security=reality&encryption=none&authority=TELEGRAM%40MARAMBASHI_MARAMBASHI&pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&fp=firefox&type=grpc&serviceName=gw.v1.ObjectService&sni=rs5.univesalsrv.com&sid=4872856d5489c37d#⚡ b2n.ir/v2ray-configs | 580
+
+# 5. Score: 130 | Reliability: 3/3 | TCP: 184ms | HTTP: 923ms | Speed: 0.15 Mbps | IP: 89.35.14.31 | ⚡ b2n.ir/v2ray-configs | 719
+# Pass details: P1:1063ms | P2:1000ms | P3:923ms
+# Speed test: 0.15 Mbps in 5.06s
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.31:443?mode=gun&security=reality&encryption=none&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=firefox&spx=%2FHesarWeb&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#⚡ b2n.ir/v2ray-configs | 719
+
+# 6. Score: 120 | Reliability: 3/3 | TCP: 189ms | HTTP: 1025ms | Speed: 0.45 Mbps | IP: 89.35.14.30 | ⚡ b2n.ir/v2ray-configs | 448
+# Pass details: P1:1065ms | P2:1025ms | P3:1139ms
+# Speed test: 0.45 Mbps in 5.09s
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md1.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&fp=firefox&type=grpc&serviceName=hub.v1.RelayService&sni=md1.univesalsrv.com&sid=221ba6174224ca5b#⚡ b2n.ir/v2ray-configs | 448
+
+# 7. Score: 120 | Reliability: 3/3 | TCP: 96ms | HTTP: 3169ms | Speed: 1.65 Mbps | ⚡ b2n.ir/v2ray-configs | 932
+# Pass details: P1:3795ms | P2:4028ms | P3:3169ms
+# Speed test: 1.65 Mbps in 4.84s
+vless://38dd06a1-e1cb-492b-bb87-218ce05d0d67@185.143.233.5:80?host=fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir&encryption=none&type=ws&path=%2F&security=none#⚡ b2n.ir/v2ray-configs | 932
+
+# 8. Score: 110 | Reliability: 3/3 | TCP: 335ms | HTTP: 1201ms | Speed: 0.16 Mbps | IP: 89.35.14.31 | ⚡ b2n.ir/v2ray-configs | 586
+# Pass details: P1:1201ms | P2:1284ms | P3:1231ms
+# Speed test: 0.16 Mbps in 5.16s
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=firefox&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#⚡ b2n.ir/v2ray-configs | 586
+
+# 9. Score: 110 | Reliability: 3/3 | TCP: 222ms | HTTP: 1239ms | Speed: 0.24 Mbps | IP: 89.35.14.34 | ⚡ b2n.ir/v2ray-configs | 259
+# Pass details: P1:1239ms | P2:2619ms | P3:2241ms
+# Speed test: 0.24 Mbps in 5.02s
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&fp=firefox&type=grpc&serviceName=app.v1.PushService&sni=md5.univesalsrv.com&sid=aa9884f2982b7d3c#⚡ b2n.ir/v2ray-configs | 259
+
+# 10. Score: 100 | Reliability: 3/3 | TCP: 231ms | HTTP: 2485ms | Speed: 0.19 Mbps | ⚡ b2n.ir/v2ray-configs | 545
+# Pass details: P1:3937ms | P2:2485ms | P3:3149ms
+# Speed test: 0.19 Mbps in 5.31s
+trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&sni=borat-hopp.bumbleshrimp.com#⚡ b2n.ir/v2ray-configs | 545
+
+# 11. Score: 90 | Reliability: 3/3 | TCP: 254ms | HTTP: 1288ms | IP: 45.9.156.24 | ⚡ b2n.ir/v2ray-configs | 266
+# Pass details: P1:1288ms | P2:1487ms | P3:2193ms
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=firefox&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#⚡ b2n.ir/v2ray-configs | 266
+
