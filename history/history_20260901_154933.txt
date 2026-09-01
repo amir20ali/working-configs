@@ -1,0 +1,19 @@
+# Working Configs
+# Generated: 2026-09-01 15:49:31
+# Total working: 2
+# Total tested: 3945
+# XRAY core used
+# ================================================
+# Performance may vary on different ISPs
+# ================================================
+
+# 1. Score: 120 | Reliability: 3/3 | TCP: 215ms | HTTP: 1530ms | Speed: 1.14 Mbps | IP: 185.220.101.177 | ⚡ b2n.ir/v2ray-configs | 14
+# Pass details: P1:3352ms | P2:2686ms | P3:1530ms
+# Speed test: 1.14 Mbps in 5.09s
+trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&sni=borat-hopp.bumbleshrimp.com#⚡ b2n.ir/v2ray-configs | 14
+
+# 2. Score: 120 | Reliability: 3/3 | TCP: 140ms | HTTP: 1030ms | Speed: 0.48 Mbps | IP: 89.35.14.32 | ⚡ b2n.ir/v2ray-configs | 270
+# Pass details: P1:1881ms | P2:1030ms | P3:1033ms
+# Speed test: 0.48 Mbps in 5.04s
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.32:443?mode=gun&security=reality&encryption=none&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&fp=firefox&type=grpc&serviceName=stats.v2.PushService&sni=md3.univesalsrv.com&sid=9a72d40f1ff882b3#⚡ b2n.ir/v2ray-configs | 270
+
