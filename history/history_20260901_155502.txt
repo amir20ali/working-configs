@@ -1,0 +1,49 @@
+# Working Configs
+# Generated: 2026-09-01 15:55:00
+# Total working: 8
+# Total tested: 3945
+# XRAY core used
+# ================================================
+# Performance may vary on different ISPs
+# ================================================
+
+# 1. Score: 130 | Reliability: 3/3 | TCP: 256ms | HTTP: 919ms | Speed: 1.45 Mbps | IP: 150.40.126.21 | ⚡ b2n.ir/v2ray-configs | 93
+# Pass details: P1:2078ms | P2:1155ms | P3:919ms
+# Speed test: 1.45 Mbps in 5.13s
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs3.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=gHDoSWGWMVZKWNKONWHw-Cpl0-bdI6GaKusgJIQ-vWQ&fp=firefox&type=grpc&serviceName=edge.v2.FeedService&sni=rs3.univesalsrv.com&sid=35d05b666e2c6cdf#⚡ b2n.ir/v2ray-configs | 93
+
+# 2. Score: 130 | Reliability: 3/3 | TCP: 173ms | HTTP: 718ms | Speed: 0.53 Mbps | IP: 62.133.62.179 | ⚡ b2n.ir/v2ray-configs | 450
+# Pass details: P1:1245ms | P2:3288ms | P3:718ms
+# Speed test: 0.53 Mbps in 5.04s
+vless://d67af820-f54c-48ab-862c-19086357f276@62.133.62.179:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=e5f67890#⚡ b2n.ir/v2ray-configs | 450
+
+# 3. Score: 130 | Reliability: 3/3 | TCP: 107ms | HTTP: 815ms | Speed: 0.52 Mbps | IP: 150.40.126.21 | ⚡ b2n.ir/v2ray-configs | 584
+# Pass details: P1:4443ms | P2:961ms | P3:815ms
+# Speed test: 0.52 Mbps in 5.16s
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.21:443?security=reality&encryption=none&pbk=gHDoSWGWMVZKWNKONWHw-Cpl0-bdI6GaKusgJIQ-vWQ&fp=firefox&type=grpc&serviceName=edge.v2.FeedService&sni=rs3.univesalsrv.com&sid=35d05b666e2c6cdf#⚡ b2n.ir/v2ray-configs | 584
+
+# 4. Score: 130 | Reliability: 3/3 | TCP: 133ms | HTTP: 926ms | Speed: 0.79 Mbps | IP: 150.40.126.18 | ⚡ b2n.ir/v2ray-configs | 1000
+# Pass details: P1:1025ms | P2:1049ms | P3:926ms
+# Speed test: 0.79 Mbps in 5.14s
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs1.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY&fp=firefox&type=grpc&serviceName=node.v2.ObjectService&sid=ed0cd5cc2e26e6e7#⚡ b2n.ir/v2ray-configs | 1000
+
+# 5. Score: 130 | Reliability: 3/3 | TCP: 133ms | HTTP: 984ms | Speed: 0.74 Mbps | IP: 150.40.126.18 | ⚡ b2n.ir/v2ray-configs | 390
+# Pass details: P1:1240ms | P2:1038ms | P3:984ms
+# Speed test: 0.74 Mbps in 5.12s
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs1.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY&fp=firefox&type=grpc&serviceName=node.v2.ObjectService&sni=rs1.univesalsrv.com&sid=ed0cd5cc2e26e6e7#⚡ b2n.ir/v2ray-configs | 390
+
+# 6. Score: 130 | Reliability: 3/3 | TCP: 107ms | HTTP: 826ms | Speed: 0.36 Mbps | IP: 150.40.126.21 | ⚡ b2n.ir/v2ray-configs | 364
+# Pass details: P1:826ms | P2:860ms | P3:883ms
+# Speed test: 0.36 Mbps in 5.35s
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.21:443?mode=gun&security=reality&encryption=none&pbk=gHDoSWGWMVZKWNKONWHw-Cpl0-bdI6GaKusgJIQ-vWQ&fp=firefox&type=grpc&serviceName=edge.v2.FeedService&sni=rs3.univesalsrv.com&sid=35d05b666e2c6cdf#⚡ b2n.ir/v2ray-configs | 364
+
+# 7. Score: 120 | Reliability: 3/3 | TCP: 142ms | HTTP: 1378ms | Speed: 0.28 Mbps | IP: 89.35.14.31 | ⚡ b2n.ir/v2ray-configs | 237
+# Pass details: P1:4851ms | P2:5656ms | P3:1378ms
+# Speed test: 0.28 Mbps in 5.01s
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.31:443?mode=gun&security=reality&encryption=none&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=firefox&spx=%2FHesarWeb&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#⚡ b2n.ir/v2ray-configs | 237
+
+# 8. Score: 110 | Reliability: 3/3 | TCP: 199ms | HTTP: 2466ms | Speed: 0.22 Mbps | ⚡ b2n.ir/v2ray-configs | 261
+# Pass details: P1:4209ms | P2:2745ms | P3:2466ms
+# Speed test: 0.22 Mbps in 5.04s
+vless://60e2a548-96aa-4850-a279-1edab743c39b@nl1.cnyvpn.com:2096?security=reality&encryption=none&pbk=0XSgK4OAEjNPsjYdhNBV5xl5mCCRRzYucSQ9LIO0Gkg&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=dhlparcel.nl&sid=3dad96f8693ea653#⚡ b2n.ir/v2ray-configs | 261
+
