@@ -1,82 +1,93 @@
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@5.175.249.149:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&fp=chrome&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@89.144.30.154:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0#EPODONIOS
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0#EPODONIOS
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0#EPODONIOS
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?encryption=none&security=none&sni=hhlfy.twiladaphne.ndjp.net&type=ws&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@5.175.249.149:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&fp=chrome&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@5.175.249.149:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&fp=chrome&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-vless://78eb4455-0d07-4bc2-93e3-7c8654f11d74@185.123.100.56:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&type=tcp&headerType=none#EPODONIOS
-trojan://Dm0E1hZoho@169.40.32.135:53?type=kcp&headerType=dns&seed=2unY9PSA1n#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&alpn=h2&fp=chrome&type=xhttp&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-trojan://Dm0E1hZoho@169.40.32.135:53?type=kcp&headerType=dns&seed=2unY9PSA1n#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&fp=chrome&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkVQT0RPTklPUyIsDQogICJhZGQiOiAiMTg1LjU5LjExMy40IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImVmYzAyYWM1LTY4NWUtNGM4OC1iM2RhLWNlM2RmYzIzNjU4NSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICItLS0iLA0KICAiaG9zdCI6ICJhbWlyLmFtaXJwb3J0LmlyIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
-vless://a1ee277e-93b7-4aa9-86a2-c7ef85a2adb0@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=pane3.global.ssl.fastly.net&path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&alpn=h2&type=xhttp&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkVQT0RPTklPUyIsDQogICJhZGQiOiAiMTg1LjU5LjExMy40IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImVmYzAyYWM1LTY4NWUtNGM4OC1iM2RhLWNlM2RmYzIzNjU4NSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICItLS0iLA0KICAiaG9zdCI6ICJhbWlyLmFtaXJwb3J0LmlyIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkVQT0RPTklPUyIsDQogICJhZGQiOiAiMTE5LjQ2LjUxLjQ1IiwNCiAgInBvcnQiOiAiMzc1MTUiLA0KICAiaWQiOiAiOWI3NmJjMzEtMTdhNS00NDU0LTkzNGEtOGQ1ZmI2MDJjZDcwIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&alpn=h2&fp=chrome&type=xhttp&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@5.175.249.149:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&fp=chrome&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@5.175.249.149:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&fp=chrome&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkVQT0RPTklPUyIsDQogICJhZGQiOiAiMTg1LjU5LjExMy40IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImVmYzAyYWM1LTY4NWUtNGM4OC1iM2RhLWNlM2RmYzIzNjU4NSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICItLS0iLA0KICAiaG9zdCI6ICJhbWlyLmFtaXJwb3J0LmlyIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&type=xhttp&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&alpn=h2&fp=chrome&type=xhttp&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@5.175.249.149:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&fp=chrome&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&fp=chrome&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&fp=chrome&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&fp=chrome&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&fp=chrome&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&sni=static.lotussec.com&type=xhttp&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&fp=chrome&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&alpn=h2&fp=chrome&type=xhttp&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&fp=chrome&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-vless://38dd06a1-e1cb-492b-bb87-218ce05d0d67@185.143.233.5:80?encryption=none&security=none&type=ws&host=fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir&path=%2F#EPODONIOS
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0#EPODONIOS
-vless://a9aceeb9-17cc-470e-a03b-b7c3ee0f9f14@5.83.129.124:443?encryption=none&flow=xtls-rprx-vision-udp443&security=tls&sni=50gport3.potatosubge20.org&alpn=http%2F1.1&fp=chrome&type=tcp&headerType=none#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@89.144.30.154:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&fp=chrome&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@5.175.249.149:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&fp=chrome&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@89.144.30.154:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-vless://38dd06a1-e1cb-492b-bb87-218ce05d0d67@185.143.233.5:80?encryption=none&security=none&type=ws&host=fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir&path=%2F#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@5.175.249.149:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&fp=chrome&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&fp=chrome&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&alpn=h2&type=xhttp&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&fp=chrome&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one&extra=%7B%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%226%22%2C%22hKeepAlivePeriod%22%3A12%7D%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%28WindowsNT10.0%3BWin64%3Bx64%29AppleWebKit%2F537.36%28KHTML%2ClikeGecko%29Chrome%2F101.0.4951.67Safari%2F537.36%22%7D%7D#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&fp=chrome&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&alpn=h2&fp=chrome&type=xhttp&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one&extra=%7B%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%226%22%2C%22hKeepAlivePeriod%22%3A12%7D%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%28WindowsNT10.0%3BWin64%3Bx64%29AppleWebKit%2F537.36%28KHTML%2ClikeGecko%29Chrome%2F101.0.4951.67Safari%2F537.36%22%7D%7D#EPODONIOS
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&fp=chrome&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0#EPODONIOS
-vless://9c3d8e77-82ca-48d5-9981-dfce97b20ab1@194.110.207.146:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kibi-institut.de&fp=chrome&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629&type=tcp&headerType=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&alpn=h2&fp=chrome&type=xhttp&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one&extra=%7B%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%226%22%2C%22hKeepAlivePeriod%22%3A12%7D%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%28WindowsNT10.0%3BWin64%3Bx64%29AppleWebKit%2F537.36%28KHTML%2ClikeGecko%29Chrome%2F101.0.4951.67Safari%2F537.36%22%7D%7D#EPODONIOS
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&alpn=h2&fp=chrome&type=xhttp&host=dey.lnmarketplace.net&path=%2Fkavir&mode=stream-one#EPODONIOS
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&alpn=h2&fp=chrome&type=xhttp&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one&extra=%7B%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%226%22%2C%22hKeepAlivePeriod%22%3A12%7D%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%28WindowsNT10.0%3BWin64%3Bx64%29AppleWebKit%2F537.36%28KHTML%2ClikeGecko%29Chrome%2F101.0.4951.67Safari%2F537.36%22%7D%7D#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@5.175.249.149:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&fp=chrome&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0#EPODONIOS
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&alpn=h2&fp=chrome&type=xhttp&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&fp=chrome&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one&extra=%7B%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%226%22%2C%22hKeepAlivePeriod%22%3A12%7D%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%28WindowsNT10.0%3BWin64%3Bx64%29AppleWebKit%2F537.36%28KHTML%2ClikeGecko%29Chrome%2F101.0.4951.67Safari%2F537.36%22%7D%7D#EPODONIOS
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&alpn=h2&type=xhttp&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@89.144.30.154:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&alpn=h2&fp=chrome&type=xhttp&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one&extra=%7B%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%226%22%2C%22hKeepAlivePeriod%22%3A12%7D%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%28WindowsNT10.0%3BWin64%3Bx64%29AppleWebKit%2F537.36%28KHTML%2ClikeGecko%29Chrome%2F101.0.4951.67Safari%2F537.36%22%7D%7D#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&fp=chrome&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@5.175.249.149:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&fp=chrome&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&type=xhttp&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0#EPODONIOS
-vless://a1ee277e-93b7-4aa9-86a2-c7ef85a2adb0@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=pane3.global.ssl.fastly.net&path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@5.175.249.149:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&fp=chrome&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0#EPODONIOS
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?encryption=none&security=tls&sni=dey.lnmarketplace.net&alpn=h2&fp=chrome&type=xhttp&host=dey.lnmarketplace.net&path=%2Fkavir%2F%3F%40CONFIG7X&mode=stream-one#EPODONIOS
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0#EPODONIOS
-hysteria2://5bcodmhjtyfyyrqh@91.142.73.159:36758?sni=cdn77.dmtr.ru&obfs=salamander&obfs-password=dzcb7hv6i2kx2zze&insecure=1#EPODONIOS
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?encryption=none&security=none&sni=hhlfy.twiladaphne.ndjp.net&type=ws&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp#EPODONIOS
-hysteria2://5bcodmhjtyfyyrqh@91.142.73.159:36758?sni=cdn77.dmtr.ru&obfs=salamander&obfs-password=dzcb7hv6i2kx2zze&insecure=1#EPODONIOS
+# Working Configs
+# Generated: 2026-09-03 03:57:51
+# Total working: 18
+# Total tested: 3949
+# XRAY core used
+# ================================================
+# Performance may vary on different ISPs
+# ================================================
+
+# 1. Score: 130 | Reliability: 3/3 | TCP: 301ms | HTTP: 617ms | Speed: 1.32 Mbps | IP: 144.31.183.177 | ⚡ b2n.ir/v2ray-configs | 177
+# Pass details: P1:1598ms | P2:1809ms | P3:617ms
+# Speed test: 1.32 Mbps in 5.08s
+vless://06a70256-5acc-4a79-bd73-cc8e3c4c204b@144.31.183.177:443?security=reality&encryption=none&pbk=_VeT5AgFK65VebuF3KC-yYJtFw_fnJCLYGK1Ap2NfWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yt.be&sid=e9a7#⚡ b2n.ir/v2ray-configs | 177
+
+# 2. Score: 130 | Reliability: 3/3 | TCP: 384ms | HTTP: 627ms | Speed: 1.36 Mbps | IP: 132.243.235.53 | ⚡ b2n.ir/v2ray-configs | 381
+# Pass details: P1:1609ms | P2:2370ms | P3:627ms
+# Speed test: 1.36 Mbps in 5.17s
+vless://60e2a548-96aa-4850-a279-1edab743c39b@132.243.235.53:2096?security=reality&encryption=none&pbk=0XSgK4OAEjNPsjYdhNBV5xl5mCCRRzYucSQ9LIO0Gkg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dhlparcel.nl&sid=3dad96f8693ea653#⚡ b2n.ir/v2ray-configs | 381
+
+# 3. Score: 130 | Reliability: 3/3 | TCP: 357ms | HTTP: 481ms | Speed: 0.44 Mbps | IP: 31.76.80.69 | ⚡ b2n.ir/v2ray-configs | 612
+# Pass details: P1:1593ms | P2:1568ms | P3:481ms
+# Speed test: 0.44 Mbps in 5.30s
+vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:443?security=reality&encryption=none&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=www.amd.com&sid=5caa2ef81132c306#⚡ b2n.ir/v2ray-configs | 612
+
+# 4. Score: 120 | Reliability: 3/3 | TCP: 300ms | HTTP: 1015ms | Speed: 2.38 Mbps | IP: 89.35.14.30 | ⚡ b2n.ir/v2ray-configs | 810
+# Pass details: P1:2379ms | P2:2721ms | P3:1015ms
+# Speed test: 2.38 Mbps in 3.37s
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md1.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&fp=firefox&type=grpc&serviceName=hub.v1.RelayService&sni=md1.univesalsrv.com&sid=221ba6174224ca5b#⚡ b2n.ir/v2ray-configs | 810
+
+# 5. Score: 120 | Reliability: 3/3 | TCP: 321ms | HTTP: 712ms | Speed: 0.73 Mbps | IP: 104.28.207.39 | ⚡ b2n.ir/v2ray-configs | 29
+# Pass details: P1:4851ms | P2:2067ms | P3:712ms
+# Speed test: 0.73 Mbps in 5.15s
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-as.data-media-social.org:443?security=reality&encryption=none&pbk=D-lJlqG_tR0QSqyKj4KZRImMRfZbhp88loaf8jP0mhc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-as.data-media-social.org&sid=f3a9d2b1c7d4f608#⚡ b2n.ir/v2ray-configs | 29
+
+# 6. Score: 120 | Reliability: 3/3 | TCP: 332ms | HTTP: 947ms | Speed: 0.53 Mbps | IP: 150.40.126.19 | ⚡ b2n.ir/v2ray-configs | 848
+# Pass details: P1:1829ms | P2:4214ms | P3:947ms
+# Speed test: 0.53 Mbps in 5.12s
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.19:443?mode=gun&security=reality&encryption=none&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&fp=firefox&type=grpc&serviceName=media.v1.ObjectService&sni=rs2.univesalsrv.com&sid=1469af2040b7c323#⚡ b2n.ir/v2ray-configs | 848
+
+# 7. Score: 120 | Reliability: 3/3 | TCP: 353ms | HTTP: 999ms | Speed: 0.41 Mbps | IP: 150.40.126.18 | ⚡ b2n.ir/v2ray-configs | 432
+# Pass details: P1:1888ms | P2:3709ms | P3:999ms
+# Speed test: 0.41 Mbps in 5.14s
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs1.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY&fp=chrome&type=grpc&serviceName=node.v2.ObjectService&sni=rs1.univesalsrv.com&sid=ed0cd5cc2e26e6e7#⚡ b2n.ir/v2ray-configs | 432
+
+# 8. Score: 120 | Reliability: 3/3 | TCP: 384ms | HTTP: 662ms | Speed: 2.72 Mbps | ⚡ b2n.ir/v2ray-configs | 3
+# Pass details: P1:4446ms | P2:3301ms | P3:662ms
+# Speed test: 2.72 Mbps in 2.94s
+vless://60e2a548-96aa-4850-a279-1edab743c39b@de2.cnyvpn.com:2096?security=reality&encryption=none&pbk=pVUUDlLKPprJgV_ZcehzuhOFmw44Gk1DlRsny1zyxCI&host=--v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=conrad.de&sid=e3e76808b9fcd591#⚡ b2n.ir/v2ray-configs | 3
+
+# 9. Score: 120 | Reliability: 3/3 | TCP: 396ms | HTTP: 974ms | Speed: 0.94 Mbps | IP: 89.35.14.31 | ⚡ b2n.ir/v2ray-configs | 407
+# Pass details: P1:2251ms | P2:2481ms | P3:974ms
+# Speed test: 0.94 Mbps in 5.03s
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.31:443?mode=gun&security=reality&encryption=none&authority=TELEGRAM%40TOOTFFARANGI&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=firefox&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#⚡ b2n.ir/v2ray-configs | 407
+
+# 10. Score: 120 | Reliability: 3/3 | TCP: 539ms | HTTP: 1163ms | Speed: 1.13 Mbps | IP: 23.236.69.39 | US 🇺🇸 | @Raydikalx | BF2DC8
+# Pass details: P1:3621ms | P2:3055ms | P3:1163ms
+# Speed test: 1.13 Mbps in 5.00s
+vmess://eyJ2IjoiMiIsInBzIjoiVVMg8J+HuvCfh7ggfCBAUmF5ZGlrYWx4IHwgQkYyREM4IiwiYWRkIjoiMjMuMjM2LjY5LjM5IiwicG9ydCI6IjI0MTg3IiwidHlwZSI6Im5vbmUiLCJpZCI6IjEyYThlZTM2LTU5MzYtNDQ0OS05MGJkLWI1ZWFjNmRiNGMxZCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+
+# 11. Score: 110 | Reliability: 3/3 | TCP: 253ms | HTTP: 2437ms | Speed: 0.12 Mbps | IP: 45.9.156.20 | ⚡ b2n.ir/v2ray-configs | 111
+# Pass details: P1:3086ms | P2:4393ms | P3:2437ms
+# Speed test: 0.12 Mbps in 5.62s
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.20:443?mode=gun&security=reality&encryption=none&pbk=vCxac528c27GggqKBDwXVYvnzyI_BIlc7eqRTo8xqEY&fp=firefox&type=grpc&serviceName=gw.v1.StreamService&sni=bg1.univesalsrv.com&sid=954891aec4fe0be9#⚡ b2n.ir/v2ray-configs | 111
+
+# 12. Score: 110 | Reliability: 3/3 | TCP: 342ms | HTTP: 1138ms | Speed: 0.94 Mbps | IP: 89.35.14.30 | ⚡ b2n.ir/v2ray-configs | 396
+# Pass details: P1:2294ms | P2:3009ms | P3:1138ms
+# Speed test: 0.94 Mbps in 5.02s
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.30:443?mode=gun&security=reality&encryption=none&authority=TELEGRAM%40MARAMBASHI_MARAMBASHI&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&fp=firefox&type=grpc&serviceName=hub.v1.RelayService&sni=md1.univesalsrv.com&sid=221ba6174224ca5b#⚡ b2n.ir/v2ray-configs | 396
+
+# 13. Score: 100 | Reliability: 3/3 | TCP: 233ms | HTTP: 563ms | IP: 31.76.80.69 | ⚡ b2n.ir/v2ray-configs | 709
+# Pass details: P1:2000ms | P2:2118ms | P3:563ms
+vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=%2F%3F%40MARAMBASHI%3Fed%3D2048&security=reality&encryption=none&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=chrome&spx=%2Fy52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#⚡ b2n.ir/v2ray-configs | 709
+
+# 14. Score: 100 | Reliability: 3/3 | TCP: 301ms | HTTP: 597ms | IP: 185.194.177.120 | ⚡ b2n.ir/v2ray-configs | 521
+# Pass details: P1:1932ms | P2:3794ms | P3:597ms
+vless://60e2a548-96aa-4850-a279-1edab743c39b@185.194.177.120:2096?security=reality&encryption=none&pbk=pVUUDlLKPprJgV_ZcehzuhOFmw44Gk1DlRsny1zyxCI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=conrad.de&sid=e3e76808b9fcd591#⚡ b2n.ir/v2ray-configs | 521
+
+# 15. Score: 90 | Reliability: 3/3 | TCP: 372ms | HTTP: 2300ms | IP: 45.9.156.20 | ⚡ b2n.ir/v2ray-configs | 268
+# Pass details: P1:2300ms | P2:4798ms | P3:2487ms
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg1.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=vCxac528c27GggqKBDwXVYvnzyI_BIlc7eqRTo8xqEY&fp=firefox&type=grpc&serviceName=gw.v1.StreamService&sni=bg1.univesalsrv.com&sid=954891aec4fe0be9#⚡ b2n.ir/v2ray-configs | 268
+
+# 16. Score: 90 | Reliability: 3/3 | TCP: 348ms | HTTP: 708ms | ⚡ b2n.ir/v2ray-configs | 905
+# Pass details: P1:1801ms | P2:1860ms | P3:708ms
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=mmad&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#⚡ b2n.ir/v2ray-configs | 905
+
+# 17. Score: 90 | Reliability: 3/3 | TCP: 465ms | HTTP: 1178ms | IP: 89.35.14.32 | ⚡ b2n.ir/v2ray-configs | 736
+# Pass details: P1:2405ms | P2:2493ms | P3:1178ms
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md3.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&fp=firefox&type=grpc&serviceName=stats.v2.PushService&sni=md3.univesalsrv.com&sid=9a72d40f1ff882b3#⚡ b2n.ir/v2ray-configs | 736
+
+# 18. Score: 80 | Reliability: 3/3 | TCP: 343ms | HTTP: 1624ms | ⚡ b2n.ir/v2ray-configs | 12
+# Pass details: P1:1701ms | P2:1874ms | P3:1624ms
+vless://23187ddc-16a5-432d-bf4e-dd42a7ae39f7@104.16.98.215:8880?encryption=none&security=none&type=ws&host=steep-thunder-97fa.108-d10.workers.dev&path=%2F#⚡ b2n.ir/v2ray-configs | 12
+
