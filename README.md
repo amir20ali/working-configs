@@ -1,93 +1,93 @@
 # Working Configs
 
 ## 📊 Statistics
-- **Total tested:** 8866 configs
-- **Working configs:** 76
-- **Passed all 3 tests:** 54
-- **Reliable configs (≥2 passes):** 40
-- **Speed tested:** 46
-- **Last updated:** 2026-09-03 04:59:37
+- **Total tested:** 3949 configs
+- **Working configs:** 21
+- **Passed all 3 tests:** 18
+- **Reliable configs (≥2 passes):** 18
+- **Speed tested:** 15
+- **Last updated:** 2026-09-03 05:11:58
 
 ## 🚀 Top Configs
 
-### #1: EPODONIOS — ✅ Speed-verified
+### #1: ⚡ b2n.ir/v2ray-configs | 177 — ✅ Speed-verified
 - **Reliability:** 3/3 passes
-- **TCP Latency:** 112ms
-- **HTTP Latency:** 493ms
-- **Download Speed:** 0.96 Mbps (🐢 Slow)
-- **Proxy IP:** 2.28.73.216
+- **TCP Latency:** 177ms
+- **HTTP Latency:** 540ms
+- **Download Speed:** 1.10 Mbps (🆗 Fair)
+- **Proxy IP:** 144.31.183.177
 - [View Config](working_configs.txt)
 
-### #2: EPODONIOS — ✅ Speed-verified
+### #2: ⚡ b2n.ir/v2ray-configs | 432 — ✅ Speed-verified
 - **Reliability:** 3/3 passes
-- **TCP Latency:** 96ms
-- **HTTP Latency:** 431ms
-- **Download Speed:** 0.70 Mbps (🐢 Slow)
-- **Proxy IP:** 2a05:d01c:274:6200:6192:4c4c:7b96:e5d9
+- **TCP Latency:** 132ms
+- **HTTP Latency:** 851ms
+- **Download Speed:** 1.68 Mbps (🆗 Fair)
+- **Proxy IP:** 150.40.126.18
 - [View Config](working_configs.txt)
 
-### #3: ⚡ b2n.ir/v2ray-configs | 381 — ✅ Speed-verified
+### #3: ⚡ b2n.ir/v2ray-configs | 396 — ✅ Speed-verified
 - **Reliability:** 3/3 passes
-- **TCP Latency:** 114ms
-- **HTTP Latency:** 784ms
-- **Download Speed:** 1.52 Mbps (🆗 Fair)
-- **Proxy IP:** 132.243.235.53
+- **TCP Latency:** 147ms
+- **HTTP Latency:** 968ms
+- **Download Speed:** 1.25 Mbps (🆗 Fair)
+- **Proxy IP:** 89.35.14.30
 - [View Config](working_configs.txt)
 
-### #4: EPODONIOS — ✅ Speed-verified
+### #4: ⚡ b2n.ir/v2ray-configs | 268 — ✅ Speed-verified
 - **Reliability:** 3/3 passes
-- **TCP Latency:** 104ms
-- **HTTP Latency:** 958ms
-- **Download Speed:** 1.16 Mbps (🆗 Fair)
-- **Proxy IP:** 45.9.156.24
+- **TCP Latency:** 126ms
+- **HTTP Latency:** 944ms
+- **Download Speed:** 0.41 Mbps (🐢 Slow)
+- **Proxy IP:** 45.9.156.20
 - [View Config](working_configs.txt)
 
-### #5: EPODONIOS — ✅ Speed-verified
+### #5: ⚡ b2n.ir/v2ray-configs | 29 — ✅ Speed-verified
 - **Reliability:** 3/3 passes
-- **TCP Latency:** 64ms
-- **HTTP Latency:** 580ms
-- **Download Speed:** 1.21 Mbps (🆗 Fair)
-- **Proxy IP:** 128.0.105.211
-- [View Config](working_configs.txt)
-
-### #6: EPODONIOS — ✅ Speed-verified
-- **Reliability:** 3/3 passes
-- **TCP Latency:** 102ms
-- **HTTP Latency:** 613ms
-- **Download Speed:** 1.03 Mbps (🆗 Fair)
-- **Proxy IP:** 2a01:4f9:c011:4ba7::1
-- [View Config](working_configs.txt)
-
-### #7: EPODONIOS — ✅ Speed-verified
-- **Reliability:** 3/3 passes
-- **TCP Latency:** 120ms
-- **HTTP Latency:** 932ms
-- **Download Speed:** 1.60 Mbps (🆗 Fair)
-- **Proxy IP:** 78.17.186.154
-- [View Config](working_configs.txt)
-
-### #8: EPODONIOS — ✅ Speed-verified
-- **Reliability:** 3/3 passes
-- **TCP Latency:** 113ms
-- **HTTP Latency:** 993ms
-- **Download Speed:** 1.88 Mbps (🆗 Fair)
+- **TCP Latency:** 125ms
+- **HTTP Latency:** 692ms
+- **Download Speed:** 0.37 Mbps (🐢 Slow)
 - **Proxy IP:** 104.28.207.39
 - [View Config](working_configs.txt)
 
-### #9: EPODONIOS — ✅ Speed-verified
+### #6: ⚡ b2n.ir/v2ray-configs | 848 — ✅ Speed-verified
 - **Reliability:** 3/3 passes
-- **TCP Latency:** 114ms
-- **HTTP Latency:** 770ms
-- **Download Speed:** 1.23 Mbps (🆗 Fair)
-- **Proxy IP:** 5.8.52.96
+- **TCP Latency:** 148ms
+- **HTTP Latency:** 831ms
+- **Download Speed:** 0.33 Mbps (🐢 Slow)
+- **Proxy IP:** 150.40.126.19
 - [View Config](working_configs.txt)
 
-### #10: ⚡ b2n.ir/v2ray-configs | 432 — ✅ Speed-verified
+### #7: ⚡ b2n.ir/v2ray-configs | 614 — ✅ Speed-verified
 - **Reliability:** 3/3 passes
-- **TCP Latency:** 156ms
-- **HTTP Latency:** 870ms
-- **Download Speed:** 0.27 Mbps (🐢 Slow)
-- **Proxy IP:** 150.40.126.18
+- **TCP Latency:** 140ms
+- **HTTP Latency:** 744ms
+- **Download Speed:** 0.79 Mbps (🐢 Slow)
+- **Proxy IP:** 45.9.156.27
+- [View Config](working_configs.txt)
+
+### #8: ⚡ b2n.ir/v2ray-configs | 316 — ✅ Speed-verified
+- **Reliability:** 3/3 passes
+- **TCP Latency:** 135ms
+- **HTTP Latency:** 912ms
+- **Download Speed:** 0.58 Mbps (🐢 Slow)
+- **Proxy IP:** 89.35.14.33
+- [View Config](working_configs.txt)
+
+### #9: ⚡ b2n.ir/v2ray-configs | 912 — ✅ Speed-verified
+- **Reliability:** 3/3 passes
+- **TCP Latency:** 135ms
+- **HTTP Latency:** 843ms
+- **Download Speed:** 0.71 Mbps (🐢 Slow)
+- **Proxy IP:** 45.9.156.28
+- [View Config](working_configs.txt)
+
+### #10: ⚡ b2n.ir/v2ray-configs | 549 — ✅ Speed-verified
+- **Reliability:** 3/3 passes
+- **TCP Latency:** 125ms
+- **HTTP Latency:** 801ms
+- **Download Speed:** 0.44 Mbps (🐢 Slow)
+- **Proxy IP:** 150.40.126.21
 - [View Config](working_configs.txt)
 
 
