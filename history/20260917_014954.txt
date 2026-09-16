@@ -1,0 +1,26 @@
+# Working V2Ray/Xray configs
+# Generated: 2026-09-17 01:49:54
+# Core: xray
+# Kept: 5 of 24 tested (minimum 3/3 independent validation passes)
+# Ranked by reliability, latency stability and download speed
+# ============================================================
+
+# 1. score 73.0 | 3/3 passes | tcp 246ms | delay 926ms | jitter 2871ms | 0.59 Mbps | ip 179.61.251.89 | EPODONIOS
+# passes: P1:3652ms | P2:781ms | P3:926ms
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&alpn=h2&fp=chrome&type=xhttp&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one&extra=%7B%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%226%22%2C%22hKeepAlivePeriod%22%3A12%7D%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%28WindowsNT10.0%3BWin64%3Bx64%29AppleWebKit%2F537.36%28KHTML%2ClikeGecko%29Chrome%2F101.0.4951.67Safari%2F537.36%22%7D%7D#EPODONIOS
+
+# 2. score 70.4 | 3/3 passes | tcp 246ms | delay 1365ms | jitter 4703ms | 0.75 Mbps | ip 179.61.251.89 | EPODONIOS
+# passes: P1:5885ms | P2:1182ms | P3:1365ms
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&fp=chrome&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
+
+# 3. score 69.9 | 3/3 passes | tcp 246ms | delay 1562ms | jitter 3147ms | 0.54 Mbps | ip 179.61.251.89 | EPODONIOS
+# passes: P1:4036ms | P2:1562ms | P3:888ms
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&fp=chrome&type=xhttp&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
+
+# 4. score 66.1 | 3/3 passes | tcp 625ms | delay 1900ms | jitter 2092ms | 0.53 Mbps | ip 179.61.138.105 | EPODONIOS
+# passes: P1:3871ms | P2:1779ms | P3:1900ms
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@179.61.138.105:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
+
+# 5. score 65.0 | 3/3 passes | tcp 608ms | delay 2177ms | jitter 3108ms | ip 179.61.251.89 | EPODONIOS
+# passes: P1:4318ms | P2:1211ms | P3:2177ms
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@179.61.251.89:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&fp=chrome&type=xhttp&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
