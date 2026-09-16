@@ -1,0 +1,130 @@
+# Working V2Ray/Xray configs
+# Generated: 2026-09-17 02:08:36
+# Core: xray
+# Kept: 31 of 4373 tested (minimum 3/3 independent validation passes)
+# Ranked by reliability, latency stability and download speed
+# ============================================================
+
+# 1. score 92.6 | 3/3 passes | tcp 224ms | delay 294ms | jitter 2389ms | EPODONIOS
+# passes: P1:2663ms | P2:274ms | P3:294ms
+vless://1ec9239a-4174-4496-800b-5756bdf21041@31.56.189.213:8443?mode=auto&path=/update&security=reality&encryption=none&pbk=h-2E_LAldiBAdYvL0T_oyrK05WQsVAaorwnTjIoyA2U&host=yahoo.com&fp=chrome&type=xhttp&sni=yahoo.com#EPODONIOS
+
+# 2. score 91.6 | 3/3 passes | tcp 205ms | delay 456ms | jitter 664ms | ip 164.92.193.33 | EPODONIOS
+# passes: P1:1049ms | P2:385ms | P3:456ms
+vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.193.33:440?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#EPODONIOS
+
+# 3. score 89.9 | 3/3 passes | tcp 205ms | delay 520ms | jitter 609ms | 0.41 Mbps | ip 134.122.86.165 | EPODONIOS
+# passes: P1:1039ms | P2:520ms | P3:430ms
+vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.122.86.165:440?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#EPODONIOS
+
+# 4. score 88.7 | 3/3 passes | tcp 204ms | delay 529ms | jitter 646ms | ip 167.71.45.85 | EPODONIOS
+# passes: P1:1084ms | P2:438ms | P3:529ms
+vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@167.71.45.85:440?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#EPODONIOS
+
+# 5. score 87.4 | 3/3 passes | tcp 437ms | delay 441ms | jitter 647ms | ip 52.236.68.0 | EPODONIOS
+# passes: P1:1083ms | P2:436ms | P3:441ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMjBZNkFGRU4xcFM3TEpY@94.245.88.26:443#EPODONIOS
+
+# 6. score 84.0 | 3/3 passes | tcp 1240ms | delay 544ms | jitter 1621ms | 0.37 Mbps | ip 5.175.249.208 | EPODONIOS
+# passes: P1:2045ms | P2:424ms | P3:544ms
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@5.175.249.208:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=static.lotussec.com#EPODONIOS
+
+# 7. score 82.8 | 3/3 passes | tcp 203ms | delay 692ms | jitter 4959ms | 0.28 Mbps | ip 164.92.252.15 | EPODONIOS
+# passes: P1:5436ms | P2:692ms | P3:477ms
+vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.252.15:440?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#EPODONIOS
+
+# 8. score 82.2 | 3/3 passes | tcp 124ms | delay 1770ms | jitter 212ms | 0.31 Mbps | ip 168.222.244.67 | EPODONIOS
+# passes: P1:1962ms | P2:1770ms | P3:1750ms
+vless://9d02f031-13c4-4d91-bbf3-cb2081e424b1@168.222.244.67:80?path=/&security=&encryption=none&type=ws#EPODONIOS
+
+# 9. score 80.7 | 3/3 passes | tcp 146ms | delay 871ms | jitter 1386ms | 2.11 Mbps | ip 161.35.94.203 | EPODONIOS
+# passes: P1:2133ms | P2:871ms | P3:747ms
+vless://7a73ae29-b578-49a1-a4a3-1fd33ad20041@185.26.51.228:3389?mode=packet-up&path=/@UonVPN----@UonVPN----@UonVPN----@UonVPN----@UonVPN----@UonVPN----@UonVPN----@UonVPN----@UonVPN----@UonVPN&security=reality&encryption=none&pbk=x_Xq8H5s1Vg-hKv9IAsMCt5It6tXCF13SAe9ffafW2g&fp=chrome&spx=/&type=xhttp&sni=play.google.com&sid=8110ac36ab75#EPODONIOS
+
+# 10. score 80.3 | 3/3 passes | tcp 166ms | delay 1639ms | jitter 221ms | ip 192.248.182.183 | EPODONIOS
+# passes: P1:1526ms | P2:1747ms | P3:1639ms
+vless://5fc7563b-552d-417f-9409-08ef92284599@192.248.182.183:39244?security=&encryption=none&headerType=none&type=tcp#EPODONIOS
+
+# 11. score 76.9 | 3/3 passes | tcp 117ms | delay 2224ms | jitter 1320ms | 2.43 Mbps | ip 128.254.186.10 | EPODONIOS
+# passes: P1:3111ms | P2:2224ms | P3:1792ms
+vless://98d0fa1b-d778-477e-b897-4e2569c53178@128.254.186.11:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#EPODONIOS
+
+# 12. score 75.9 | 3/3 passes | tcp 1234ms | delay 728ms | jitter 2169ms | ip 31.56.184.132 | EPODONIOS
+# passes: P1:2667ms | P2:498ms | P3:728ms
+vless://11f21602-47aa-42e2-9149-69120f2e6df6@31.56.184.132:8443?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=bzbe7QdD633ew_Er1_YWEhuCEHWurmDpxpz3fRzXr0A&sid=b4e3b0b55b8dc75b&type=grpc&authority=&serviceName=shiforgrpc&mode=gun#EPODONIOS
+
+# 13. score 75.8 | 3/3 passes | tcp 127ms | delay 1187ms | jitter 1588ms | 1.98 Mbps | ip 192.42.116.108 | EPODONIOS
+# passes: P1:2729ms | P2:1187ms | P3:1141ms
+vless://7a73ae29-b578-49a1-a4a3-1fd33ad20041@185.26.51.228:8443?mode=auto&path=/@UonVPN----@UonVPN----@UonVPN----@UonVPN----@UonVPN----@UonVPN----@UonVPN----@UonVPN----@UonVPN----@UonVPN&security=reality&encryption=none&pbk=ZkgOAr8Aj7_bpcHxMFzrFW3nv1GrXcPyfUa35zYxyEI&fp=chrome&spx=/&type=xhttp&sni=www.apple.com&sid=2cf10b515a#EPODONIOS
+
+# 14. score 73.6 | 3/3 passes | tcp 1247ms | delay 1748ms | jitter 309ms | 0.67 Mbps | ip 179.61.138.133 | EPODONIOS
+# passes: P1:1748ms | P2:1955ms | P3:1646ms
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@179.61.138.133:443?encryption=none&security=tls&sni=static.lotussec.com&fp=chrome&alpn=h2&type=xhttp&host=static.lotussec.com&path=/Join-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
+
+# 15. score 73.0 | 3/3 passes | tcp 79ms | delay 3956ms | jitter 4037ms | ip 150.241.73.153 | EPODONIOS
+# passes: P1:6251ms | P2:3956ms | P3:2214ms
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.246.58:9881/?type=grpc&encryption=none&flow=&serviceName=grpc-tunnel&sni=dl.google.com&fp=chrome&security=reality&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&sid=#EPODONIOS
+
+# 16. score 72.6 | 3/3 passes | tcp 127ms | delay 1047ms | jitter 1056ms | 0.39 Mbps | ip 94.183.239.49 | EPODONIOS
+# passes: P1:2091ms | P2:1047ms | P3:1035ms
+vless://66ac188b-bd8d-4218-b9ba-0bad0e152cd0@94.198.217.201:14443?path=/2cd72981e7&security=reality&encryption=none&pbk=lgYxR8BT4DbBdEAZ98edqtqeQa1GqMW-1bFUpcDsmU8&fp=chrome&type=xhttp&sni=www.cloudflare.com&sid=7c663cd6da9ae8b0#EPODONIOS
+
+# 17. score 72.5 | 3/3 passes | tcp 139ms | delay 5485ms | jitter 783ms | 0.48 Mbps | ip 177.3.208.167 | EPODONIOS
+# passes: P1:4725ms | P2:5508ms | P3:5485ms
+vless://729425fa-585b-458e-841a-ea30872d4ac2@177.3.208.167:443?security=reality&encryption=none&pbk=ZPdVCztKOeffv0v4TpdQ8X5LMGmVNxZe1ZC7BFC8118&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.uva.nl&sid=940dbf5b#EPODONIOS
+
+# 18. score 72.4 | 3/3 passes | tcp 105ms | delay 1961ms | jitter 1234ms | ip 91.107.146.97 | EPODONIOS
+# passes: P1:1412ms | P2:2647ms | P3:1961ms
+vmess://eyJhZGQiOiAiOTEuMTA3LjE0Ni45NyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZjYzNjFhZjgtYmI4Zi00NjA5LWJmNWQtM2ZjMGY2ODhmNDdiIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIyMDg2IiwgInBzIjogIkVQT0RPTklPUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+
+# 19. score 71.8 | 3/3 passes | tcp 128ms | delay 1834ms | jitter 905ms | ip 95.111.211.246 | EPODONIOS
+# passes: P1:2220ms | P2:1834ms | P3:1314ms
+vless://54489c49-cd94-460b-b6fd-0d3b0b25016d@95.111.211.246:8080?encryption=none&headerType=http&host=&path=/&security=none&type=tcp#EPODONIOS
+
+# 20. score 71.7 | 3/3 passes | tcp 175ms | delay 2449ms | jitter 556ms | ip 209.97.174.130 | EPODONIOS
+# passes: P1:2736ms | P2:2449ms | P3:2179ms
+vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@support.zoom.us:80?encryption=none&type=ws&path=/&host=u.srilankangrill.online&sni=u.srilankangrill.online#EPODONIOS
+
+# 21. score 68.4 | 3/3 passes | tcp 1270ms | delay 2378ms | jitter 2243ms | 1.71 Mbps | ip 179.61.251.89 | EPODONIOS
+# passes: P1:3028ms | P2:2378ms | P3:785ms
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@179.61.251.89:443?encryption=none&security=tls&sni=static.lotussec.com&fp=chrome&alpn=h2&type=xhttp&host=static.lotussec.com&path=/Join-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
+
+# 22. score 68.3 | 3/3 passes | tcp 285ms | delay 2632ms | jitter 3101ms | 0.23 Mbps | ip 136.0.116.171 | EPODONIOS
+# passes: P1:5137ms | P2:2632ms | P3:2036ms
+vless://1ec9239a-4174-4496-800b-5756bdf21041@136.0.116.171:8443?encryption=none&type=grpc&security=reality&sni=cloudflare.com&fp=chrome&pbk=epF9hW_Z8LxlpJzDRXTJrLOFxelXWbAIWlOGPE-MNys&sid=a1b2c3d4e5f67890&spx=/HesarWeb&serviceName=gugfgrpc#EPODONIOS
+
+# 23. score 68.3 | 3/3 passes | tcp 576ms | delay 1475ms | jitter 4263ms | 1.64 Mbps | ip 179.61.251.89 | EPODONIOS
+# passes: P1:5061ms | P2:1475ms | P3:798ms
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&sni=static.lotussec.com&fp=chrome&alpn=h2&type=xhttp&path=/Join-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
+
+# 24. score 66.5 | 3/3 passes | tcp 1261ms | delay 963ms | jitter 3087ms | ip 179.61.138.105 | EPODONIOS
+# passes: P1:3627ms | P2:540ms | P3:963ms
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@179.61.138.105:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&type=xhttp&allowInsecure=0&sni=static.lotussec.com#EPODONIOS
+
+# 25. score 66.5 | 3/3 passes | tcp 416ms | delay 2702ms | jitter 2376ms | 0.73 Mbps | ip 91.107.146.97 | EPODONIOS
+# passes: P1:1680ms | P2:4056ms | P3:2702ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@91.107.146.97:1080#EPODONIOS
+
+# 26. score 66.4 | 3/3 passes | tcp 143ms | delay 4979ms | jitter 2335ms | EPODONIOS
+# passes: P1:4979ms | P2:4355ms | P3:6690ms
+vless://729425fa-585b-458e-841a-ea30872d4ac2@2.27.40.16:443?security=reality&encryption=none&pbk=ZPdVCztKOeffv0v4TpdQ8X5LMGmVNxZe1ZC7BFC8118&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.uva.nl&sid=940dbf5b#EPODONIOS
+
+# 27. score 65.8 | 3/3 passes | tcp 1237ms | delay 1993ms | jitter 2304ms | 0.41 Mbps | ip 179.61.138.5 | EPODONIOS
+# passes: P1:2934ms | P2:1993ms | P3:630ms
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@179.61.138.5:443?encryption=none&security=tls&sni=static.lotussec.com&alpn=h2&type=xhttp&host=static.lotussec.com&path=/Join-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
+
+# 28. score 65.0 | 3/3 passes | tcp 1258ms | delay 1319ms | jitter 823ms | ip 208.77.244.75 | EPODONIOS
+# passes: P1:1842ms | P2:1018ms | P3:1319ms
+vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.37:443?path=/ws/Default&security=tls&alpn=http/1.1&encryption=none&host=service-2e9ca4-a3c172-production.up.railway.app&fp=chrome&type=ws&sni=service-2e9ca4-a3c172-production.up.railway.app#EPODONIOS
+
+# 29. score 65.0 | 3/3 passes | tcp 1249ms | delay 1266ms | jitter 1747ms | ip 5.175.249.149 | EPODONIOS
+# passes: P1:2885ms | P2:1266ms | P3:1138ms
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@5.175.249.149:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&host=static.lotussec.com&fp=chrome&type=xhttp&sni=static.lotussec.com#EPODONIOS
+
+# 30. score 65.0 | 3/3 passes | tcp 573ms | delay 1862ms | jitter 1609ms | ip 179.61.251.89 | EPODONIOS
+# passes: P1:2682ms | P2:1073ms | P3:1862ms
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&fp=chrome&alpn=h2&type=xhttp&path=/Join-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
+
+# 31. score 65.0 | 3/3 passes | tcp 571ms | delay 1443ms | jitter 1742ms | ip 179.61.251.89 | EPODONIOS
+# passes: P1:2526ms | P2:1443ms | P3:784ms
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&sni=static.lotussec.com&fp=chrome&alpn=h2&insecure=0&allowInsecure=0&type=xhttp&host=static.lotussec.com&path=/Join-JavidnamanIran-on-Telegram&mode=stream-one&extra={"headers":{"User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.67Safari/537.36"},"noGRPCHeader":true,"xmux":{"hKeepAlivePeriod":12,"maxConcurrency":"6"}}#EPODONIOS
