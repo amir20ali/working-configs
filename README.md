@@ -1,25 +1,32 @@
 # Working Configs
 
 ## Statistics
-- Tested: 12
-- Answered at least one pass: 10
-- Passed every pass (3/3): 8
-- Published here (>= 3 passes): 8
-- Speed tested: 4
-- Last update: 2026-09-16 22:26 UTC
+- Tested: 4373
+- Answered at least one pass: 43
+- Passed every pass (3/3): 31
+- Published here (>= 3 passes): 31
+- Speed tested: 15
+- Last update: 2026-09-16 22:38 UTC
 
 ## Top configs
 
 | # | Name | Passes | Delay | Jitter | Speed |
 |---|------|--------|-------|--------|-------|
-| 1 | EPODONIOS | 3/3 | 488ms | 364ms | - |
-| 2 | EPODONIOS | 3/3 | 474ms | 2066ms | 0.87 Mbps |
-| 3 | EPODONIOS | 3/3 | 459ms | 1009ms | - |
-| 4 | EPODONIOS | 3/3 | 735ms | 1154ms | 0.71 Mbps |
-| 5 | EPODONIOS | 3/3 | 806ms | 593ms | 0.80 Mbps |
-| 6 | EPODONIOS | 3/3 | 955ms | 295ms | - |
-| 7 | EPODONIOS | 3/3 | 1133ms | 3077ms | 0.57 Mbps |
-| 8 | EPODONIOS | 3/3 | 1058ms | 1207ms | - |
+| 1 | EPODONIOS | 3/3 | 294ms | 2389ms | - |
+| 2 | EPODONIOS | 3/3 | 456ms | 664ms | - |
+| 3 | EPODONIOS | 3/3 | 520ms | 609ms | 0.41 Mbps |
+| 4 | EPODONIOS | 3/3 | 529ms | 646ms | - |
+| 5 | EPODONIOS | 3/3 | 441ms | 647ms | - |
+| 6 | EPODONIOS | 3/3 | 544ms | 1621ms | 0.37 Mbps |
+| 7 | EPODONIOS | 3/3 | 692ms | 4959ms | 0.28 Mbps |
+| 8 | EPODONIOS | 3/3 | 1770ms | 212ms | 0.31 Mbps |
+| 9 | EPODONIOS | 3/3 | 871ms | 1386ms | 2.11 Mbps |
+| 10 | EPODONIOS | 3/3 | 1639ms | 221ms | - |
+| 11 | EPODONIOS | 3/3 | 2224ms | 1320ms | 2.43 Mbps |
+| 12 | EPODONIOS | 3/3 | 728ms | 2169ms | - |
+| 13 | EPODONIOS | 3/3 | 1187ms | 1588ms | 1.98 Mbps |
+| 14 | EPODONIOS | 3/3 | 1748ms | 309ms | 0.67 Mbps |
+| 15 | EPODONIOS | 3/3 | 3956ms | 4037ms | - |
 
 ## Usage
 
