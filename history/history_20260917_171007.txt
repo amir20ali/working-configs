@@ -1,0 +1,19 @@
+# Working Configs
+# Generated: 2026-09-17 17:10:04
+# Total working: 2
+# Total tested: 3951
+# XRAY core used
+# ================================================
+# Performance may vary on different ISPs
+# ================================================
+
+# 1. Score: 140 | Reliability: 3/3 | TCP: 116ms | HTTP: 526ms | Speed: 2.00 Mbps | IP: 134.122.86.165 | ⚡ b2n.ir/v2ray-configs | 484
+# Pass details: P1:526ms | P2:3779ms | P3:688ms
+# Speed test: 2.00 Mbps in 4.00s
+vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.122.86.165:440?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#⚡ b2n.ir/v2ray-configs | 484
+
+# 2. Score: 140 | Reliability: 3/3 | TCP: 133ms | HTTP: 519ms | Speed: 1.89 Mbps | IP: 164.92.252.15 | ⚡ b2n.ir/v2ray-configs | 943
+# Pass details: P1:519ms | P2:4780ms | P3:4284ms
+# Speed test: 1.89 Mbps in 4.24s
+vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.252.15:440?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#⚡ b2n.ir/v2ray-configs | 943
+
