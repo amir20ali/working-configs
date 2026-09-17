@@ -1,19 +1,18 @@
-# Working Configs
-# Generated: 2026-09-17 17:10:04
-# Total working: 2
-# Total tested: 3951
-# XRAY core used
-# ================================================
-# Performance may vary on different ISPs
-# ================================================
+# Working V2Ray/Xray configs
+# Generated: 2026-09-17 21:21:43
+# Core: xray
+# Kept: 3 of 4362 tested (minimum 3/3 independent validation passes)
+# Ranked by reliability, latency stability and download speed
+# ============================================================
 
-# 1. Score: 140 | Reliability: 3/3 | TCP: 116ms | HTTP: 526ms | Speed: 2.00 Mbps | IP: 134.122.86.165 | ⚡ b2n.ir/v2ray-configs | 484
-# Pass details: P1:526ms | P2:3779ms | P3:688ms
-# Speed test: 2.00 Mbps in 4.00s
-vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@134.122.86.165:440?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#⚡ b2n.ir/v2ray-configs | 484
+# 1. score 76.2 | 3/3 passes | tcp 217ms | delay 4701ms | jitter 1801ms | 3.31 Mbps | ip 152.53.193.97 | EPODONIOS
+# passes: P1:3878ms | P2:5679ms | P3:4701ms
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.104.195:9873?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#EPODONIOS
 
-# 2. Score: 140 | Reliability: 3/3 | TCP: 133ms | HTTP: 519ms | Speed: 1.89 Mbps | IP: 164.92.252.15 | ⚡ b2n.ir/v2ray-configs | 943
-# Pass details: P1:519ms | P2:4780ms | P3:4284ms
-# Speed test: 1.89 Mbps in 4.24s
-vless://59906cb2-a61b-4cf3-b77b-5762ef61d2b0@164.92.252.15:440?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#⚡ b2n.ir/v2ray-configs | 943
+# 2. score 71.9 | 3/3 passes | tcp 493ms | delay 4044ms | jitter 4350ms | 3.44 Mbps | ip 65.109.193.102 | EPODONIOS
+# passes: P1:6107ms | P2:4044ms | P3:1757ms
+vless://telegramjoin:Nap_v2ray@65.109.193.102:9090?encryption=none&type=tcp&headerType=http&host=play-apps-features.googleusercontent.com#EPODONIOS
 
+# 3. score 70.3 | 3/3 passes | tcp 358ms | delay 1120ms | jitter 1521ms | 2.15 Mbps | ip 92.118.112.73 | EPODONIOS
+# passes: P1:2545ms | P2:1120ms | P3:1024ms
+vless://df23d74c-c5ea-441c-a573-9d7b0e88dd14@92.118.112.73:443?security=reality&encryption=none&pbk=5yVkeulmscPbzvGlFp0JPVjEA9hQmO_F8-7gFdf3lUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=usa.jokervpn.space&sid=ff3f3666afdec470#EPODONIOS
