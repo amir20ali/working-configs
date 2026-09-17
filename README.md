@@ -1,38 +1,23 @@
 # Working Configs
 
-## 📊 Statistics
-- **Total tested:** 3951 configs
-- **Working configs:** 4
-- **Passed all 3 tests:** 2
-- **Reliable configs (≥2 passes):** 2
-- **Speed tested:** 2
-- **Last updated:** 2026-09-17 17:10:04
+## Statistics
+- Tested: 4362
+- Answered at least one pass: 11
+- Passed every pass (3/3): 3
+- Published here (>= 3 passes): 3
+- Speed tested: 3
+- Last update: 2026-09-17 17:51 UTC
 
-## 🚀 Top Configs
+## Top configs
 
-### #1: ⚡ b2n.ir/v2ray-configs | 484
-- **Reliability:** 3/3 passes
-- **TCP Latency:** 116ms
-- **HTTP Latency:** 526ms
-- **Download Speed:** 2.00 Mbps (🆗 Fair)
-- **Proxy IP:** 134.122.86.165
-- [View Config](working_configs.txt)
+| # | Name | Passes | Delay | Jitter | Speed |
+|---|------|--------|-------|--------|-------|
+| 1 | EPODONIOS | 3/3 | 4701ms | 1801ms | 3.31 Mbps |
+| 2 | EPODONIOS | 3/3 | 4044ms | 4350ms | 3.44 Mbps |
+| 3 | EPODONIOS | 3/3 | 1120ms | 1521ms | 2.15 Mbps |
 
-### #2: ⚡ b2n.ir/v2ray-configs | 943
-- **Reliability:** 3/3 passes
-- **TCP Latency:** 133ms
-- **HTTP Latency:** 519ms
-- **Download Speed:** 1.89 Mbps (🆗 Fair)
-- **Proxy IP:** 164.92.252.15
-- [View Config](working_configs.txt)
+## Usage
 
+Add `working_configs.txt` as a subscription in your client, or copy a single line.
 
-## 📥 How to Use
-
-## 📝 Notes
-
-
-## 🔗 Resources
-
-
----
+Results depend on your ISP and the time of day; re-test before relying on a link.
