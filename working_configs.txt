@@ -1,18 +1,8 @@
-# Working V2Ray/Xray configs
-# Generated: 2026-09-17 21:21:43
-# Core: xray
-# Kept: 3 of 4362 tested (minimum 3/3 independent validation passes)
-# Ranked by reliability, latency stability and download speed
-# ============================================================
-
-# 1. score 76.2 | 3/3 passes | tcp 217ms | delay 4701ms | jitter 1801ms | 3.31 Mbps | ip 152.53.193.97 | EPODONIOS
-# passes: P1:3878ms | P2:5679ms | P3:4701ms
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.104.195:9873?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#EPODONIOS
-
-# 2. score 71.9 | 3/3 passes | tcp 493ms | delay 4044ms | jitter 4350ms | 3.44 Mbps | ip 65.109.193.102 | EPODONIOS
-# passes: P1:6107ms | P2:4044ms | P3:1757ms
-vless://telegramjoin:Nap_v2ray@65.109.193.102:9090?encryption=none&type=tcp&headerType=http&host=play-apps-features.googleusercontent.com#EPODONIOS
-
-# 3. score 70.3 | 3/3 passes | tcp 358ms | delay 1120ms | jitter 1521ms | 2.15 Mbps | ip 92.118.112.73 | EPODONIOS
-# passes: P1:2545ms | P2:1120ms | P3:1024ms
-vless://df23d74c-c5ea-441c-a573-9d7b0e88dd14@92.118.112.73:443?security=reality&encryption=none&pbk=5yVkeulmscPbzvGlFp0JPVjEA9hQmO_F8-7gFdf3lUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=usa.jokervpn.space&sid=ff3f3666afdec470#EPODONIOS
+ss://YWVzLTI1Ni1nY206NzI1NTMzMjBhZTZiY2M4Zg%3D%3D@103.136.150.119:30222#EPODONIOS
+hysteria2://Telegram-vpnjey@77.110.96.201:36264?sni=se.vpnjey2.dpdns.org&alpn=h3&obfs=salamander&obfs-password=Telegram%40vpnjey&insecure=1#EPODONIOS
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkVQT0RPTklPUyIsDQogICJhZGQiOiAiNDUuMzkuMzMuMTAiLA0KICAicG9ydCI6ICI4NDQzIiwNCiAgImlkIjogIjRkNjk5N2NmLTc4NTYtNGFhYi04NWU1LWYyMjE2OWU1NmU2NSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+vless://cc3ec459-8d76-4066-ab4b-2614608f1afb@a2.arshia-nova.ir:443?encryption=none&security=tls&sni=ssl.fastly.com&alpn=h2&fp=chrome&type=ws&host=c12.com&path=%2F#EPODONIOS
+vless://b20f2a61-7ce6-41b8-9892-6569ab99477e@212.87.190.124:3?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
+vless://be83425f-74c5-4b03-9c4b-20aa16322698@94.26.35.139:25720?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=OueudVX2rTpyeEb2bNW3Jx3WtgSX4zFERs6yt8Szv0E&sid=fddf99d4a4f55a48&type=tcp&headerType=none#EPODONIOS
+hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?sni=de1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0#EPODONIOS
+hysteria2://sxc15led4b0vp5fy@musicclips.videolinks.ru:8443?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj&insecure=0#EPODONIOS
