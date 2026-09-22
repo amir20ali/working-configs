@@ -1,23 +1,34 @@
 # Working Configs
 
 ## Statistics
-- Tested: 4362
-- Answered at least one pass: 11
-- Passed every pass (3/3): 3
-- Published here (>= 3 passes): 3
-- Speed tested: 3
-- Last update: 2026-09-17 17:51 UTC
+- Tested: 4267
+- Answered at least one pass: 12
+- Passed every pass: 4
+- Published (>= 3/3): 4
+- Content-verified: 4
+- Throughput sampled: 0
+- Updated: 2026-09-22 19:11 UTC
 
 ## Top configs
 
-| # | Name | Passes | Delay | Jitter | Speed |
-|---|------|--------|-------|--------|-------|
-| 1 | EPODONIOS | 3/3 | 4701ms | 1801ms | 3.31 Mbps |
-| 2 | EPODONIOS | 3/3 | 4044ms | 4350ms | 3.44 Mbps |
-| 3 | EPODONIOS | 3/3 | 1120ms | 1521ms | 2.15 Mbps |
+| # | Name | Passes | Delay | Spread | Throughput | Score |
+|---|------|--------|-------|--------|------------|-------|
+| 1 | EPODONIOS | 3/3 | 2009ms | 232ms | - | 69.1 |
+| 2 | EPODONIOS | 3/3 | 1773ms | 495ms | - | 67.1 |
+| 3 | EPODONIOS | 3/3 | 2472ms | 822ms | - | 64.8 |
+| 4 | EPODONIOS | 3/3 | 2315ms | 1407ms | - | 64.1 |
 
-## Usage
+## How this was measured
 
-Add `working_configs.txt` as a subscription in your client, or copy a single line.
+Each config is checked over several passes spaced in time, through a core
+process shared by its chunk. A pass is two 204 connectivity checks plus,
+on the final pass, a real HTTPS body whose exact length is verified.
+Throughput is the median of fixed-length windows measured after a warm-up,
+not an average over the whole transfer.
 
-Results depend on your ISP and the time of day; re-test before relying on a link.
+Score is a weighted mean of four normalised components: the Wilson lower
+bound of the success rate, median latency, latency stability (mean absolute
+deviation around the median) and throughput. Components without data are
+dropped and the remaining weights renormalised.
+
+Results depend on your ISP and the time of day. Re-test before relying on a link.
