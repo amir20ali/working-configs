@@ -1,22 +1,32 @@
 # Working Configs
 
 ## Statistics
-- Tested: 4267
-- Answered at least one pass: 12
-- Passed every pass: 4
-- Published (>= 3/3): 4
-- Content-verified: 4
+- Tested: 9180
+- Answered at least one pass: 22
+- Passed every pass: 14
+- Published (>= 3/3): 14
+- Content-verified: 14
 - Throughput sampled: 0
-- Updated: 2026-09-22 19:11 UTC
+- Updated: 2026-09-23 16:48 UTC
 
 ## Top configs
 
 | # | Name | Passes | Delay | Spread | Throughput | Score |
 |---|------|--------|-------|--------|------------|-------|
-| 1 | EPODONIOS | 3/3 | 2009ms | 232ms | - | 69.1 |
-| 2 | EPODONIOS | 3/3 | 1773ms | 495ms | - | 67.1 |
-| 3 | EPODONIOS | 3/3 | 2472ms | 822ms | - | 64.8 |
-| 4 | EPODONIOS | 3/3 | 2315ms | 1407ms | - | 64.1 |
+| 1 | ⚡ b2n.ir/v2ray-configs | 878 | 3/3 | 1072ms | 36ms | - | 78.2 |
+| 2 | ⚡ b2n.ir/v2ray-configs | 268 | 3/3 | 1287ms | 215ms | - | 71.2 |
+| 3 | EPODONIOS | 3/3 | 1971ms | 222ms | - | 69.4 |
+| 4 | EPODONIOS | 3/3 | 1501ms | 375ms | - | 68.6 |
+| 5 | EPODONIOS | 3/3 | 3606ms | 184ms | - | 68.3 |
+| 6 | EPODONIOS | 3/3 | 1311ms | 712ms | - | 67.5 |
+| 7 | EPODONIOS | 3/3 | 1398ms | 775ms | - | 67.1 |
+| 8 | ⚡ b2n.ir/v2ray-configs | 990 | 3/3 | 1733ms | 596ms | - | 66.8 |
+| 9 | EPODONIOS | 3/3 | 1270ms | 1200ms | - | 66.7 |
+| 10 | EPODONIOS | 3/3 | 2108ms | 1211ms | - | 64.6 |
+| 11 | EPODONIOS | 3/3 | 2339ms | 989ms | - | 64.6 |
+| 12 | ⚡ b2n.ir/v2ray-configs | 116 | 3/3 | 2273ms | 1122ms | - | 64.5 |
+| 13 | EPODONIOS | 3/3 | 2797ms | 923ms | - | 64.2 |
+| 14 | EPODONIOS | 3/3 | 3381ms | 1403ms | - | 63.0 |
 
 ## How this was measured
 
