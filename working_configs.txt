@@ -1,23 +1,63 @@
 # Working V2Ray/Xray configs
-# Generated: 2026-09-22 22:41:52
+# Generated: 2026-09-23 20:18:13
 # Core: xray Xray 26.6.1 (Xray, Penetrates Everything.) 9f96d16 (go1.26.3 windows/amd64)
-# Kept 4 of 4267 tested; minimum 3/3 successful passes, final pass content-verified
+# Kept 14 of 9180 tested; minimum 3/3 successful passes, final pass content-verified
 # Ranking profile: balanced (reliability, latency, stability, throughput)
 # WARNING: these links contain credentials. Treat this file as a secret.
 # ==============================================================
 
-# 1. score 69.1 | 3/3 passes | delay 2009ms | spread 232ms | tcp 431ms | EPODONIOS
-# passes: P1:2475ms P2:2009ms P3:1779ms+c
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#EPODONIOS
+# 1. score 78.2 | 3/3 passes | delay 1072ms | spread 36ms | tcp 379ms | ⚡ b2n.ir/v2ray-configs | 878
+# passes: P1:1072ms P2:1083ms P3:975ms+c
+vless://9f714831-a392-429d-b09f-15f0e4653049@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.neT&type=ws&allowInsecure=0&sni=ssl.fastly.com#⚡ b2n.ir/v2ray-configs | 878
 
-# 2. score 67.1 | 3/3 passes | delay 1773ms | spread 495ms | tcp 176ms | EPODONIOS
-# passes: P1:2672ms P2:1185ms P3:1773ms+c
-vless://1a524663-4a74-4aad-b530-8618a540d857@23.137.249.110:20365?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+# 2. score 71.2 | 3/3 passes | delay 1287ms | spread 215ms | tcp 115ms | ⚡ b2n.ir/v2ray-configs | 268
+# passes: P1:1287ms P2:1079ms P3:1723ms+c
+vless://2789c2ec-d860-4b75-a614-49e8ab65f7bc@5.75.202.116:9090?encryption=none&headerType=http&host=dynu.com&path=%2F%40TurboConfigs---%40TurboConfigs---%40TurboConfigs--%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs--%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---%40TurboConfigs--%40TurboConfigs---%40TurboConfigs---%40TurboConfigs---&security=none&type=tcp#⚡ b2n.ir/v2ray-configs | 268
 
-# 3. score 64.8 | 3/3 passes | delay 2472ms | spread 822ms | tcp 487ms | EPODONIOS
-# passes: P1:1745ms P2:4211ms P3:2472ms+c
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZUZWbkszYlQzaDFmQXNM@4.168.224.153:443?outline=1&prefix=POST q35c690P#EPODONIOS
+# 3. score 69.4 | 3/3 passes | delay 1971ms | spread 222ms | tcp 1448ms | EPODONIOS
+# passes: P1:1352ms P2:2018ms P3:1971ms+c
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233?type=tcp#EPODONIOS
 
-# 4. score 64.1 | 3/3 passes | delay 2315ms | spread 1407ms | tcp 233ms | EPODONIOS
-# passes: P1:5743ms P2:2315ms P3:1522ms+c
-vless://b0d375c3-72d9-4b55-847a-2500e12d5f6f@95.182.87.221:45326?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000","xPaddingObfsMode":true}&pbk=ytF84T7vLvNCMqVgtEeOCyVtrUiYevvrfHdD14rjpmE&fp=chrome&spx=/503085e2fc2a616&type=xhttp&sni=g.co&sid=68551e#EPODONIOS
+# 4. score 68.6 | 3/3 passes | delay 1501ms | spread 375ms | tcp 616ms | EPODONIOS
+# passes: P1:1501ms P2:1492ms P3:2618ms+c
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.224.141.124:50099#EPODONIOS
+
+# 5. score 68.3 | 3/3 passes | delay 3606ms | spread 184ms | tcp 1240ms | EPODONIOS
+# passes: P1:3402ms P2:3954ms P3:3606ms+c
+vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@193.56.135.137:9543?security=reality&encryption=none&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=123abcde#EPODONIOS
+
+# 6. score 67.5 | 3/3 passes | delay 1311ms | spread 712ms | tcp 288ms | EPODONIOS
+# passes: P1:3193ms P2:1311ms P3:1058ms+c
+trojan://MITIVpN@151.101.56.7:443?security=tls&alpn=http/1.1&host=mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#EPODONIOS
+
+# 7. score 67.1 | 3/3 passes | delay 1398ms | spread 775ms | tcp 349ms | EPODONIOS
+# passes: P1:3212ms P2:1398ms P3:888ms+c
+trojan://MITIVpN@199.232.78.101:443?security=tls&alpn=http/1.1&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#EPODONIOS
+
+# 8. score 66.8 | 3/3 passes | delay 1733ms | spread 596ms | tcp 109ms | ⚡ b2n.ir/v2ray-configs | 990
+# passes: P1:2678ms P2:891ms P3:1733ms+c
+vless://9b962934-5ad0-490a-21a4-75c28f30c713@167.99.37.74:1161?security=none&encryption=none&host=time.windows.com&headerType=http&type=tcp#⚡ b2n.ir/v2ray-configs | 990
+
+# 9. score 66.7 | 3/3 passes | delay 1270ms | spread 1200ms | tcp 296ms | EPODONIOS
+# passes: P1:4448ms P2:1270ms P3:849ms+c
+trojan://MITIVpN@151.101.56.7:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+
+# 10. score 64.6 | 3/3 passes | delay 2108ms | spread 1211ms | tcp 379ms | EPODONIOS
+# passes: P1:2108ms P2:5505ms P3:1871ms+c
+vless://1ee3c7ee-c8dd-44a5-bd22-ac5d3f34eaa9@199.232.78.159:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+
+# 11. score 64.6 | 3/3 passes | delay 2339ms | spread 989ms | tcp 379ms | EPODONIOS
+# passes: P1:1587ms P2:4555ms P3:2339ms+c
+vless://1ee3c7ee-c8dd-44a5-bd22-ac5d3f34eaa9@199.232.78.159:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053&security=tls&encryption=none&host=pan1.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#EPODONIOS
+
+# 12. score 64.5 | 3/3 passes | delay 2273ms | spread 1122ms | tcp 322ms | ⚡ b2n.ir/v2ray-configs | 116
+# passes: P1:4987ms P2:2273ms P3:1622ms+c
+vless://38aa8e17-2c2e-419a-a522-2f3ca7c79a3f@188.114.97.6:80?path=%2FCooonfigCooonfigCooonfigCooonfigCooonfig&security=none&encryption=none&host=msjsi.azazilvpn.sbs.&type=ws#⚡ b2n.ir/v2ray-configs | 116
+
+# 13. score 64.2 | 3/3 passes | delay 2797ms | spread 923ms | tcp 379ms | EPODONIOS
+# passes: P1:2797ms P2:4691ms P3:1921ms+c
+vless://1ee3c7ee-c8dd-44a5-bd22-ac5d3f34eaa9@199.232.78.159:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+
+# 14. score 63.0 | 3/3 passes | delay 3381ms | spread 1403ms | tcp 248ms | EPODONIOS
+# passes: P1:3381ms P2:1821ms P3:6031ms+c
+trojan://MITIVpN@151.101.56.90:443?path=%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2FNLSs---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-66e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
