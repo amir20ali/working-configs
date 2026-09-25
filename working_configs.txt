@@ -1,15 +1,15 @@
 # Working V2Ray/Xray configs
-# Generated: 2026-09-25 14:17:30
+# Generated: 2026-09-26 00:27:40
 # Core: xray Xray 26.6.1 (Xray, Penetrates Everything.) 9f96d16 (go1.26.3 windows/amd64)
-# Kept 2 of 9134 tested; minimum 3/3 successful passes, final pass content-verified
+# Kept 2 of 9102 tested; minimum 3/3 successful passes, final pass content-verified
 # Ranking profile: balanced (reliability, latency, stability, throughput)
 # WARNING: these links contain credentials. Treat this file as a secret.
 # ==============================================================
 
-# 1. score 64.0 | 3/3 passes | delay 3339ms | spread 825ms | tcp 119ms | EPODONIOS
-# passes: P1:4811ms P2:2337ms P3:3339ms+c
-vless://06765620-7fd9-4927-bf74-fa4b551f26b7@95.85.252.223:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=chrome&pbk=4IFrK2mEJSNBJEqyiWLvPgXGNjV8vK49SxPI0RmheWg&allowInsecure=1#EPODONIOS
+# 1. score 69.6 | 3/3 passes | delay 1880ms | spread 218ms | tcp 102ms | ⚡ b2n.ir/v2ray-configs | 540
+# passes: P1:2120ms P2:1880ms P3:1465ms+c
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@openai.com:2095?encryption=none&type=ws&path=%2F&host=llm-api.sofurry.dpdns.org&sni=llm-api.sofurry.dpdns.org#⚡ b2n.ir/v2ray-configs | 540
 
-# 2. score 63.6 | 3/3 passes | delay 4633ms | spread 681ms | tcp 103ms | EPODONIOS
-# passes: P1:4633ms P2:2877ms P3:4921ms+c
-trojan://MItIVPN@199.232.78.101:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+# 2. score 64.7 | 3/3 passes | delay 5478ms | spread 414ms | tcp 110ms | EPODONIOS
+# passes: P1:5478ms P2:6718ms P3:5476ms+c
+vless://47f79fc1-0646-40e8-8a58-73e85d183d5a@64.188.126.56:43000?encryption=none&flow=xtls-rprx-vision&fp=&pbk=jjbMUO41S9JE7ou_zbbDStzSYLzJVN_0O-j0f6b380E&security=reality&sid=bf4e20af99d3042d&sni=64.188.126.56&type=tcp#EPODONIOS
