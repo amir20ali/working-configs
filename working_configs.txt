@@ -1,59 +1,15 @@
 # Working V2Ray/Xray configs
-# Generated: 2026-09-24 22:23:08
+# Generated: 2026-09-25 14:17:30
 # Core: xray Xray 26.6.1 (Xray, Penetrates Everything.) 9f96d16 (go1.26.3 windows/amd64)
-# Kept 13 of 9179 tested; minimum 3/3 successful passes, final pass content-verified
+# Kept 2 of 9134 tested; minimum 3/3 successful passes, final pass content-verified
 # Ranking profile: balanced (reliability, latency, stability, throughput)
 # WARNING: these links contain credentials. Treat this file as a secret.
 # ==============================================================
 
-# 1. score 73.5 | 3/3 passes | delay 1197ms | spread 128ms | tcp 97ms | EPODONIOS
-# passes: P1:1197ms P2:1447ms P3:1062ms+c
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.91.237:22222?encryption=none&security=none&type=tcp#EPODONIOS
+# 1. score 64.0 | 3/3 passes | delay 3339ms | spread 825ms | tcp 119ms | EPODONIOS
+# passes: P1:4811ms P2:2337ms P3:3339ms+c
+vless://06765620-7fd9-4927-bf74-fa4b551f26b7@95.85.252.223:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=chrome&pbk=4IFrK2mEJSNBJEqyiWLvPgXGNjV8vK49SxPI0RmheWg&allowInsecure=1#EPODONIOS
 
-# 2. score 73.4 | 3/3 passes | delay 1490ms | spread 103ms | tcp 37ms | ⚡ b2n.ir/v2ray-configs | 565
-# passes: P1:1368ms P2:1490ms P3:1676ms+c
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@itarmy.com.ua:2095?type=ws&encryption=none&flow=&host=llm-api.sofurry.dpdns.org&path=%2F#⚡ b2n.ir/v2ray-configs | 565
-
-# 3. score 73.2 | 3/3 passes | delay 1176ms | spread 143ms | tcp 97ms | EPODONIOS
-# passes: P1:1176ms P2:1441ms P3:1011ms+c
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.91.237:22223?encryption=none&security=none&type=tcp#EPODONIOS
-
-# 4. score 68.8 | 3/3 passes | delay 1530ms | spread 347ms | tcp 99ms | EPODONIOS
-# passes: P1:2085ms P2:1530ms P3:1043ms+c
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.91.237:22224?encryption=none&security=none&type=tcp#EPODONIOS
-
-# 5. score 68.3 | 3/3 passes | delay 927ms | spread 1233ms | tcp 29ms | EPODONIOS
-# passes: P1:4213ms P2:514ms P3:927ms+c
-vless://863690dc-5888-484d-8e16-efe678fd90e2@185.155.8.159:7858?mode=auto&path=/phx&security=tls&encryption=none&extra={"scMaxEachPostBytes":"4000000","scMinPostsIntervalMs":"5","downloadSettings":{"address":"nw.amirport.sbs","port":7858,"network":"xhttp","security":"tls","tlsSettings":{"serverName":"nw.amirport.sbs"},"xhttpSettings":{"mode":"auto","path":"/phx","extra":{"scMaxEachPostBytes":"4000000","scMinPostsIntervalMs":"5"}}}}&type=xhttp&sni=nw.amirport.sbs#EPODONIOS
-
-# 6. score 68.2 | 3/3 passes | delay 855ms | spread 1901ms | tcp 109ms | EPODONIOS
-# passes: P1:6402ms P2:699ms P3:855ms+c
-vless://2789c2ec-d860-4b75-a614-49e8ab65f7bc@5.75.205.104:10351?encryption=none&headerType=http&host=dynu.com&path=/@TurboConfigs---@TurboConfigs---@TurboConfigs--@TurboConfigs---@TurboConfigs---@TurboConfigs---@TurboConfigs---@TurboConfigs---@TurboConfigs--@TurboConfigs---@TurboConfigs---@TurboConfigs---@TurboConfigs---@TurboConfigs---@TurboConfigs--@TurboConfigs---@TurboConfigs---@TurboConfigs---&security=none&type=tcp#EPODONIOS
-
-# 7. score 67.0 | 3/3 passes | delay 1995ms | spread 445ms | tcp 85ms | EPODONIOS
-# passes: P1:1878ms P2:1995ms P3:3212ms+c
-vless://fdc8ddb8-560d-4a76-84cc-9c2419ba2f0e@201.34.140.176:25860?mode=packet-up&path=/api/v3/sync/8c4f7a91&security=reality&encryption=none&pbk=u2QtqaGUxQqG2rC7xIP3psh_LUY7GZl1I7UhEfL8JwA&fp=chrome&spx=/a2f95226ab6f8d1&type=xhttp&sni=music.yandex.ru:&sid=120a4557821942df#EPODONIOS
-
-# 8. score 66.6 | 3/3 passes | delay 1421ms | spread 934ms | tcp 77ms | EPODONIOS
-# passes: P1:3191ms P2:1421ms P3:388ms+c
-vless://761e60c9-22a2-44fc-bf10-6670a09145e4@tr.koomeh.net:80?encryption=none&type=xhttp&path=/?ed=2048&mode=stream-one&security=none#EPODONIOS
-
-# 9. score 66.1 | 3/3 passes | delay 1667ms | spread 858ms | tcp 82ms | EPODONIOS
-# passes: P1:2996ms P2:1667ms P3:422ms+c
-vless://7a15a039-41fe-459f-b3b0-3b90249f2408@201.34.140.176:51696?mode=packet-up&path=/api/v3/sync/8c4f7a91&security=reality&encryption=none&pbk=u2QtqaGUxQqG2rC7xIP3psh_LUY7GZl1I7UhEfL8JwA&fp=chrome&spx=/f376198372cae7a&type=xhttp&sni=music.yandex.ru:&sid=15f7583d383c#EPODONIOS
-
-# 10. score 65.9 | 3/3 passes | delay 2490ms | spread 502ms | tcp 128ms | EPODONIOS
-# passes: P1:3376ms P2:1870ms P3:2490ms+c
-trojan://MItIVPN@199.232.78.160:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-55e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-
-# 11. score 65.0 | 3/3 passes | delay 2318ms | spread 816ms | tcp 306ms | EPODONIOS
-# passes: P1:2318ms P2:3949ms P3:1500ms+c
-trojan://miTivpn@151.101.56.90:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-66e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-
-# 12. score 63.5 | 3/3 passes | delay 3261ms | spread 1100ms | tcp 125ms | EPODONIOS
-# passes: P1:3261ms P2:1706ms P3:5006ms+c
-trojan://MItIVPN@199.232.78.101:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-
-# 13. score 63.4 | 3/3 passes | delay 3519ms | spread 1037ms | tcp 108ms | EPODONIOS
-# passes: P1:4079ms P2:3519ms P3:969ms+c
-trojan://MiTiVPN@151.101.56.255:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---nl--s---mitivpn-2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+# 2. score 63.6 | 3/3 passes | delay 4633ms | spread 681ms | tcp 103ms | EPODONIOS
+# passes: P1:4633ms P2:2877ms P3:4921ms+c
+trojan://MItIVPN@199.232.78.101:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
