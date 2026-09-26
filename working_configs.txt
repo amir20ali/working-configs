@@ -1,15 +1,11 @@
 # Working V2Ray/Xray configs
-# Generated: 2026-09-26 00:27:40
+# Generated: 2026-09-26 10:16:43
 # Core: xray Xray 26.6.1 (Xray, Penetrates Everything.) 9f96d16 (go1.26.3 windows/amd64)
-# Kept 2 of 9102 tested; minimum 3/3 successful passes, final pass content-verified
+# Kept 1 of 9102 tested; minimum 3/3 successful passes, final pass content-verified
 # Ranking profile: balanced (reliability, latency, stability, throughput)
 # WARNING: these links contain credentials. Treat this file as a secret.
 # ==============================================================
 
-# 1. score 69.6 | 3/3 passes | delay 1880ms | spread 218ms | tcp 102ms | ⚡ b2n.ir/v2ray-configs | 540
-# passes: P1:2120ms P2:1880ms P3:1465ms+c
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@openai.com:2095?encryption=none&type=ws&path=%2F&host=llm-api.sofurry.dpdns.org&sni=llm-api.sofurry.dpdns.org#⚡ b2n.ir/v2ray-configs | 540
-
-# 2. score 64.7 | 3/3 passes | delay 5478ms | spread 414ms | tcp 110ms | EPODONIOS
-# passes: P1:5478ms P2:6718ms P3:5476ms+c
-vless://47f79fc1-0646-40e8-8a58-73e85d183d5a@64.188.126.56:43000?encryption=none&flow=xtls-rprx-vision&fp=&pbk=jjbMUO41S9JE7ou_zbbDStzSYLzJVN_0O-j0f6b380E&security=reality&sid=bf4e20af99d3042d&sni=64.188.126.56&type=tcp#EPODONIOS
+# 1. score 62.3 | 3/3 passes | delay 5673ms | spread 1129ms | tcp 1330ms | EPODONIOS
+# passes: P1:2914ms P2:6302ms P3:5673ms+c
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233?type=tcp#EPODONIOS
