@@ -2,19 +2,18 @@
 
 ## Statistics
 - Tested: 9102
-- Answered at least one pass: 5
-- Passed every pass: 2
-- Published (>= 3/3): 2
-- Content-verified: 2
+- Answered at least one pass: 10
+- Passed every pass: 1
+- Published (>= 3/3): 1
+- Content-verified: 1
 - Throughput sampled: 0
-- Updated: 2026-09-25 20:57 UTC
+- Updated: 2026-09-26 06:46 UTC
 
 ## Top configs
 
 | # | Name | Passes | Delay | Spread | Throughput | Score |
 |---|------|--------|-------|--------|------------|-------|
-| 1 | ⚡ b2n.ir/v2ray-configs | 540 | 3/3 | 1880ms | 218ms | - | 69.6 |
-| 2 | EPODONIOS | 3/3 | 5478ms | 414ms | - | 64.7 |
+| 1 | EPODONIOS | 3/3 | 5673ms | 1129ms | - | 62.3 |
 
 ## How this was measured
 
