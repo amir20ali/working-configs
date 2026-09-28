@@ -1,19 +1,19 @@
 # Working Configs
 
 ## Statistics
-- Tested: 9135
-- Answered at least one pass: 2
+- Tested: 9180
+- Answered at least one pass: 4
 - Passed every pass: 1
 - Published (>= 3/3): 1
 - Content-verified: 1
 - Throughput sampled: 0
-- Updated: 2026-09-28 18:46 UTC
+- Updated: 2026-09-28 20:08 UTC
 
 ## Top configs
 
 | # | Name | Passes | Delay | Spread | Throughput | Score |
 |---|------|--------|-------|--------|------------|-------|
-| 1 | EPODONIOS | 3/3 | 4293ms | 272ms | - | 66.5 |
+| 1 | EPODONIOS | 3/3 | 6082ms | 285ms | - | 65.7 |
 
 ## How this was measured
 
