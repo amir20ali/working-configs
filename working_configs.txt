@@ -1,79 +1,11 @@
 # Working V2Ray/Xray configs
-# Generated: 2026-09-28 10:25:02
+# Generated: 2026-09-28 22:16:06
 # Core: xray Xray 26.6.1 (Xray, Penetrates Everything.) 9f96d16 (go1.26.3 windows/amd64)
-# Kept 18 of 9069 tested; minimum 3/3 successful passes, final pass content-verified
+# Kept 1 of 9135 tested; minimum 3/3 successful passes, final pass content-verified
 # Ranking profile: balanced (reliability, latency, stability, throughput)
 # WARNING: these links contain credentials. Treat this file as a secret.
 # ==============================================================
 
-# 1. score 70.8 | 3/3 passes | delay 888ms | spread 439ms | tcp 157ms | EPODONIOS
-# passes: P1:2169ms P2:852ms P3:888ms+c
-vless://16650e71-52bf-4a25-a7ed-df749c01da6a@13.143.170.15:443?mode=auto&path=/api/v2/telemetry&security=reality&encryption=none&pbk=660bDah5b-PtCfAbQ3g2tJySO41zsfaXCPb7L3nQCQc&fp=chrome&type=xhttp&sni=static.medic-ml.ru&sid=e1ac2faf5e5f309e#EPODONIOS
-
-# 2. score 70.6 | 3/3 passes | delay 3033ms | spread 113ms | tcp 185ms | EPODONIOS
-# passes: P1:3169ms P2:2831ms P3:3033ms+c
-trojan://MiTiVPN@199.232.78.188:443?path=/?TELEGRAM-TOOTFFARANGI&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-
-# 3. score 70.1 | 3/3 passes | delay 2728ms | spread 137ms | tcp 303ms | EPODONIOS
-# passes: P1:2740ms P2:2728ms P3:2328ms+c
-vless://2b424263-d888-494a-eb6a-79538055d1ad@23.83.224.178:54322?path=/&security=none&encryption=none&type=ws#EPODONIOS
-
-# 4. score 66.6 | 3/3 passes | delay 1982ms | spread 519ms | tcp 22ms | EPODONIOS
-# passes: P1:1982ms P2:2631ms P3:1073ms+c
-vless://c5cfb08f-e42d-4a08-94e1-4f591a2f7a6f@109.94.164.85:20410?encryption=none&type=tcp&security=reality&sni=secureconnect-pa.mtls.clients6.google.com&fp=chrome&pbk=BErODvy5h6Cjw5zWfX_CZ5ODH9p1XbZwU-ZEHyVXEGI&sid=e2ce3e050232978c&allowInsecure=1#EPODONIOS
-
-# 5. score 66.2 | 3/3 passes | delay 4237ms | spread 298ms | tcp 170ms | EPODONIOS
-# passes: P1:4255ms P2:4237ms P3:3361ms+c
-trojan://MiTiVPN@151.101.56.9:443?path=/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/NLSus---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-
-# 6. score 66.1 | 3/3 passes | delay 1994ms | spread 625ms | tcp 91ms | EPODONIOS
-# passes: P1:2700ms P2:827ms P3:1994ms+c
-vless://814b65e0-7ab3-4fc3-bd1b-452c4c7e6559@188.114.97.6:80?path=/CooonfigCooonfigCooonfigCooonfigCooonfig&security=&encryption=none&host=msjsi.azazilvpn.sbs.&type=ws#EPODONIOS
-
-# 7. score 65.8 | 3/3 passes | delay 2406ms | spread 550ms | tcp 118ms | EPODONIOS
-# passes: P1:3700ms P2:2050ms P3:2406ms+c
-trojan://MiTiVPN@151.101.56.7:443?path=/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---nl--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-
-# 8. score 65.6 | 3/3 passes | delay 1945ms | spread 823ms | tcp 152ms | EPODONIOS
-# passes: P1:4322ms P2:1851ms P3:1945ms+c
-trojan://MiTiVPN@151.101.56.9:443?path=/---@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN/NLSus---@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN&security=tls&alpn=http/1.1&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#EPODONIOS
-
-# 9. score 65.4 | 3/3 passes | delay 1983ms | spread 883ms | tcp 176ms | EPODONIOS
-# passes: P1:4627ms P2:1977ms P3:1983ms+c
-trojan://MiTiVPN@199.232.78.188:443?path=/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/NLSus---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-
-# 10. score 64.8 | 3/3 passes | delay 2017ms | spread 1194ms | tcp 721ms | EPODONIOS
-# passes: P1:5465ms P2:1884ms P3:2017ms+c
-trojan://MiTiVPN@151.101.56.255:443?path=/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---nl--s---mitivpn-2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-
-# 11. score 64.8 | 3/3 passes | delay 3025ms | spread 623ms | tcp 178ms | EPODONIOS
-# passes: P1:3838ms P2:1969ms P3:3025ms+c
-trojan://MiTiVPN@199.232.78.188:443?path=/?DailyConfigs--DailyConfigs&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-
-# 12. score 64.7 | 3/3 passes | delay 2487ms | spread 869ms | tcp 721ms | EPODONIOS
-# passes: P1:4647ms P2:2487ms P3:2041ms+c
-trojan://MiTiVPN@151.101.56.255:443?path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---nl--s---mitivpn-2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-
-# 13. score 64.3 | 3/3 passes | delay 3566ms | spread 656ms | tcp 721ms | EPODONIOS
-# passes: P1:3566ms P2:1954ms P3:3922ms+c
-trojan://MiTiVPN@151.101.56.255:443?path=/---@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN/NLSus---@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN&security=tls&alpn=http/1.1&host=mitivpn---nl--s---mitivpn-2.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#EPODONIOS
-
-# 14. score 64.2 | 3/3 passes | delay 3778ms | spread 652ms | tcp 253ms | EPODONIOS
-# passes: P1:4023ms P2:2068ms P3:3778ms+c
-vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@54.251.239.81:26415/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=eC5S3o9uFN6i_YjDjiALCXbc_dzh3kEm2C5zduDGtS8&sid=b7dd999667b0406e#EPODONIOS
-
-# 15. score 64.0 | 3/3 passes | delay 3308ms | spread 818ms | tcp 255ms | EPODONIOS
-# passes: P1:4653ms P2:2199ms P3:3308ms+c
-vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@18.140.238.157:31870/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=HEaa9lsAxLy1r13R-eB0nZWYj9n4kwxAeZFLFTKF4kc&sid=2fef6c2f#EPODONIOS
-
-# 16. score 63.9 | 3/3 passes | delay 2782ms | spread 1114ms | tcp 175ms | EPODONIOS
-# passes: P1:5285ms P2:2782ms P3:1942ms+c
-trojan://MiTiVPN@199.232.78.188:443?path=/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-
-# 17. score 63.8 | 3/3 passes | delay 4346ms | spread 668ms | tcp 422ms | EPODONIOS
-# passes: P1:3046ms P2:4346ms P3:5049ms+c
-vless://9aab8f39-ccb3-44ea-acdc-a8aefe211287@45.164.20.85:10226?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
-
-# 18. score 63.7 | 3/3 passes | delay 3628ms | spread 858ms | tcp 252ms | EPODONIOS
-# passes: P1:4981ms P2:2406ms P3:3628ms+c
-vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@18.140.72.106:23070/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=px79hKhwQDhnVMdX3CF8dHKQsAVT8-FJ8ilk7JZAO2U&sid=c7f5ef2673cc86bc#EPODONIOS
+# 1. score 66.5 | 3/3 passes | delay 4293ms | spread 272ms | tcp 345ms | EPODONIOS
+# passes: P1:3571ms P2:4293ms P3:4386ms+c
+vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@13.230.30.102:38830/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=5E5p5boHrgCyBlt5qZPX1XozU9I90JoBgS4zmXngllI&sid=ac12ed79#EPODONIOS
