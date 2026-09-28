@@ -1,11 +1,11 @@
 # Working V2Ray/Xray configs
-# Generated: 2026-09-28 22:16:06
+# Generated: 2026-09-28 23:38:30
 # Core: xray Xray 26.6.1 (Xray, Penetrates Everything.) 9f96d16 (go1.26.3 windows/amd64)
-# Kept 1 of 9135 tested; minimum 3/3 successful passes, final pass content-verified
+# Kept 1 of 9180 tested; minimum 3/3 successful passes, final pass content-verified
 # Ranking profile: balanced (reliability, latency, stability, throughput)
 # WARNING: these links contain credentials. Treat this file as a secret.
 # ==============================================================
 
-# 1. score 66.5 | 3/3 passes | delay 4293ms | spread 272ms | tcp 345ms | EPODONIOS
-# passes: P1:3571ms P2:4293ms P3:4386ms+c
-vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@13.230.30.102:38830/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=5E5p5boHrgCyBlt5qZPX1XozU9I90JoBgS4zmXngllI&sid=ac12ed79#EPODONIOS
+# 1. score 65.7 | 3/3 passes | delay 6082ms | spread 285ms | tcp 74ms | EPODONIOS
+# passes: P1:6184ms P2:6082ms P3:5329ms+c
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.247.104:9881?mode=gun&security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#EPODONIOS
