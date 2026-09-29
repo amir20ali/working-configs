@@ -2,18 +2,18 @@
 
 ## Statistics
 - Tested: 9258
-- Answered at least one pass: 6
+- Answered at least one pass: 4
 - Passed every pass: 1
 - Published (>= 3/3): 1
 - Content-verified: 1
 - Throughput sampled: 0
-- Updated: 2026-09-29 09:01 UTC
+- Updated: 2026-09-29 09:46 UTC
 
 ## Top configs
 
 | # | Name | Passes | Delay | Spread | Throughput | Score |
 |---|------|--------|-------|--------|------------|-------|
-| 1 | ⚡ b2n.ir/v2ray-configs | 193 | 3/3 | 1037ms | 138ms | - | 74.0 |
+| 1 | ⚡ b2n.ir/v2ray-configs | 193 | 3/3 | 1221ms | 310ms | - | 70.2 |
 
 ## How this was measured
 
