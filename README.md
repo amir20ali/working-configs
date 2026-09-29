@@ -1,23 +1,24 @@
 # Working Configs
 
 ## Statistics
-- Tested: 9206
-- Answered at least one pass: 11
-- Passed every pass: 5
-- Published (>= 3/3): 5
-- Content-verified: 5
+- Tested: 9238
+- Answered at least one pass: 15
+- Passed every pass: 6
+- Published (>= 3/3): 6
+- Content-verified: 6
 - Throughput sampled: 0
-- Updated: 2026-09-28 20:53 UTC
+- Updated: 2026-09-29 06:05 UTC
 
 ## Top configs
 
 | # | Name | Passes | Delay | Spread | Throughput | Score |
 |---|------|--------|-------|--------|------------|-------|
-| 1 | XHTTP, Яндекс [V.O.I.D] | 3/3 | 439ms | 520ms | - | 74.6 |
-| 2 | EPODONIOS | 3/3 | 3438ms | 345ms | - | 66.2 |
-| 3 | EPODONIOS | 3/3 | 2880ms | 750ms | - | 64.5 |
-| 4 | EPODONIOS | 3/3 | 4082ms | 611ms | - | 64.2 |
-| 5 | EPODONIOS | 3/3 | 4874ms | 949ms | - | 62.9 |
+| 1 | EPODONIOS | 3/3 | 1936ms | 87ms | - | 72.9 |
+| 2 | EPODONIOS | 3/3 | 2073ms | 101ms | - | 72.2 |
+| 3 | EPODONIOS | 3/3 | 2172ms | 303ms | - | 67.9 |
+| 4 | EPODONIOS | 3/3 | 1804ms | 398ms | - | 67.7 |
+| 5 | EPODONIOS | 3/3 | 1836ms | 483ms | - | 67.1 |
+| 6 | EPODONIOS | 3/3 | 3131ms | 992ms | - | 63.8 |
 
 ## How this was measured
 
