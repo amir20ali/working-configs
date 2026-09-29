@@ -1,27 +1,31 @@
 # Working V2Ray/Xray configs
-# Generated: 2026-09-29 00:23:01
+# Generated: 2026-09-29 09:35:52
 # Core: xray Xray 26.6.1 (Xray, Penetrates Everything.) 9f96d16 (go1.26.3 windows/amd64)
-# Kept 5 of 9206 tested; minimum 3/3 successful passes, final pass content-verified
+# Kept 6 of 9238 tested; minimum 3/3 successful passes, final pass content-verified
 # Ranking profile: balanced (reliability, latency, stability, throughput)
 # WARNING: these links contain credentials. Treat this file as a secret.
 # ==============================================================
 
-# 1. score 74.6 | 3/3 passes | delay 439ms | spread 520ms | tcp 114ms | XHTTP, Яндекс [V.O.I.D]
-# passes: P1:1948ms P2:439ms P3:390ms+c
-vless://a0ba8b74-4845-4197-8526-c02f1c27ab28@194.48.250.69:8443?encryption=none&type=xhttp&security=reality&host=yandex.ru&path=%2Fupd8svpn-xhttp&sni=yandex.ru&pbk=dBvFkg2zny545Ws6H_LXKEohOYV2MW_zACRrRQE1IUg&sid=f9d89d4a&allowInsecure=1&fp=edge#XHTTP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
+# 1. score 72.9 | 3/3 passes | delay 1936ms | spread 87ms | tcp 287ms | EPODONIOS
+# passes: P1:2098ms P2:1836ms P3:1936ms+c
+vless://a819a5fb-6177-486b-c6fc-35adb29a2b0c@151.101.56.6:443?path=/?TELEGRAM--BYA--@CoonfigCloud---@CoonfigCloud@CoonfigCloud---@CoonfigCloud@CoonfigCloud---@CoonfigCloud@CoonfigCloud---@CoonfigCloud@CoonfigCloud---@CoonfigCloud@CoonfigCloud---@CoonfigCloud@CoonfigCloud---@CoonfigCloud@CoonfigCloud---@CoonfigCloud&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 
-# 2. score 66.2 | 3/3 passes | delay 3438ms | spread 345ms | tcp 281ms | EPODONIOS
-# passes: P1:3438ms P2:4084ms P3:3050ms+c
-vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@18.140.238.157:31870/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=HEaa9lsAxLy1r13R-eB0nZWYj9n4kwxAeZFLFTKF4kc&sid=2fef6c2f#EPODONIOS
+# 2. score 72.2 | 3/3 passes | delay 2073ms | spread 101ms | tcp 287ms | EPODONIOS
+# passes: P1:2073ms P2:1832ms P3:2134ms+c
+vless://a819a5fb-6177-486b-c6fc-35adb29a2b0c@151.101.56.6:443?path=/?RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 
-# 3. score 64.5 | 3/3 passes | delay 2880ms | spread 750ms | tcp 330ms | EPODONIOS
-# passes: P1:2390ms P2:4640ms P3:2880ms+c
-vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@13.230.30.102:38830/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=5E5p5boHrgCyBlt5qZPX1XozU9I90JoBgS4zmXngllI&sid=ac12ed79#EPODONIOS
+# 3. score 67.9 | 3/3 passes | delay 2172ms | spread 303ms | tcp 287ms | EPODONIOS
+# passes: P1:2619ms P2:1711ms P3:2172ms+c
+vless://a819a5fb-6177-486b-c6fc-35adb29a2b0c@151.101.56.6:443?path=/?TELEGRAM--KANAL--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 
-# 4. score 64.2 | 3/3 passes | delay 4082ms | spread 611ms | tcp 279ms | EPODONIOS
-# passes: P1:4878ms P2:4082ms P3:3044ms+c
-vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@18.140.238.157:31870?security=reality&encryption=none&pbk=HEaa9lsAxLy1r13R-eB0nZWYj9n4kwxAeZFLFTKF4kc&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=2fef6c2f#EPODONIOS
+# 4. score 67.7 | 3/3 passes | delay 1804ms | spread 398ms | tcp 331ms | EPODONIOS
+# passes: P1:2975ms P2:1804ms P3:1781ms+c
+vless://0082f629-fe72-40b0-8e62-ba358eaacbde@31.56.188.185:443?security=reality&encryption=none&pbk=faBGu_MJ0duHpf3uw4Hm-eFxtgcODS39EJCyeLQUahM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=v1.convertermini.fit&sid=43dcff53849b81e6#EPODONIOS
 
-# 5. score 62.9 | 3/3 passes | delay 4874ms | spread 949ms | tcp 284ms | EPODONIOS
-# passes: P1:2508ms P2:4874ms P3:5355ms+c
-vless://d00d9d18-20cf-4191-be76-6f73d43a27ec@18.140.72.106:23070/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=px79hKhwQDhnVMdX3CF8dHKQsAVT8-FJ8ilk7JZAO2U&sid=c7f5ef2673cc86bc#EPODONIOS
+# 5. score 67.1 | 3/3 passes | delay 1836ms | spread 483ms | tcp 287ms | EPODONIOS
+# passes: P1:3272ms P2:1836ms P3:1823ms+c
+vless://a819a5fb-6177-486b-c6fc-35adb29a2b0c@151.101.56.6:443?path=/?TELEGRAM--BYA--CHANEL---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN--@JKVPN---@JKVPN---@JKVPN---@JKVPN&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+
+# 6. score 63.8 | 3/3 passes | delay 3131ms | spread 992ms | tcp 787ms | EPODONIOS
+# passes: P1:3131ms P2:4836ms P3:1861ms+c
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233?type=tcp#EPODONIOS
