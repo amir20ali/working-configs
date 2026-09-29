@@ -1,11 +1,59 @@
 # Working V2Ray/Xray configs
-# Generated: 2026-09-29 17:58:44
+# Generated: 2026-09-29 20:15:23
 # Core: xray Xray 26.6.1 (Xray, Penetrates Everything.) 9f96d16 (go1.26.3 windows/amd64)
-# Kept 1 of 9227 tested; minimum 3/3 successful passes, final pass content-verified
+# Kept 13 of 9267 tested; minimum 3/3 successful passes, final pass content-verified
 # Ranking profile: balanced (reliability, latency, stability, throughput)
 # WARNING: these links contain credentials. Treat this file as a secret.
 # ==============================================================
 
-# 1. score 62.3 | 3/3 passes | delay 5520ms | spread 1206ms | tcp 303ms | EPODONIOS
-# passes: P1:5690ms P2:5520ms P3:2072ms+c
-trojan://mitivpn@151.101.56.7:443?path=@VPNine1&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---de--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+# 1. score 66.7 | 3/3 passes | delay 2467ms | spread 390ms | tcp 116ms | EPODONIOS
+# passes: P1:3560ms P2:2467ms P3:2391ms+c
+trojan://mitivpn@199.232.78.101:443?path=@mehrosabiran&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---de--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+
+# 2. score 66.3 | 3/3 passes | delay 2442ms | spread 447ms | tcp 110ms | EPODONIOS
+# passes: P1:3645ms P2:2304ms P3:2442ms+c
+trojan://mitivpn@151.101.56.7:443?path=@bored_vpn&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---de--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+
+# 3. score 65.9 | 3/3 passes | delay 3564ms | spread 359ms | tcp 124ms | EPODONIOS
+# passes: P1:3564ms P2:3609ms P3:2531ms+c
+trojan://mitivpn@151.101.56.9:443?path=/---@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN/NLSus---@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+
+# 4. score 65.8 | 3/3 passes | delay 3101ms | spread 426ms | tcp 114ms | EPODONIOS
+# passes: P1:3729ms P2:2450ms P3:3101ms+c
+trojan://mitivpn@199.232.78.160:443?path=/---@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN/D-e1i@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---us--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+
+# 5. score 65.7 | 3/3 passes | delay 3635ms | spread 388ms | tcp 117ms | EPODONIOS
+# passes: P1:3635ms P2:3022ms P3:4186ms+c
+trojan://mitivpn@167.82.76.7:443?path=@mehrosaboran&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---us--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+
+# 6. score 65.6 | 3/3 passes | delay 2636ms | spread 530ms | tcp 114ms | EPODONIOS
+# passes: P1:2185ms P2:2636ms P3:3775ms+c
+trojan://mitivpn@199.232.78.160:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---us--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+
+# 7. score 65.3 | 3/3 passes | delay 3188ms | spread 489ms | tcp 114ms | EPODONIOS
+# passes: P1:3188ms P2:2763ms P3:4229ms+c
+trojan://mitivpn@199.232.78.160:443?path=@bored_vpn&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---us--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+
+# 8. score 65.2 | 3/3 passes | delay 3443ms | spread 478ms | tcp 165ms | EPODONIOS
+# passes: P1:2075ms P2:3509ms P3:3443ms+c
+trojan://mitivpn@199.232.78.170:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---de--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+
+# 9. score 65.0 | 3/3 passes | delay 2336ms | spread 806ms | tcp 165ms | EPODONIOS
+# passes: P1:1508ms P2:2336ms P3:3926ms+c
+trojan://m%69tivpn@199.232.78.170:443?path=%40mehrosabiran&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---de--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+
+# 10. score 64.3 | 3/3 passes | delay 3731ms | spread 622ms | tcp 114ms | EPODONIOS
+# passes: P1:2288ms P2:4154ms P3:3731ms+c
+trojan://mitivpn@199.232.78.160:443?path=@mehrosaboran&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---us--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+
+# 11. score 63.2 | 3/3 passes | delay 4348ms | spread 870ms | tcp 110ms | EPODONIOS
+# passes: P1:4348ms P2:2224ms P3:4834ms+c
+trojan://mitivpn@151.101.56.7:443?path=@mehrosaboran&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---de--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+
+# 12. score 62.9 | 3/3 passes | delay 5011ms | spread 932ms | tcp 117ms | EPODONIOS
+# passes: P1:5011ms P2:2416ms P3:5211ms+c
+trojan://mitivpn@167.82.76.7:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---us--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+
+# 13. score 62.2 | 3/3 passes | delay 5683ms | spread 1235ms | tcp 116ms | EPODONIOS
+# passes: P1:6931ms P2:3225ms P3:5683ms+c
+trojan://mitivpn@199.232.78.101:443?security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=mitivpn---de--s---mitivpn-11.global.ssl.fastly.net&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN#EPODONIOS
