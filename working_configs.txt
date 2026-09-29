@@ -1,19 +1,11 @@
 # Working V2Ray/Xray configs
-# Generated: 2026-09-29 17:56:24
+# Generated: 2026-09-29 17:58:44
 # Core: xray Xray 26.6.1 (Xray, Penetrates Everything.) 9f96d16 (go1.26.3 windows/amd64)
-# Kept 3 of 9227 tested; minimum 3/3 successful passes, final pass content-verified
+# Kept 1 of 9227 tested; minimum 3/3 successful passes, final pass content-verified
 # Ranking profile: balanced (reliability, latency, stability, throughput)
 # WARNING: these links contain credentials. Treat this file as a secret.
 # ==============================================================
 
-# 1. score 68.0 | 3/3 passes | delay 4760ms | spread 171ms | tcp 424ms | EPODONIOS
-# passes: P1:4760ms P2:4258ms P3:4773ms+c
-trojan://mitivpn@199.232.78.170:443?path=@VPNine1&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---de--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-
-# 2. score 65.2 | 3/3 passes | delay 4245ms | spread 405ms | tcp 424ms | EPODONIOS
-# passes: P1:4245ms P2:3877ms P3:5093ms+c
-trojan://m%69tivpn@199.232.78.170:443?path=%40mehrosabiran&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---de--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-
-# 3. score 63.8 | 3/3 passes | delay 5051ms | spread 586ms | tcp 436ms | EPODONIOS
-# passes: P1:5051ms P2:3673ms P3:5431ms+c
-trojan://mitivpn@151.101.56.7:443?path=/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/D-e2@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---de--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
+# 1. score 62.3 | 3/3 passes | delay 5520ms | spread 1206ms | tcp 303ms | EPODONIOS
+# passes: P1:5690ms P2:5520ms P3:2072ms+c
+trojan://mitivpn@151.101.56.7:443?path=@VPNine1&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---de--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
