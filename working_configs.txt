@@ -1,11 +1,11 @@
 # Working V2Ray/Xray configs
-# Generated: 2026-09-29 12:31:15
+# Generated: 2026-09-29 13:16:52
 # Core: xray Xray 26.6.1 (Xray, Penetrates Everything.) 9f96d16 (go1.26.3 windows/amd64)
 # Kept 1 of 9258 tested; minimum 3/3 successful passes, final pass content-verified
 # Ranking profile: balanced (reliability, latency, stability, throughput)
 # WARNING: these links contain credentials. Treat this file as a secret.
 # ==============================================================
 
-# 1. score 74.0 | 3/3 passes | delay 1037ms | spread 138ms | tcp 107ms | ⚡ b2n.ir/v2ray-configs | 193
-# passes: P1:829ms P2:1037ms P3:1241ms+c
+# 1. score 70.2 | 3/3 passes | delay 1221ms | spread 310ms | tcp 165ms | ⚡ b2n.ir/v2ray-configs | 193
+# passes: P1:821ms P2:1752ms P3:1221ms+c
 trojan://m%69tivpn@199.232.78.170:443?path=%40mehrosabiran&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---de--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#⚡ b2n.ir/v2ray-configs | 193
