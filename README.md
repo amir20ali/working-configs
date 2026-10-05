@@ -2,19 +2,19 @@
 
 ## Statistics
 - Tested: 8924
-- Answered at least one pass: 3
+- Answered at least one pass: 4
 - Passed every pass: 2
 - Published (>= 3/3): 2
 - Content-verified: 2
 - Throughput sampled: 0
-- Updated: 2026-10-05 17:23 UTC
+- Updated: 2026-10-05 17:32 UTC
 
 ## Top configs
 
 | # | Name | Passes | Delay | Spread | Throughput | Score |
 |---|------|--------|-------|--------|------------|-------|
-| 1 | CA 🇨🇦 | @Raydikalx | D94FDB | 3/3 | 665ms | 67ms | - | 79.1 |
-| 2 | EPODONIOS | 3/3 | 965ms | 760ms | - | 68.9 |
+| 1 | CA 🇨🇦 | @Raydikalx | D94FDB | 3/3 | 1044ms | 215ms | - | 72.3 |
+| 2 | EPODONIOS | 3/3 | 2248ms | 265ms | - | 68.3 |
 
 ## How this was measured
 
