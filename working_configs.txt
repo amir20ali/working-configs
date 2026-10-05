@@ -1,15 +1,15 @@
 # Working V2Ray/Xray configs
-# Generated: 2026-10-05 20:53:19
+# Generated: 2026-10-05 21:02:49
 # Core: xray Xray 26.6.1 (Xray, Penetrates Everything.) 9f96d16 (go1.26.3 windows/amd64)
 # Kept 2 of 8924 tested; minimum 3/3 successful passes, final pass content-verified
 # Ranking profile: balanced (reliability, latency, stability, throughput)
 # WARNING: these links contain credentials. Treat this file as a secret.
 # ==============================================================
 
-# 1. score 79.1 | 3/3 passes | delay 665ms | spread 67ms | tcp 108ms | CA 🇨🇦 | @Raydikalx | D94FDB
-# passes: P1:761ms P2:665ms P3:561ms+c
+# 1. score 72.3 | 3/3 passes | delay 1044ms | spread 215ms | tcp 134ms | CA 🇨🇦 | @Raydikalx | D94FDB
+# passes: P1:694ms P2:1044ms P3:1340ms+c
 vmess://eyJ2IjoiMiIsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgRDk0RkRCIiwiYWRkIjoiMTg4LjExNC45Ni4xOSIsInBvcnQiOiI4MCIsImlkIjoiYzU5NjVkNDctNDVkNi00NWFmLWI2MTktM2IyYTZiZjg5NmEyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwdXBncmFkZSIsInR5cGUiOiJub25lIiwiaG9zdCI6Imdvb2dsZS53aGF0c2FwcC5zbmFwcC50b3JvYi5iYXNhbGFtLmRucy1sb29rLnNwYWNlLiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIn0=
 
-# 2. score 68.9 | 3/3 passes | delay 965ms | spread 760ms | tcp 170ms | EPODONIOS
-# passes: P1:2997ms P2:965ms P3:718ms+c
+# 2. score 68.3 | 3/3 passes | delay 2248ms | spread 265ms | tcp 178ms | EPODONIOS
+# passes: P1:2808ms P2:2248ms P3:2012ms+c
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.159:443#EPODONIOS
