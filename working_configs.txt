@@ -1,19 +1,11 @@
 # Working V2Ray/Xray configs
-# Generated: 2026-10-05 20:23:42
+# Generated: 2026-10-05 20:39:22
 # Core: xray Xray 26.6.1 (Xray, Penetrates Everything.) 9f96d16 (go1.26.3 windows/amd64)
-# Kept 3 of 8924 tested; minimum 3/3 successful passes, final pass content-verified
+# Kept 1 of 8924 tested; minimum 3/3 successful passes, final pass content-verified
 # Ranking profile: balanced (reliability, latency, stability, throughput)
 # WARNING: these links contain credentials. Treat this file as a secret.
 # ==============================================================
 
-# 1. score 66.2 | 3/3 passes | delay 1987ms | spread 592ms | tcp 330ms | EPODONIOS
-# passes: P1:1184ms P2:1987ms P3:2961ms+c
+# 1. score 63.8 | 3/3 passes | delay 3600ms | spread 819ms | tcp 221ms | EPODONIOS
+# passes: P1:3600ms P2:4311ms P3:1855ms+c
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.159:443#EPODONIOS
-
-# 2. score 64.1 | 3/3 passes | delay 5059ms | spread 531ms | tcp 104ms | EPODONIOS
-# passes: P1:3944ms P2:5059ms P3:5536ms+c
-trojan://mitivpn@167.82.76.7:443?security=tls&alpn=http/1.1&host=mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#EPODONIOS
-
-# 3. score 62.1 | 3/3 passes | delay 6400ms | spread 1179ms | tcp 106ms | EPODONIOS
-# passes: P1:6426ms P2:6400ms P3:2889ms+c
-vless://661f5262-a940-423a-a8ee-68a4a34d72f1@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=sevenfeshab.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
