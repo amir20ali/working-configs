@@ -7,14 +7,14 @@
 - Published (>= 3/3): 2
 - Content-verified: 2
 - Throughput sampled: 0
-- Updated: 2026-10-06 15:56 UTC
+- Updated: 2026-10-06 16:03 UTC
 
 ## Top configs
 
 | # | Name | Passes | Delay | Spread | Throughput | Score |
 |---|------|--------|-------|--------|------------|-------|
-| 1 | EPODONIOS | 3/3 | 511ms | 131ms | - | 78.3 |
-| 2 | EPODONIOS | 3/3 | 739ms | 111ms | - | 76.7 |
+| 1 | EPODONIOS | 3/3 | 1219ms | 644ms | - | 68.1 |
+| 2 | EPODONIOS | 3/3 | 1817ms | 1570ms | - | 64.8 |
 
 ## How this was measured
 
