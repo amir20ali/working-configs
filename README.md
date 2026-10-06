@@ -1,20 +1,19 @@
 # Working Configs
 
 ## Statistics
-- Tested: 8924
-- Answered at least one pass: 4
-- Passed every pass: 2
-- Published (>= 3/3): 2
-- Content-verified: 2
+- Tested: 8859
+- Answered at least one pass: 7
+- Passed every pass: 1
+- Published (>= 3/3): 1
+- Content-verified: 1
 - Throughput sampled: 0
-- Updated: 2026-10-05 17:32 UTC
+- Updated: 2026-10-06 07:09 UTC
 
 ## Top configs
 
 | # | Name | Passes | Delay | Spread | Throughput | Score |
 |---|------|--------|-------|--------|------------|-------|
-| 1 | CA 🇨🇦 | @Raydikalx | D94FDB | 3/3 | 1044ms | 215ms | - | 72.3 |
-| 2 | EPODONIOS | 3/3 | 2248ms | 265ms | - | 68.3 |
+| 1 | EPODONIOS | 3/3 | 2249ms | 615ms | - | 65.7 |
 
 ## How this was measured
 
