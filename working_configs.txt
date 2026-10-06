@@ -1,19 +1,15 @@
 # Working V2Ray/Xray configs
-# Generated: 2026-10-06 10:44:54
+# Generated: 2026-10-06 15:42:37
 # Core: xray Xray 26.6.1 (Xray, Penetrates Everything.) 9f96d16 (go1.26.3 windows/amd64)
-# Kept 3 of 8855 tested; minimum 3/3 successful passes, final pass content-verified
+# Kept 2 of 8796 tested; minimum 3/3 successful passes, final pass content-verified
 # Ranking profile: balanced (reliability, latency, stability, throughput)
 # WARNING: these links contain credentials. Treat this file as a secret.
 # ==============================================================
 
-# 1. score 67.4 | 3/3 passes | delay 2046ms | spread 379ms | tcp 151ms | EPODONIOS
-# passes: P1:2122ms P2:984ms P3:2046ms+c
-ss://2022-blake3-aes-256-gcm:Rzv4KXTXvFEqeALuBgzETlujcXrzIAsrSMAevky5x8c=:hdA4n/xn83dcbzxCAxapim47QxGlbAUPQ8I1rbC2RN8=@206.1.103.221:42264?type=tcp#EPODONIOS
-
-# 2. score 65.8 | 3/3 passes | delay 1849ms | spread 801ms | tcp 448ms | EPODONIOS
-# passes: P1:1849ms P2:1662ms P3:4065ms+c
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#EPODONIOS
-
-# 3. score 64.8 | 3/3 passes | delay 2488ms | spread 830ms | tcp 122ms | EPODONIOS
-# passes: P1:3555ms P2:1064ms P3:2488ms+c
+# 1. score 65.8 | 3/3 passes | delay 2540ms | spread 522ms | tcp 575ms | EPODONIOS
+# passes: P1:3888ms P2:2540ms P3:2322ms+c
 vless://afd1fb0c-7c51-4c4c-a1ed-07e8493030d2@65.109.176.245:9090?encryption=none&headerType=http&host=testspeed-foreign.tci.ir&path=/@TurboConfigs---@TurboConfigs---@TurboConfigs--@TurboConfigs---@TurboConfigs---@TurboConfigs---@TurboConfigs---@TurboConfigs---@TurboConfigs--@TurboConfigs---@TurboConfigs---@TurboConfigs---@TurboConfigs---@TurboConfigs---@TurboConfigs--@TurboConfigs---@TurboConfigs---@TurboConfigs---&security=none&type=tcp#EPODONIOS
+
+# 2. score 62.5 | 3/3 passes | delay 4507ms | spread 1329ms | tcp 676ms | EPODONIOS
+# passes: P1:4507ms P2:1476ms P3:5462ms+c
+vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@2.27.39.1:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=-u9DSQ5RMebplY_ti-Vy4BJP9dEoQ1lTOvjoxK8CqS4&sid=10358810&allowInsecure=1#EPODONIOS
