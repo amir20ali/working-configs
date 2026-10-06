@@ -1,15 +1,15 @@
 # Working V2Ray/Xray configs
-# Generated: 2026-10-06 15:42:37
+# Generated: 2026-10-06 19:26:09
 # Core: xray Xray 26.6.1 (Xray, Penetrates Everything.) 9f96d16 (go1.26.3 windows/amd64)
-# Kept 2 of 8796 tested; minimum 3/3 successful passes, final pass content-verified
+# Kept 2 of 8792 tested; minimum 3/3 successful passes, final pass content-verified
 # Ranking profile: balanced (reliability, latency, stability, throughput)
 # WARNING: these links contain credentials. Treat this file as a secret.
 # ==============================================================
 
-# 1. score 65.8 | 3/3 passes | delay 2540ms | spread 522ms | tcp 575ms | EPODONIOS
-# passes: P1:3888ms P2:2540ms P3:2322ms+c
-vless://afd1fb0c-7c51-4c4c-a1ed-07e8493030d2@65.109.176.245:9090?encryption=none&headerType=http&host=testspeed-foreign.tci.ir&path=/@TurboConfigs---@TurboConfigs---@TurboConfigs--@TurboConfigs---@TurboConfigs---@TurboConfigs---@TurboConfigs---@TurboConfigs---@TurboConfigs--@TurboConfigs---@TurboConfigs---@TurboConfigs---@TurboConfigs---@TurboConfigs---@TurboConfigs--@TurboConfigs---@TurboConfigs---@TurboConfigs---&security=none&type=tcp#EPODONIOS
+# 1. score 78.3 | 3/3 passes | delay 511ms | spread 131ms | tcp 207ms | EPODONIOS
+# passes: P1:511ms P2:840ms P3:446ms+c
+ss://2022-blake3-aes-256-gcm:ADzlhA3ndouUCY3JbLddR/jwgYY7IDGc1T+5DuCix9Y=:KyFe2akGo5hcrswbMkD2+BM52si+D7lzyccZFTd4xaU=@206.1.100.83:25178?type=tcp#EPODONIOS
 
-# 2. score 62.5 | 3/3 passes | delay 4507ms | spread 1329ms | tcp 676ms | EPODONIOS
-# passes: P1:4507ms P2:1476ms P3:5462ms+c
-vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@2.27.39.1:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=-u9DSQ5RMebplY_ti-Vy4BJP9dEoQ1lTOvjoxK8CqS4&sid=10358810&allowInsecure=1#EPODONIOS
+# 2. score 76.7 | 3/3 passes | delay 739ms | spread 111ms | tcp 107ms | EPODONIOS
+# passes: P1:739ms P2:911ms P3:579ms+c
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#EPODONIOS
