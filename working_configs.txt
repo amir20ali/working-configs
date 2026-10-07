@@ -1,15 +1,19 @@
 # Working V2Ray/Xray configs
-# Generated: 2026-10-06 20:53:15
+# Generated: 2026-10-07 10:25:31
 # Core: xray Xray 26.6.1 (Xray, Penetrates Everything.) 9f96d16 (go1.26.3 windows/amd64)
-# Kept 2 of 8817 tested; minimum 3/3 successful passes, final pass content-verified
+# Kept 3 of 8832 tested; minimum 3/3 successful passes, final pass content-verified
 # Ranking profile: balanced (reliability, latency, stability, throughput)
 # WARNING: these links contain credentials. Treat this file as a secret.
 # ==============================================================
 
-# 1. score 68.8 | 3/3 passes | delay 1339ms | spread 419ms | tcp 224ms | EPODONIOS
-# passes: P1:794ms P2:2051ms P3:1339ms+c
+# 1. score 73.3 | 3/3 passes | delay 769ms | spread 258ms | tcp 109ms | EPODONIOS
+# passes: P1:769ms P2:474ms P3:1247ms+c
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#EPODONIOS
 
-# 2. score 67.6 | 3/3 passes | delay 1315ms | spread 680ms | tcp 197ms | EPODONIOS
-# passes: P1:662ms P2:2702ms P3:1315ms+c
-ss://2022-blake3-aes-256-gcm:ADzlhA3ndouUCY3JbLddR/jwgYY7IDGc1T+5DuCix9Y=:KyFe2akGo5hcrswbMkD2+BM52si+D7lzyccZFTd4xaU=@206.1.100.83:25178?type=tcp#EPODONIOS
+# 2. score 72.1 | 3/3 passes | delay 1295ms | spread 168ms | tcp 108ms | EPODONIOS
+# passes: P1:1295ms P2:1653ms P3:1148ms+c
+vless://250865f0-4a0f-4e2e-8d14-4c39a25d0bef@g2de.velnix-services.ir:1080?security=reality&encryption=none&pbk=qmCIBP5Y6Pu7oxY--0sOXglNvHV9byxo2cyVsfAqUiI&host=www6.gameservice-iramn3.com&headerType=none&fp=chrome&type=tcp&sni=www6.gameservice-iramn3.com&sid=307eb35dbf3a5385#EPODONIOS
+
+# 3. score 71.5 | 3/3 passes | delay 1465ms | spread 171ms | tcp 102ms | EPODONIOS
+# passes: P1:1465ms P2:1881ms P3:1369ms+c
+vless://250865f0-4a0f-4e2e-8d14-4c39a25d0bef@ststictr.hamiramkemax.ir:1081?security=reality&encryption=none&pbk=_UlBf1BRa52KM89xxvfbSHuLZWrvWuGuhvbsL3gx01A&host=www12.gameservice-iramn3.com&headerType=none&fp=chrome&type=tcp&sni=www12.gameservice-iramn3.com&sid=daa22fbb023ab4a2#EPODONIOS
