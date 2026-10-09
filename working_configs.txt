@@ -1,19 +1,15 @@
 # Working V2Ray/Xray configs
-# Generated: 2026-10-07 10:25:31
+# Generated: 2026-10-09 08:48:49
 # Core: xray Xray 26.6.1 (Xray, Penetrates Everything.) 9f96d16 (go1.26.3 windows/amd64)
-# Kept 3 of 8832 tested; minimum 3/3 successful passes, final pass content-verified
+# Kept 2 of 8892 tested; minimum 3/3 successful passes, final pass content-verified
 # Ranking profile: balanced (reliability, latency, stability, throughput)
 # WARNING: these links contain credentials. Treat this file as a secret.
 # ==============================================================
 
-# 1. score 73.3 | 3/3 passes | delay 769ms | spread 258ms | tcp 109ms | EPODONIOS
-# passes: P1:769ms P2:474ms P3:1247ms+c
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#EPODONIOS
+# 1. score 72.5 | 3/3 passes | delay 650ms | spread 444ms | tcp 229ms | EPODONIOS
+# passes: P1:1926ms P2:650ms P3:594ms+c
+vless://daf485ba-60fc-4166-a72c-8d2a5407cbc5@188.114.97.6:8080/?type=ws&encryption=none&flow=&host=kievh9yxcgg14-gy4wxqcav0pegkd.d-0ezpk5xp5wk8ltdgb6evlpgc-jin.workers.dev&path=/vl/zM8ELyqEIYeZ3ijacV9kuK?ed#EPODONIOS
 
-# 2. score 72.1 | 3/3 passes | delay 1295ms | spread 168ms | tcp 108ms | EPODONIOS
-# passes: P1:1295ms P2:1653ms P3:1148ms+c
-vless://250865f0-4a0f-4e2e-8d14-4c39a25d0bef@g2de.velnix-services.ir:1080?security=reality&encryption=none&pbk=qmCIBP5Y6Pu7oxY--0sOXglNvHV9byxo2cyVsfAqUiI&host=www6.gameservice-iramn3.com&headerType=none&fp=chrome&type=tcp&sni=www6.gameservice-iramn3.com&sid=307eb35dbf3a5385#EPODONIOS
-
-# 3. score 71.5 | 3/3 passes | delay 1465ms | spread 171ms | tcp 102ms | EPODONIOS
-# passes: P1:1465ms P2:1881ms P3:1369ms+c
-vless://250865f0-4a0f-4e2e-8d14-4c39a25d0bef@ststictr.hamiramkemax.ir:1081?security=reality&encryption=none&pbk=_UlBf1BRa52KM89xxvfbSHuLZWrvWuGuhvbsL3gx01A&host=www12.gameservice-iramn3.com&headerType=none&fp=chrome&type=tcp&sni=www12.gameservice-iramn3.com&sid=daa22fbb023ab4a2#EPODONIOS
+# 2. score 64.8 | 3/3 passes | delay 2501ms | spread 815ms | tcp 112ms | ⚡ b2n.ir/v2ray-configs | 579
+# passes: P1:4869ms P2:2501ms P3:2424ms+c
+vless://9d672694-c146-422e-b3b5-3717a38a0fcc@8.47.69.0:2053?path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Ffr2035&security=tls&encryption=none&insecure=0&host=fr.api-music-fa.com&fp=qq&type=ws&allowInsecure=0&sni=vless.api-music-fa.com#⚡ b2n.ir/v2ray-configs | 579
