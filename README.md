@@ -1,21 +1,20 @@
 # Working Configs
 
 ## Statistics
-- Tested: 8832
-- Answered at least one pass: 12
-- Passed every pass: 3
-- Published (>= 3/3): 3
-- Content-verified: 3
+- Tested: 8892
+- Answered at least one pass: 20
+- Passed every pass: 2
+- Published (>= 3/3): 2
+- Content-verified: 2
 - Throughput sampled: 0
-- Updated: 2026-10-07 06:55 UTC
+- Updated: 2026-10-09 05:18 UTC
 
 ## Top configs
 
 | # | Name | Passes | Delay | Spread | Throughput | Score |
 |---|------|--------|-------|--------|------------|-------|
-| 1 | EPODONIOS | 3/3 | 769ms | 258ms | - | 73.3 |
-| 2 | EPODONIOS | 3/3 | 1295ms | 168ms | - | 72.1 |
-| 3 | EPODONIOS | 3/3 | 1465ms | 171ms | - | 71.5 |
+| 1 | EPODONIOS | 3/3 | 650ms | 444ms | - | 72.5 |
+| 2 | ⚡ b2n.ir/v2ray-configs | 579 | 3/3 | 2501ms | 815ms | - | 64.8 |
 
 ## How this was measured
 
