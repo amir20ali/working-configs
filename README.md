@@ -1,23 +1,23 @@
 # Working Configs
 
 ## Statistics
-- Tested: 8967
-- Answered at least one pass: 26
+- Tested: 8876
+- Answered at least one pass: 10
 - Passed every pass: 5
 - Published (>= 3/3): 5
 - Content-verified: 5
 - Throughput sampled: 0
-- Updated: 2026-10-10 05:40 UTC
+- Updated: 2026-10-10 18:54 UTC
 
 ## Top configs
 
 | # | Name | Passes | Delay | Spread | Throughput | Score |
 |---|------|--------|-------|--------|------------|-------|
-| 1 | EPODONIOS | 3/3 | 1204ms | 439ms | - | 69.2 |
-| 2 | EPODONIOS | 3/3 | 1768ms | 1145ms | - | 65.4 |
-| 3 | EPODONIOS | 3/3 | 2448ms | 1203ms | - | 64.2 |
-| 4 | EPODONIOS | 3/3 | 3216ms | 943ms | - | 63.8 |
-| 5 | EPODONIOS | 3/3 | 4189ms | 899ms | - | 63.3 |
+| 1 | SG 🇸🇬 | @Raydikalx | 4CC338 | 3/3 | 896ms | 13ms | - | 80.9 |
+| 2 | Reality, VK [V.O.I.D] | 3/3 | 652ms | 1520ms | - | 70.0 |
+| 3 | ⚡ b2n.ir/v2ray-configs | 527 | 3/3 | 1206ms | 1125ms | - | 67.1 |
+| 4 | Reality, VK [V.O.I.D] | 3/3 | 1225ms | 1366ms | - | 66.7 |
+| 5 | EPODONIOS | 3/3 | 3821ms | 710ms | - | 64.0 |
 
 ## How this was measured
 
