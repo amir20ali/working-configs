@@ -1,15 +1,27 @@
 # Working V2Ray/Xray configs
-# Generated: 2026-10-09 08:48:49
+# Generated: 2026-10-10 09:10:02
 # Core: xray Xray 26.6.1 (Xray, Penetrates Everything.) 9f96d16 (go1.26.3 windows/amd64)
-# Kept 2 of 8892 tested; minimum 3/3 successful passes, final pass content-verified
+# Kept 5 of 8967 tested; minimum 3/3 successful passes, final pass content-verified
 # Ranking profile: balanced (reliability, latency, stability, throughput)
 # WARNING: these links contain credentials. Treat this file as a secret.
 # ==============================================================
 
-# 1. score 72.5 | 3/3 passes | delay 650ms | spread 444ms | tcp 229ms | EPODONIOS
-# passes: P1:1926ms P2:650ms P3:594ms+c
-vless://daf485ba-60fc-4166-a72c-8d2a5407cbc5@188.114.97.6:8080/?type=ws&encryption=none&flow=&host=kievh9yxcgg14-gy4wxqcav0pegkd.d-0ezpk5xp5wk8ltdgb6evlpgc-jin.workers.dev&path=/vl/zM8ELyqEIYeZ3ijacV9kuK?ed#EPODONIOS
+# 1. score 69.2 | 3/3 passes | delay 1204ms | spread 439ms | tcp 295ms | EPODONIOS
+# passes: P1:1019ms P2:1204ms P3:2335ms+c
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#EPODONIOS
 
-# 2. score 64.8 | 3/3 passes | delay 2501ms | spread 815ms | tcp 112ms | ⚡ b2n.ir/v2ray-configs | 579
-# passes: P1:4869ms P2:2501ms P3:2424ms+c
-vless://9d672694-c146-422e-b3b5-3717a38a0fcc@8.47.69.0:2053?path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Ffr2035&security=tls&encryption=none&insecure=0&host=fr.api-music-fa.com&fp=qq&type=ws&allowInsecure=0&sni=vless.api-music-fa.com#⚡ b2n.ir/v2ray-configs | 579
+# 2. score 65.4 | 3/3 passes | delay 1768ms | spread 1145ms | tcp 296ms | EPODONIOS
+# passes: P1:1582ms P2:1768ms P3:5016ms+c
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#EPODONIOS
+
+# 3. score 64.2 | 3/3 passes | delay 2448ms | spread 1203ms | tcp 109ms | EPODONIOS
+# passes: P1:2448ms P2:1053ms P3:4662ms+c
+vless://eb022475-2c2b-49ee-a482-56e9c71eca8c@sub.sd.noafra.ir:6586?encryption=none&headerType=http&host=store.steampowered.com&path=/&security=none&type=tcp#EPODONIOS
+
+# 4. score 63.8 | 3/3 passes | delay 3216ms | spread 943ms | tcp 69ms | EPODONIOS
+# passes: P1:2228ms P2:5057ms P3:3216ms+c
+vless://4476ca08-bdb4-41c1-bae4-a960bdb28c19@45.74.158.57:2218?encryption=none&fp=&pbk=bWIOrQAqUWCrz6BGdwaG42xaV-HEo8sUdGqVktUh0XU&security=reality&sid=cc80ef&sni=www.apple.com&type=tcp#EPODONIOS
+
+# 5. score 63.3 | 3/3 passes | delay 4189ms | spread 899ms | tcp 111ms | EPODONIOS
+# passes: P1:4189ms P2:3170ms P3:5868ms+c
+vless://85fe968d-fbb5-40dc-8422-30635eccb149@c20s5.portablesubmarines.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=portal.citygrainla.com&fp=chrome&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&sid=051f20c2344a2dfd&type=tcp&headerType=none#EPODONIOS
