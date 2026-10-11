@@ -1,55 +1,19 @@
 # Working V2Ray/Xray configs
-# Generated: 2026-10-11 09:23:52
+# Generated: 2026-10-11 22:24:30
 # Core: xray Xray 26.6.1 (Xray, Penetrates Everything.) 9f96d16 (go1.26.3 windows/amd64)
-# Kept 12 of 8138 tested; minimum 3/3 successful passes, final pass content-verified
+# Kept 3 of 8904 tested; minimum 3/3 successful passes, final pass content-verified
 # Ranking profile: balanced (reliability, latency, stability, throughput)
 # WARNING: these links contain credentials. Treat this file as a secret.
 # ==============================================================
 
-# 1. score 69.5 | 3/3 passes | delay 2330ms | spread 185ms | tcp 121ms | EPODONIOS
-# passes: P1:1995ms P2:2549ms P3:2330ms+c
-vless://f8d52ece-fad4-478d-875d-df6eed3befa7@fi.pythonsetupbib.online:443?security=reality&encryption=none&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fi.pythonsetupbib.online&sid=bdf5852d1423e694#EPODONIOS
+# 1. score 72.4 | 3/3 passes | delay 475ms | spread 1175ms | tcp 100ms | Reality, VK [V.O.I.D]
+# passes: P1:3934ms P2:410ms P3:475ms+c
+vless://3fcec4e4-a674-44d2-8cae-c253cec43b9c@153.76.161.58:2096?encryption=none&fp=firefox&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#Reality, VK [V.O.I.D]
 
-# 2. score 68.8 | 3/3 passes | delay 1056ms | spread 644ms | tcp 71ms | EPODONIOS
-# passes: P1:1056ms P2:2933ms P3:1002ms+c
-vless://efa9d618-443e-4d9a-9c67-c4b3d9d73995@ru1.hidenet.xyz:8444?security=reality&encryption=none&pbk=-79Cv006f06g2GMLmvR76tnorlTs-NvwrI5GdVluV0Y&type=grpc&serviceName=grpc-yt&sni=ru1.hidenet.xyz#EPODONIOS
+# 2. score 64.3 | 3/3 passes | delay 2786ms | spread 867ms | tcp 120ms | EPODONIOS
+# passes: P1:2157ms P2:2786ms P3:4759ms+c
+vless://ff3b79c1-1fd9-4e86-95a5-cf3863b3d162@c1.greewebservices.ir:443?security=tls&alpn=h2&encryption=none&insecure=0&host=cydydts.deldadehnoor.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=cydydts.deldadehnoor.ir#EPODONIOS
 
-# 3. score 67.6 | 3/3 passes | delay 2736ms | spread 270ms | tcp 27ms | EPODONIOS
-# passes: P1:2094ms P2:2736ms P3:2905ms+c
-vless://ff766b85-d50f-47b7-9b63-6ca4ea128f3f@mail.loyalsmile.net:2052?encryption=none&security=none&type=ws&path=/wp-content4#EPODONIOS
-
-# 4. score 66.9 | 3/3 passes | delay 1884ms | spread 498ms | tcp 154ms | EPODONIOS
-# passes: P1:1087ms P2:2580ms P3:1884ms+c
-vless://ee18d188-14cc-417e-beb1-70e4add6d023@188.253.26.216:443?security=reality&encryption=none&pbk=noszGxmy754-TNyz9eM8EyHiaCRF2T4cu3El6GKb6n0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl3.nztvpn.com&sid=0da7e14db353e7d0#EPODONIOS
-
-# 5. score 65.3 | 3/3 passes | delay 2706ms | spread 579ms | tcp 107ms | EPODONIOS
-# passes: P1:2706ms P2:3383ms P3:1645ms+c
-vless://efa9d618-443e-4d9a-9c67-c4b3d9d73995@swcdnmega.surverssss.pro:8443?encryption=none&type=grpc&security=reality&sni=swcdnmega.surverssss.pro&pbk=vGUZigu8NwSiqOSTu1PSfPnlXsdhpm58ZjuWvIJM81U&fp=chrome&serviceName=grpc#EPODONIOS
-
-# 6. score 65.2 | 3/3 passes | delay 2108ms | spread 878ms | tcp 108ms | Reality, Яндекс [V.O.I.D]
-# passes: P1:4005ms P2:2108ms P3:1370ms+c
-vless://accfae78-b31c-47cb-86a1-bb9a07973e4a@194.55.239.101:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=vxA0Fdcn39Z6w1JrR958Ii0W9uLk2Knxg5XDagcPtxQ&security=reality&sid=e016190556fb1c9b&sni=passport.yandex.ru&type=raw#Reality%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
-
-# 7. score 63.7 | 3/3 passes | delay 2866ms | spread 1178ms | tcp 270ms | EPODONIOS
-# passes: P1:873ms P2:2866ms P3:4406ms+c
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#EPODONIOS
-
-# 8. score 63.2 | 3/3 passes | delay 3399ms | spread 1212ms | tcp 387ms | EPODONIOS
-# passes: P1:859ms P2:4495ms P3:3399ms+c
-ss://2022-blake3-aes-256-gcm:ADzlhA3ndouUCY3JbLddR/jwgYY7IDGc1T+5DuCix9Y=:KyFe2akGo5hcrswbMkD2+BM52si+D7lzyccZFTd4xaU=@206.1.100.83:25178?type=tcp#EPODONIOS
-
-# 9. score 63.0 | 3/3 passes | delay 5013ms | spread 841ms | tcp 108ms | EPODONIOS
-# passes: P1:5284ms P2:5013ms P3:2762ms+c
-vless://5abd299c-59e8-46e1-98ec-fec6ea20bec3@199.232.78.159:443?path=/?TELEGRAM--KANAL--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray&security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=safa.fastly.com#EPODONIOS
-
-# 10. score 63.0 | 3/3 passes | delay 4707ms | spread 917ms | tcp 108ms | EPODONIOS
-# passes: P1:5072ms P2:4707ms P3:2320ms+c
-vless://5b44c4dc-3b6b-4e61-96fa-6e89b349e6c4@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=safa.fastly.com#EPODONIOS
-
-# 11. score 62.9 | 3/3 passes | delay 4038ms | spread 1143ms | tcp 113ms | EPODONIOS
-# passes: P1:5573ms P2:4038ms P3:2144ms+c
-vless://85fe968d-fbb5-40dc-8422-30635eccb149@c20s5.portablesubmarines.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=portal.citygrainla.com&fp=chrome&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&sid=051f20c2344a2dfd&type=tcp&headerType=none#EPODONIOS
-
-# 12. score 62.5 | 3/3 passes | delay 4502ms | spread 1267ms | tcp 106ms | Reality, Rutube [V.O.I.D]
-# passes: P1:1937ms P2:4502ms P3:5740ms+c
-vless://d7255425-34b4-4ccc-8a88-427082401e94@188.225.57.252:8037?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=i_zbh_lP5Pnxuie4IIB5FiWrde9yYQXH1Gd0Qm-8AAg&security=reality&sid=9e5a335de26d1f5a&sni=pic.rutubelist.ru&type=raw#Reality, Rutube [V.O.I.D]
+# 3. score 64.2 | 3/3 passes | delay 4206ms | spread 594ms | tcp 113ms | EPODONIOS
+# passes: P1:2879ms P2:4206ms P3:4660ms+c
+vless://ff3b79c1-1fd9-4e86-95a5-cf3863b3d162@c1.greewebservices.ir:443?path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=h2&encryption=none&insecure=0&host=cydydts.deldadehnoor.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=cydydts.deldadehnoor.ir#EPODONIOS
