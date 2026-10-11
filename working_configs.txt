@@ -1,19 +1,38 @@
-# Working V2Ray/Xray configs
-# Generated: 2026-10-11 22:24:30
-# Core: xray Xray 26.6.1 (Xray, Penetrates Everything.) 9f96d16 (go1.26.3 windows/amd64)
-# Kept 3 of 8904 tested; minimum 3/3 successful passes, final pass content-verified
-# Ranking profile: balanced (reliability, latency, stability, throughput)
-# WARNING: these links contain credentials. Treat this file as a secret.
-# ==============================================================
-
-# 1. score 72.4 | 3/3 passes | delay 475ms | spread 1175ms | tcp 100ms | Reality, VK [V.O.I.D]
-# passes: P1:3934ms P2:410ms P3:475ms+c
-vless://3fcec4e4-a674-44d2-8cae-c253cec43b9c@153.76.161.58:2096?encryption=none&fp=firefox&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#Reality, VK [V.O.I.D]
-
-# 2. score 64.3 | 3/3 passes | delay 2786ms | spread 867ms | tcp 120ms | EPODONIOS
-# passes: P1:2157ms P2:2786ms P3:4759ms+c
-vless://ff3b79c1-1fd9-4e86-95a5-cf3863b3d162@c1.greewebservices.ir:443?security=tls&alpn=h2&encryption=none&insecure=0&host=cydydts.deldadehnoor.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=cydydts.deldadehnoor.ir#EPODONIOS
-
-# 3. score 64.2 | 3/3 passes | delay 4206ms | spread 594ms | tcp 113ms | EPODONIOS
-# passes: P1:2879ms P2:4206ms P3:4660ms+c
-vless://ff3b79c1-1fd9-4e86-95a5-cf3863b3d162@c1.greewebservices.ir:443?path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=h2&encryption=none&insecure=0&host=cydydts.deldadehnoor.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=cydydts.deldadehnoor.ir#EPODONIOS
+vless://85fe968d-fbb5-40dc-8422-30635eccb149@c20s5.portablesubmarines.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=portal.citygrainla.com&fp=chrome&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&sid=051f20c2344a2dfd&type=tcp&headerType=none#EPODONIOS
+vless://85fe968d-fbb5-40dc-8422-30635eccb149@c20s5.portablesubmarines.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=portal.citygrainla.com&fp=chrome&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&sid=051f20c2344a2dfd&type=tcp&headerType=none#EPODONIOS
+vless://b118fc0a-c535-11f1-9902-a337233c6cda@nl-1.wizard.select:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl-1.wizard.select&fp=chrome&pbk=Zjex_cLrMyB7UKgGP8iUZaUtKWuDJnpylpf1WUcfOA0&sid=080c8affc0204b46&spx=%2FQM9yh4aTIbK7rWO&type=tcp&headerType=none#EPODONIOS
+vless://b1936288-a353-4ff1-89b3-edaead599c6b@de1.manticore-vpn.lol:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.lovelive-anime.jp&fp=chrome&pbk=Ego9_BM1Sy20swG1UaGOucL_o94l3F6uw8TOTH2jYRI&sid=5347d9d0b588c111&type=tcp&headerType=none#EPODONIOS
+vless://85fe968d-fbb5-40dc-8422-30635eccb149@c20s5.portablesubmarines.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=portal.citygrainla.com&fp=chrome&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&sid=051f20c2344a2dfd&type=tcp&headerType=none#EPODONIOS
+vless://85fe968d-fbb5-40dc-8422-30635eccb149@c20s5.portablesubmarines.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=portal.citygrainla.com&fp=chrome&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&sid=051f20c2344a2dfd&type=tcp&headerType=none#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#EPODONIOS
+vless://b1936288-a353-4ff1-89b3-edaead599c6b@144.31.165.102:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.lovelive-anime.jp&fp=chrome&pbk=Ego9_BM1Sy20swG1UaGOucL_o94l3F6uw8TOTH2jYRI&sid=5347d9d0b588c111&type=tcp&headerType=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#EPODONIOS
+vless://b1936288-a353-4ff1-89b3-edaead599c6b@144.31.165.102:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.lovelive-anime.jp&fp=chrome&pbk=Ego9_BM1Sy20swG1UaGOucL_o94l3F6uw8TOTH2jYRI&sid=5347d9d0b588c111&type=tcp&headerType=none#EPODONIOS
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@23.81.36.65:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=uk.nztvpn.com&fp=chrome&pbk=UcFVpzbYTy8Iym6ZnCAtLQK-MeRg6wZuyni4xEOKG18&sid=0da7e14db353e7d0&type=tcp&headerType=none#EPODONIOS
+vless://b1936288-a353-4ff1-89b3-edaead599c6b@de2.manticore-vpn.lol:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.lovelive-anime.jp&fp=chrome&pbk=pXwkQ1rn3miSop9LpI9f6UwhSLtF18uUkKbQD2Kz2Vo&sid=f4940939dff6f31b&spx=%2F&type=tcp&headerType=none#EPODONIOS
+vless://b1936288-a353-4ff1-89b3-edaead599c6b@nl.manticore-vpn.lol:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.lovelive-anime.jp&fp=chrome&pbk=5gw-J3WJNUbA0xLNl1hjVG0JxEBlHwD0tUJcmqMaD3M&sid=3c586f0a4ab89901&type=tcp&headerType=none#EPODONIOS
+vless://85fe968d-fbb5-40dc-8422-30635eccb149@c20s5.portablesubmarines.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=portal.citygrainla.com&fp=chrome&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&sid=051f20c2344a2dfd&type=tcp&headerType=none#EPODONIOS
+vless://85fe968d-fbb5-40dc-8422-30635eccb149@c20s5.portablesubmarines.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=portal.citygrainla.com&fp=chrome&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&sid=051f20c2344a2dfd&type=tcp&headerType=none#EPODONIOS
+vless://b8df3f50-ffef-4c7e-9ef3-d5b156a47c02@144.31.238.115:2443?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=rRg3JiP2006ldJYh2TDPAn7dtlXLcSHdgHgkGI_HZTE&sid=ef567890&type=grpc&authority=&serviceName=grpc&mode=gun#EPODONIOS
+vless://85fe968d-fbb5-40dc-8422-30635eccb149@c20s5.portablesubmarines.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=portal.citygrainla.com&fp=chrome&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&sid=051f20c2344a2dfd&type=tcp&headerType=none#EPODONIOS
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@23.81.36.65:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=uk.nztvpn.com&fp=chrome&pbk=UcFVpzbYTy8Iym6ZnCAtLQK-MeRg6wZuyni4xEOKG18&sid=0da7e14db353e7d0&type=tcp&headerType=none#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#EPODONIOS
+vless://85fe968d-fbb5-40dc-8422-30635eccb149@c20s5.portablesubmarines.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=portal.citygrainla.com&fp=chrome&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&sid=051f20c2344a2dfd&type=tcp&headerType=none#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMHd4YzNSVVl3eEl6S1Nm@20.164.201.229:443#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#EPODONIOS
+vless://b8df3f50-ffef-4c7e-9ef3-d5b156a47c02@144.31.238.115:2443?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=rRg3JiP2006ldJYh2TDPAn7dtlXLcSHdgHgkGI_HZTE&sid=ef567890&type=grpc&authority=&serviceName=grpc&mode=gun#EPODONIOS
+vless://ebdf3268-2bd2-4608-875f-82f6a5efac69@217.69.167.125:43000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=217.69.167.125&fp=chrome&pbk=NXN75t-gk0tpVh74Thc7nPBXM4fytgMOZafDzSe8xAk&sid=353fdd95&type=tcp&headerType=none#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#EPODONIOS
+vless://ebdf3268-2bd2-4608-875f-82f6a5efac69@217.69.167.125:43000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=217.69.167.125&fp=chrome&pbk=NXN75t-gk0tpVh74Thc7nPBXM4fytgMOZafDzSe8xAk&sid=353fdd95&type=tcp&headerType=none&host=%2F%3FTelegram---mehrosaboran#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHYXlZYTJWN3BVYkpCZkt1@20.234.97.18:443#EPODONIOS
+vless://b1936288-a353-4ff1-89b3-edaead599c6b@144.31.165.102:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.lovelive-anime.jp&fp=chrome&pbk=Ego9_BM1Sy20swG1UaGOucL_o94l3F6uw8TOTH2jYRI&sid=5347d9d0b588c111&type=tcp&headerType=none&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI#EPODONIOS
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@fi.pythonsetupbib.online:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi.pythonsetupbib.online&fp=chrome&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&sid=bdf5852d1423e694&type=tcp&headerType=none#EPODONIOS
+vless://b1936288-a353-4ff1-89b3-edaead599c6b@144.31.165.102:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.lovelive-anime.jp&fp=chrome&pbk=Ego9_BM1Sy20swG1UaGOucL_o94l3F6uw8TOTH2jYRI&sid=5347d9d0b588c111&type=tcp&headerType=none#EPODONIOS
+vless://b1936288-a353-4ff1-89b3-edaead599c6b@de1.manticore-vpn.lol:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.lovelive-anime.jp&fp=chrome&pbk=Ego9_BM1Sy20swG1UaGOucL_o94l3F6uw8TOTH2jYRI&sid=5347d9d0b588c111&type=tcp&headerType=none#EPODONIOS
+vless://b1936288-a353-4ff1-89b3-edaead599c6b@144.31.165.102:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.lovelive-anime.jp&fp=chrome&pbk=Ego9_BM1Sy20swG1UaGOucL_o94l3F6uw8TOTH2jYRI&sid=5347d9d0b588c111&type=tcp&headerType=none#EPODONIOS
+vless://b1936288-a353-4ff1-89b3-edaead599c6b@144.31.165.102:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.lovelive-anime.jp&fp=chrome&pbk=Ego9_BM1Sy20swG1UaGOucL_o94l3F6uw8TOTH2jYRI&sid=5347d9d0b588c111&type=tcp&headerType=none#EPODONIOS
