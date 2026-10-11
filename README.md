@@ -1,23 +1,30 @@
 # Working Configs
 
 ## Statistics
-- Tested: 8876
-- Answered at least one pass: 10
-- Passed every pass: 5
-- Published (>= 3/3): 5
-- Content-verified: 5
+- Tested: 8138
+- Answered at least one pass: 23
+- Passed every pass: 12
+- Published (>= 3/3): 12
+- Content-verified: 12
 - Throughput sampled: 0
-- Updated: 2026-10-10 18:54 UTC
+- Updated: 2026-10-11 05:53 UTC
 
 ## Top configs
 
 | # | Name | Passes | Delay | Spread | Throughput | Score |
 |---|------|--------|-------|--------|------------|-------|
-| 1 | SG 🇸🇬 | @Raydikalx | 4CC338 | 3/3 | 896ms | 13ms | - | 80.9 |
-| 2 | Reality, VK [V.O.I.D] | 3/3 | 652ms | 1520ms | - | 70.0 |
-| 3 | ⚡ b2n.ir/v2ray-configs | 527 | 3/3 | 1206ms | 1125ms | - | 67.1 |
-| 4 | Reality, VK [V.O.I.D] | 3/3 | 1225ms | 1366ms | - | 66.7 |
-| 5 | EPODONIOS | 3/3 | 3821ms | 710ms | - | 64.0 |
+| 1 | EPODONIOS | 3/3 | 2330ms | 185ms | - | 69.5 |
+| 2 | EPODONIOS | 3/3 | 1056ms | 644ms | - | 68.8 |
+| 3 | EPODONIOS | 3/3 | 2736ms | 270ms | - | 67.6 |
+| 4 | EPODONIOS | 3/3 | 1884ms | 498ms | - | 66.9 |
+| 5 | EPODONIOS | 3/3 | 2706ms | 579ms | - | 65.3 |
+| 6 | Reality, Яндекс [V.O.I.D] | 3/3 | 2108ms | 878ms | - | 65.2 |
+| 7 | EPODONIOS | 3/3 | 2866ms | 1178ms | - | 63.7 |
+| 8 | EPODONIOS | 3/3 | 3399ms | 1212ms | - | 63.2 |
+| 9 | EPODONIOS | 3/3 | 5013ms | 841ms | - | 63.0 |
+| 10 | EPODONIOS | 3/3 | 4707ms | 917ms | - | 63.0 |
+| 11 | EPODONIOS | 3/3 | 4038ms | 1143ms | - | 62.9 |
+| 12 | Reality, Rutube [V.O.I.D] | 3/3 | 4502ms | 1267ms | - | 62.5 |
 
 ## How this was measured
 
