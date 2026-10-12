@@ -1,33 +1,27 @@
 # Working Configs
 
 ## Statistics
-- Tested: 8939
-- Answered at least one pass: 29
-- Passed every pass: 16
-- Published (>= 3/3): 16
-- Content-verified: 16
+- Tested: 8910
+- Answered at least one pass: 18
+- Passed every pass: 9
+- Published (>= 3/3): 9
+- Content-verified: 9
 - Throughput sampled: 0
-- Updated: 2026-10-12 07:29 UTC
+- Updated: 2026-10-12 13:01 UTC
 
 ## Top configs
 
 | # | Name | Passes | Delay | Spread | Throughput | Score |
 |---|------|--------|-------|--------|------------|-------|
-| 1 | EPODONIOS | 3/3 | 2115ms | 374ms | - | 67.3 |
-| 2 | EPODONIOS | 3/3 | 2703ms | 301ms | - | 67.2 |
-| 3 | EPODONIOS | 3/3 | 2178ms | 742ms | - | 65.4 |
-| 4 | EPODONIOS | 3/3 | 4719ms | 438ms | - | 64.7 |
-| 5 | EPODONIOS | 3/3 | 2977ms | 985ms | - | 63.9 |
-| 6 | EPODONIOS | 3/3 | 2943ms | 1026ms | - | 63.9 |
-| 7 | EPODONIOS | 3/3 | 2327ms | 1844ms | - | 63.8 |
-| 8 | EPODONIOS | 3/3 | 5460ms | 611ms | - | 63.6 |
-| 9 | EPODONIOS | 3/3 | 4312ms | 818ms | - | 63.4 |
-| 10 | EPODONIOS | 3/3 | 3164ms | 1418ms | - | 63.2 |
-| 11 | EPODONIOS | 3/3 | 4080ms | 994ms | - | 63.1 |
-| 12 | EPODONIOS | 3/3 | 4267ms | 963ms | - | 63.1 |
-| 13 | EPODONIOS | 3/3 | 4191ms | 1263ms | - | 62.7 |
-| 14 | EPODONIOS | 3/3 | 4606ms | 1172ms | - | 62.6 |
-| 15 | EPODONIOS | 3/3 | 4407ms | 1254ms | - | 62.6 |
+| 1 | EPODONIOS | 3/3 | 2050ms | 743ms | - | 65.6 |
+| 2 | EPODONIOS | 3/3 | 2118ms | 963ms | - | 65.0 |
+| 3 | EPODONIOS | 3/3 | 2077ms | 1065ms | - | 64.9 |
+| 4 | EPODONIOS | 3/3 | 2932ms | 659ms | - | 64.8 |
+| 5 | EPODONIOS | 3/3 | 2164ms | 1120ms | - | 64.7 |
+| 6 | EPODONIOS | 3/3 | 2513ms | 1126ms | - | 64.2 |
+| 7 | EPODONIOS | 3/3 | 3690ms | 711ms | - | 64.0 |
+| 8 | EPODONIOS | 3/3 | 3695ms | 768ms | - | 63.9 |
+| 9 | EPODONIOS | 3/3 | 5103ms | 796ms | - | 63.1 |
 
 ## How this was measured
 
