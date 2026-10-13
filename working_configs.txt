@@ -1,43 +1,19 @@
 # Working V2Ray/Xray configs
-# Generated: 2026-10-12 16:31:55
+# Generated: 2026-10-13 10:52:04
 # Core: xray Xray 26.6.1 (Xray, Penetrates Everything.) 9f96d16 (go1.26.3 windows/amd64)
-# Kept 9 of 8910 tested; minimum 3/3 successful passes, final pass content-verified
+# Kept 3 of 8865 tested; minimum 3/3 successful passes, final pass content-verified
 # Ranking profile: balanced (reliability, latency, stability, throughput)
 # WARNING: these links contain credentials. Treat this file as a secret.
 # ==============================================================
 
-# 1. score 65.6 | 3/3 passes | delay 2050ms | spread 743ms | tcp 97ms | EPODONIOS
-# passes: P1:2050ms P2:1554ms P3:3783ms+c
-vless://e19b32e0-f2e7-489d-bc73-0bdc0a4b0845@199.232.78.159:443?path=/?TELEGRAM--KANAL--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray&security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=safa.fastly.com#EPODONIOS
+# 1. score 66.9 | 3/3 passes | delay 2481ms | spread 364ms | tcp 256ms | EPODONIOS
+# passes: P1:1402ms P2:2495ms P3:2481ms+c
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206MUp2bG10VDR2OHkxeUdjekR0VDZXdz09OmtZa2VaUk5vL1VyeE1HeGtKWHRoMGc9PQ==@95.38.68.148:2089#EPODONIOS
 
-# 2. score 65.0 | 3/3 passes | delay 2118ms | spread 963ms | tcp 97ms | EPODONIOS
-# passes: P1:2118ms P2:1558ms P3:4447ms+c
-vless://e19b32e0-f2e7-489d-bc73-0bdc0a4b0845@199.232.78.159:443?path=/?TELEGRAM--BYA--CHANEL---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN--@JKVPN---@JKVPN---@JKVPN---@JKVPN&security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=safa.fastly.com#EPODONIOS
+# 2. score 64.9 | 3/3 passes | delay 2420ms | spread 807ms | tcp 253ms | EPODONIOS
+# passes: P1:1409ms P2:2420ms P3:3830ms+c
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206MUp2bG10VDR2OHkxeUdjekR0VDZXdz09OmtZa2VaUk5vL1VyeE1HeGtKWHRoMGc9PQ==@95.38.68.152:2089#EPODONIOS
 
-# 3. score 64.9 | 3/3 passes | delay 2077ms | spread 1065ms | tcp 67ms | EPODONIOS
-# passes: P1:4397ms P2:2077ms P3:1204ms+c
-vless://2c5f2d6e-d683-49f7-a12b-a95460b90a92@gcore.com:443?pcs=2f46da1aa616ddbabd59b4ddd2338505dd0c0ed52fbabac6fa3eedc14117a06b&alpn=h2&fp=chrome&type=xhttp&sni=gcore.com&mode=auto&path=/sakenekotr?ed=2048&security=tls&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"10","xmux":{"maxConcurrency":"8-16","cMaxReuseTimes":"64-128","hMaxRequestTimes":"800-900","hKeepAlivePeriod":10}}&insecure=0&host=gcoretr.starnetgostareaftab.com&allowInsecure=0#EPODONIOS
-
-# 4. score 64.8 | 3/3 passes | delay 2932ms | spread 659ms | tcp 66ms | EPODONIOS
-# passes: P1:3024ms P2:1048ms P3:2932ms+c
-vless://2c5f2d6e-d683-49f7-a12b-a95460b90a92@gcore.com:443?encryption=none&security=tls&sni=gcore.com&fp=chrome&alpn=h2&pcs=2f46da1aa616ddbabd59b4ddd2338505dd0c0ed52fbabac6fa3eedc14117a06b&type=xhttp&host=gcore.dadegostareaftab.com&path=/sakeneko?ed=2048&mode=auto&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"10","xmux":{"maxConcurrency":"8-16","cMaxReuseTimes":"64-128","hMaxRequestTimes":"800-900","hKeepAlivePeriod":10}}#EPODONIOS
-
-# 5. score 64.7 | 3/3 passes | delay 2164ms | spread 1120ms | tcp 97ms | EPODONIOS
-# passes: P1:2164ms P2:1497ms P3:4856ms+c
-vless://e19b32e0-f2e7-489d-bc73-0bdc0a4b0845@199.232.78.159:443?path=/?RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS&security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=safa.fastly.com#EPODONIOS
-
-# 6. score 64.2 | 3/3 passes | delay 2513ms | spread 1126ms | tcp 67ms | EPODONIOS
-# passes: P1:2513ms P2:4565ms P3:1188ms+c
-vless://2c5f2d6e-d683-49f7-a12b-a95460b90a92@gcore.com:443?encryption=none&security=tls&sni=gcore.com&fp=chrome&alpn=h2&pcs=2f46da1aa616ddbabd59b4ddd2338505dd0c0ed52fbabac6fa3eedc14117a06b&type=xhttp&host=miomio.dogmahali.com&path=/sakenekofin?ed=2048&mode=auto&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"10","xmux":{"maxConcurrency":"8-16","cMaxReuseTimes":"64-128","hMaxRequestTimes":"800-900","hKeepAlivePeriod":10}}#EPODONIOS
-
-# 7. score 64.0 | 3/3 passes | delay 3690ms | spread 711ms | tcp 110ms | EPODONIOS
-# passes: P1:4223ms P2:3690ms P3:2091ms+c
-vless://2c5f2d6e-d683-49f7-a12b-a95460b90a92@geow3.nomush.ir:666?security=reality&encryption=none&pbk=C9AIgcAGpHr97gE1bRAGZzq1ZhsQByTcoArjJMjuBis&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=436bd46854a888b8#EPODONIOS
-
-# 8. score 63.9 | 3/3 passes | delay 3695ms | spread 768ms | tcp 133ms | EPODONIOS
-# passes: P1:1769ms P2:4073ms P3:3695ms+c
-vless://1fc575d3-81bb-44d5-9efa-4131c7cc677a@103.126.51.58:995?path=/api/v1&security=tls&encryption=none&insecure=0&host=ocober-romania-new.yyuyy.com&fp=chrome&type=httpupgrade&allowInsecure=0&sni=ocober-romania-new.yyuyy.com#EPODONIOS
-
-# 9. score 63.1 | 3/3 passes | delay 5103ms | spread 796ms | tcp 119ms | EPODONIOS
-# passes: P1:5303ms P2:2916ms P3:5103ms+c
-vless://2c5f2d6e-d683-49f7-a12b-a95460b90a92@feow.nomush.ir:11497?security=reality&encryption=none&pbk=J3DhtzId04tRrOF9HmIxpv6QOGY1g6j2wJ_UtVKmimk&headerType=none&fp=chrome&type=tcp&sni=dynu.com&sid=b0063cec752e829a#EPODONIOS
+# 3. score 63.5 | 3/3 passes | delay 2813ms | spread 1393ms | tcp 107ms | EPODONIOS
+# passes: P1:5371ms P2:2813ms P3:1192ms+c
+vless://2422dbe1-83cb-4bae-9b7e-569e6aaaca00@185.242.3.97:8443?mode=gun&security=reality&encryption=none&authority=&pbk=EoeKDsLFEs6F6XMnkQZgvHJ4FfB4s5g0hSP5JE2RCl0&fp=chrome&type=grpc&serviceName=vless-grpc&sni=www.cloudflare.com&sid=a1b2c3d4#EPODONIOS
