@@ -1,19 +1,15 @@
 # Working V2Ray/Xray configs
-# Generated: 2026-10-13 10:52:04
+# Generated: 2026-10-13 19:10:46
 # Core: xray Xray 26.6.1 (Xray, Penetrates Everything.) 9f96d16 (go1.26.3 windows/amd64)
-# Kept 3 of 8865 tested; minimum 3/3 successful passes, final pass content-verified
+# Kept 2 of 8843 tested; minimum 3/3 successful passes, final pass content-verified
 # Ranking profile: balanced (reliability, latency, stability, throughput)
 # WARNING: these links contain credentials. Treat this file as a secret.
 # ==============================================================
 
-# 1. score 66.9 | 3/3 passes | delay 2481ms | spread 364ms | tcp 256ms | EPODONIOS
-# passes: P1:1402ms P2:2495ms P3:2481ms+c
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206MUp2bG10VDR2OHkxeUdjekR0VDZXdz09OmtZa2VaUk5vL1VyeE1HeGtKWHRoMGc9PQ==@95.38.68.148:2089#EPODONIOS
+# 1. score 65.1 | 3/3 passes | delay 2051ms | spread 990ms | tcp 134ms | @V2ray_Alpha💍 1
+# passes: P1:2051ms P2:550ms P3:3521ms+c
+vmess://eyJhZGQiOiI1LjQ1Ljk3LjE0NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMThmYmZiNy03MjFhLTQ5YTktYjlmNS1mYjU1ZDkyNTkyYjYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxMDgwMyIsInBzIjoiQFYycmF5X0FscGhh8J+SjSAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==socks
 
-# 2. score 64.9 | 3/3 passes | delay 2420ms | spread 807ms | tcp 253ms | EPODONIOS
-# passes: P1:1409ms P2:2420ms P3:3830ms+c
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206MUp2bG10VDR2OHkxeUdjekR0VDZXdz09OmtZa2VaUk5vL1VyeE1HeGtKWHRoMGc9PQ==@95.38.68.152:2089#EPODONIOS
-
-# 3. score 63.5 | 3/3 passes | delay 2813ms | spread 1393ms | tcp 107ms | EPODONIOS
-# passes: P1:5371ms P2:2813ms P3:1192ms+c
-vless://2422dbe1-83cb-4bae-9b7e-569e6aaaca00@185.242.3.97:8443?mode=gun&security=reality&encryption=none&authority=&pbk=EoeKDsLFEs6F6XMnkQZgvHJ4FfB4s5g0hSP5JE2RCl0&fp=chrome&type=grpc&serviceName=vless-grpc&sni=www.cloudflare.com&sid=a1b2c3d4#EPODONIOS
+# 2. score 62.7 | 3/3 passes | delay 4392ms | spread 1172ms | tcp 135ms | EPODONIOS
+# passes: P1:5930ms P2:2415ms P3:4392ms+c
+vless://ec572cf0-1337-4c51-b4ec-ff2f538c1f4c@se1.h1cloud.net:26226?mode=gun&security=reality&encryption=none&pbk=zsSr4H-YgykAOYdIYFaAnFQtIguRhP825FodeKSoxjA&fp=chrome&type=grpc&serviceName=69effd3120f4&sni=www.dn.se&sid=2ddf3f1151012c98#EPODONIOS
