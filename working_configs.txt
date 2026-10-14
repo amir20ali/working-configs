@@ -1,15 +1,23 @@
 # Working V2Ray/Xray configs
-# Generated: 2026-10-13 19:10:46
+# Generated: 2026-10-14 19:49:20
 # Core: xray Xray 26.6.1 (Xray, Penetrates Everything.) 9f96d16 (go1.26.3 windows/amd64)
-# Kept 2 of 8843 tested; minimum 3/3 successful passes, final pass content-verified
+# Kept 4 of 8789 tested; minimum 3/3 successful passes, final pass content-verified
 # Ranking profile: balanced (reliability, latency, stability, throughput)
 # WARNING: these links contain credentials. Treat this file as a secret.
 # ==============================================================
 
-# 1. score 65.1 | 3/3 passes | delay 2051ms | spread 990ms | tcp 134ms | @V2ray_Alpha💍 1
-# passes: P1:2051ms P2:550ms P3:3521ms+c
-vmess://eyJhZGQiOiI1LjQ1Ljk3LjE0NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMThmYmZiNy03MjFhLTQ5YTktYjlmNS1mYjU1ZDkyNTkyYjYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxMDgwMyIsInBzIjoiQFYycmF5X0FscGhh8J+SjSAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==socks
+# 1. score 67.8 | 3/3 passes | delay 1633ms | spread 441ms | tcp 106ms | CA 🇨🇦 | @Raydikalx | 22A83C
+# passes: P1:1633ms P2:2044ms P3:721ms+c
+vmess://eyJhZGQiOiIxMDQuMjEuNy4xMzMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJpZCI6IjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsIm5hbWUiOiJDQSDwn4eo8J+HpiB8IEBSYXlkaWthbHggfCAyMkE4M0MiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3M/ZWQ9MjA0OCIsInBvcnQiOjgwLCJwcyI6IkNBIPCfh6jwn4emIHwgQFJheWRpa2FseCB8IDIyQTgzQyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
-# 2. score 62.7 | 3/3 passes | delay 4392ms | spread 1172ms | tcp 135ms | EPODONIOS
-# passes: P1:5930ms P2:2415ms P3:4392ms+c
-vless://ec572cf0-1337-4c51-b4ec-ff2f538c1f4c@se1.h1cloud.net:26226?mode=gun&security=reality&encryption=none&pbk=zsSr4H-YgykAOYdIYFaAnFQtIguRhP825FodeKSoxjA&fp=chrome&type=grpc&serviceName=69effd3120f4&sni=www.dn.se&sid=2ddf3f1151012c98#EPODONIOS
+# 2. score 66.6 | 3/3 passes | delay 5483ms | spread 231ms | tcp 98ms | EPODONIOS
+# passes: P1:5644ms P2:5483ms P3:4952ms+c
+trojan://Mj5nBFLSbUzPPJwjBa-WgS9ZnANpH01e@m2.mincreaft.com:5443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=m2.mincreaft.com#EPODONIOS
+
+# 3. score 65.3 | 3/3 passes | delay 2765ms | spread 562ms | tcp 73ms | EPODONIOS
+# passes: P1:3926ms P2:2765ms P3:2241ms+c
+vless://03218c7c-acd1-45c0-87a1-9cc77101c6b4@mobile-api-12.sova.toys:443?mode=multi&security=reality&encryption=none&pbk=1A9loATtqTbKfErpj24clMebWdbmBRDgUIADwtlvtAw&fp=chrome&type=grpc&serviceName=google.storage.v2.Storage&sni=mobile-api-12.sova.toys&sid=70c20a2f5a7d542e#EPODONIOS
+
+# 4. score 63.1 | 3/3 passes | delay 3923ms | spread 1048ms | tcp 106ms | EPODONIOS
+# passes: P1:3923ms P2:5923ms P3:2778ms+c
+trojan://Mj5nBFLSbUzPPJwjBa-WgS9ZnANpH01e@m3.mincreaft.com:5443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=m3.mincreaft.com#EPODONIOS
