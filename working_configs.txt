@@ -1,23 +1,55 @@
 # Working V2Ray/Xray configs
-# Generated: 2026-10-14 19:49:20
+# Generated: 2026-10-15 12:37:37
 # Core: xray Xray 26.6.1 (Xray, Penetrates Everything.) 9f96d16 (go1.26.3 windows/amd64)
-# Kept 4 of 8789 tested; minimum 3/3 successful passes, final pass content-verified
+# Kept 12 of 8873 tested; minimum 3/3 successful passes, final pass content-verified
 # Ranking profile: balanced (reliability, latency, stability, throughput)
 # WARNING: these links contain credentials. Treat this file as a secret.
 # ==============================================================
 
-# 1. score 67.8 | 3/3 passes | delay 1633ms | spread 441ms | tcp 106ms | CA 🇨🇦 | @Raydikalx | 22A83C
-# passes: P1:1633ms P2:2044ms P3:721ms+c
-vmess://eyJhZGQiOiIxMDQuMjEuNy4xMzMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJpZCI6IjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsIm5hbWUiOiJDQSDwn4eo8J+HpiB8IEBSYXlkaWthbHggfCAyMkE4M0MiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3M/ZWQ9MjA0OCIsInBvcnQiOjgwLCJwcyI6IkNBIPCfh6jwn4emIHwgQFJheWRpa2FseCB8IDIyQTgzQyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+# 1. score 74.7 | 3/3 passes | delay 353ms | spread 916ms | tcp 1464ms | EPODONIOS
+# passes: P1:3100ms P2:352ms P3:353ms+c
+vless://c1b6b328-c6cc-48cd-bc42-b065eef574d3@tamiiiiz.aryan-sport.ir:2087?mode=auto&path=/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=Shot.aryan-sport.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=Shot.aryan-sport.ir#EPODONIOS
 
-# 2. score 66.6 | 3/3 passes | delay 5483ms | spread 231ms | tcp 98ms | EPODONIOS
-# passes: P1:5644ms P2:5483ms P3:4952ms+c
-trojan://Mj5nBFLSbUzPPJwjBa-WgS9ZnANpH01e@m2.mincreaft.com:5443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=m2.mincreaft.com#EPODONIOS
+# 2. score 71.0 | 3/3 passes | delay 619ms | spread 978ms | tcp 1464ms | EPODONIOS
+# passes: P1:3329ms P2:619ms P3:394ms+c
+vless://c1b6b328-c6cc-48cd-bc42-b065eef574d3@tamiiiiz.aryan-sport.ir:2087?mode=auto&path=/?ed&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=Shot.aryan-sport.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=Shot.aryan-sport.ir#EPODONIOS
 
-# 3. score 65.3 | 3/3 passes | delay 2765ms | spread 562ms | tcp 73ms | EPODONIOS
-# passes: P1:3926ms P2:2765ms P3:2241ms+c
+# 3. score 68.7 | 3/3 passes | delay 835ms | spread 1428ms | tcp 131ms | EPODONIOS
+# passes: P1:4935ms P2:835ms P3:651ms+c
+vless://c1b6b328-c6cc-48cd-bc42-b065eef574d3@tamiiiiz.aryan-sport.ir:2053?mode=auto&path=/?ed&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=france.varzeshfotsal.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=france.varzeshfotsal.ir#EPODONIOS
+
+# 4. score 66.1 | 3/3 passes | delay 1365ms | spread 1522ms | tcp 1258ms | TCP, Тинькофф [V.O.I.D]
+# passes: P1:5826ms P2:1365ms P3:1260ms+c
+vless://6c713691-3ca2-4446-ad25-113d1bed6b03@78.17.178.125:443?type=tcp&security=reality&sni=cdn.tbank.ru&fp=qq&flow=xtls-rprx-vision&pbk=jcp4Lj_qYzxtkalm_XFjrmvqEMGRG7sb19yMwLe16WE&sid=e0215064d8d1fd7c#TCP%2C%20%D0%A2%D0%B8%D0%BD%D1%8C%D0%BA%D0%BE%D1%84%D1%84%20%5BV.O.I.D%5D
+
+# 5. score 66.0 | 3/3 passes | delay 2824ms | spread 425ms | tcp 185ms | EPODONIOS
+# passes: P1:3271ms P2:1995ms P3:2824ms+c
+vless://03ca8c3f-e777-45b5-a1b1-592094ca99ee@82.202.178.132:443?mode=multi&security=reality&encryption=none&pbk=1A9loATtqTbKfErpj24clMebWdbmBRDgUIADwtlvtAw&fp=chrome&type=grpc&serviceName=google.storage.v2.Storage&sni=mobile-api-12.sova.toys&sid=70c20a2f5a7d542e#EPODONIOS
+
+# 6. score 64.7 | 3/3 passes | delay 3125ms | spread 626ms | tcp 185ms | EPODONIOS
+# passes: P1:3125ms P2:2381ms P3:4258ms+c
 vless://03218c7c-acd1-45c0-87a1-9cc77101c6b4@mobile-api-12.sova.toys:443?mode=multi&security=reality&encryption=none&pbk=1A9loATtqTbKfErpj24clMebWdbmBRDgUIADwtlvtAw&fp=chrome&type=grpc&serviceName=google.storage.v2.Storage&sni=mobile-api-12.sova.toys&sid=70c20a2f5a7d542e#EPODONIOS
 
-# 4. score 63.1 | 3/3 passes | delay 3923ms | spread 1048ms | tcp 106ms | EPODONIOS
-# passes: P1:3923ms P2:5923ms P3:2778ms+c
-trojan://Mj5nBFLSbUzPPJwjBa-WgS9ZnANpH01e@m3.mincreaft.com:5443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=m3.mincreaft.com#EPODONIOS
+# 7. score 64.2 | 3/3 passes | delay 2706ms | spread 963ms | tcp 141ms | EPODONIOS
+# passes: P1:4582ms P2:2706ms P3:1693ms+c
+vless://aee7ae19-672f-49d8-8a92-aa7cdfc89f89@185.253.116.33:14430?sni=185.253.116.33&type=ws&host=185.253.116.33&path=/vless#EPODONIOS
+
+# 8. score 63.4 | 3/3 passes | delay 4100ms | spread 841ms | tcp 223ms | EPODONIOS
+# passes: P1:4100ms P2:4616ms P3:2092ms+c
+vless://ec572cf0-1337-4c51-b4ec-ff2f538c1f4c@se1.h1cloud.net:26226?mode=gun&security=reality&encryption=none&pbk=zsSr4H-YgykAOYdIYFaAnFQtIguRhP825FodeKSoxjA&fp=chrome&type=grpc&serviceName=69effd3120f4&sni=www.dn.se&sid=2ddf3f1151012c98#EPODONIOS
+
+# 9. score 63.0 | 3/3 passes | delay 4922ms | spread 888ms | tcp 205ms | EPODONIOS
+# passes: P1:2341ms P2:4922ms P3:5004ms+c
+vless://16f78e38-8df9-4658-93e8-e49feababf5b@193.233.130.119:14430?path=/vless&security=&encryption=none&host=193.233.130.119&type=ws&sni=193.233.130.119#EPODONIOS
+
+# 10. score 62.2 | 3/3 passes | delay 5503ms | spread 1243ms | tcp 103ms | EPODONIOS
+# passes: P1:2516ms P2:5503ms P3:6247ms+c
+vless://05d7a479-a099-40cf-aecf-41aa934767b0@nl5.hap-plus.ru:8443?path=/api/v1/events&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=nl5.hap-plus.ru&fp=chrome&type=ws&allowInsecure=0&sni=nl5.hap-plus.ru#EPODONIOS
+
+# 11. score 62.2 | 3/3 passes | delay 4628ms | spread 1610ms | tcp 352ms | EPODONIOS
+# passes: P1:5647ms P2:4628ms P3:817ms+c
+vless://a16a3e32-8d63-4dec-8c67-1361388a64ca@83.166.238.57:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=QXw5YbUfPssdgGZIfAol5PonYGWSjlWsWpoij93VU20&security=reality&sid=b276e04195d77f6b&sni=eh3.vk.ru&type=tcp#EPODONIOS
+
+# 12. score 61.9 | 3/3 passes | delay 5340ms | spread 1607ms | tcp 514ms | EPODONIOS
+# passes: P1:5897ms P2:5340ms P3:1077ms+c
+vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?path=/vless&security=&encryption=none&host=95.174.68.188&type=ws&sni=95.174.68.188#EPODONIOS
