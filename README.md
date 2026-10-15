@@ -1,22 +1,30 @@
 # Working Configs
 
 ## Statistics
-- Tested: 8789
-- Answered at least one pass: 6
-- Passed every pass: 4
-- Published (>= 3/3): 4
-- Content-verified: 4
+- Tested: 8873
+- Answered at least one pass: 25
+- Passed every pass: 12
+- Published (>= 3/3): 12
+- Content-verified: 12
 - Throughput sampled: 0
-- Updated: 2026-10-14 16:19 UTC
+- Updated: 2026-10-15 09:07 UTC
 
 ## Top configs
 
 | # | Name | Passes | Delay | Spread | Throughput | Score |
 |---|------|--------|-------|--------|------------|-------|
-| 1 | CA 🇨🇦 | @Raydikalx | 22A83C | 3/3 | 1633ms | 441ms | - | 67.8 |
-| 2 | EPODONIOS | 3/3 | 5483ms | 231ms | - | 66.6 |
-| 3 | EPODONIOS | 3/3 | 2765ms | 562ms | - | 65.3 |
-| 4 | EPODONIOS | 3/3 | 3923ms | 1048ms | - | 63.1 |
+| 1 | EPODONIOS | 3/3 | 353ms | 916ms | - | 74.7 |
+| 2 | EPODONIOS | 3/3 | 619ms | 978ms | - | 71.0 |
+| 3 | EPODONIOS | 3/3 | 835ms | 1428ms | - | 68.7 |
+| 4 | TCP, Тинькофф [V.O.I.D] | 3/3 | 1365ms | 1522ms | - | 66.1 |
+| 5 | EPODONIOS | 3/3 | 2824ms | 425ms | - | 66.0 |
+| 6 | EPODONIOS | 3/3 | 3125ms | 626ms | - | 64.7 |
+| 7 | EPODONIOS | 3/3 | 2706ms | 963ms | - | 64.2 |
+| 8 | EPODONIOS | 3/3 | 4100ms | 841ms | - | 63.4 |
+| 9 | EPODONIOS | 3/3 | 4922ms | 888ms | - | 63.0 |
+| 10 | EPODONIOS | 3/3 | 5503ms | 1243ms | - | 62.2 |
+| 11 | EPODONIOS | 3/3 | 4628ms | 1610ms | - | 62.2 |
+| 12 | EPODONIOS | 3/3 | 5340ms | 1607ms | - | 61.9 |
 
 ## How this was measured
 
