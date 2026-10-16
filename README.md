@@ -1,22 +1,19 @@
 # Working Configs
 
 ## Statistics
-- Tested: 8828
-- Answered at least one pass: 8
-- Passed every pass: 4
-- Published (>= 3/3): 4
-- Content-verified: 4
+- Tested: 8790
+- Answered at least one pass: 9
+- Passed every pass: 1
+- Published (>= 3/3): 1
+- Content-verified: 1
 - Throughput sampled: 0
-- Updated: 2026-10-16 06:12 UTC
+- Updated: 2026-10-16 16:29 UTC
 
 ## Top configs
 
 | # | Name | Passes | Delay | Spread | Throughput | Score |
 |---|------|--------|-------|--------|------------|-------|
-| 1 | US 🇺🇸 | @Raydikalx | CF32C4 | 3/3 | 1037ms | 239ms | - | 71.9 |
-| 2 | EPODONIOS | 3/3 | 3351ms | 346ms | - | 66.2 |
-| 3 | EPODONIOS | 3/3 | 3056ms | 612ms | - | 64.8 |
-| 4 | EPODONIOS | 3/3 | 2902ms | 1399ms | - | 63.4 |
+| 1 | DE 🇩🇪 | @Raydikalx | 45D219 | 3/3 | 1376ms | 571ms | - | 67.8 |
 
 ## How this was measured
 
