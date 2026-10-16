@@ -1,11 +1,23 @@
 # Working V2Ray/Xray configs
-# Generated: 2026-10-15 20:51:16
+# Generated: 2026-10-16 09:42:47
 # Core: xray Xray 26.6.1 (Xray, Penetrates Everything.) 9f96d16 (go1.26.3 windows/amd64)
-# Kept 1 of 8896 tested; minimum 3/3 successful passes, final pass content-verified
+# Kept 4 of 8828 tested; minimum 3/3 successful passes, final pass content-verified
 # Ranking profile: balanced (reliability, latency, stability, throughput)
 # WARNING: these links contain credentials. Treat this file as a secret.
 # ==============================================================
 
-# 1. score 63.8 | 3/3 passes | delay 3890ms | spread 741ms | tcp 658ms | EPODONIOS
-# passes: P1:3890ms P2:2698ms P3:4921ms+c
-vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?path=/vless&security=none&encryption=none&host=13.140.56.100&type=ws#EPODONIOS
+# 1. score 71.9 | 3/3 passes | delay 1037ms | spread 239ms | tcp 527ms | US 🇺🇸 | @Raydikalx | CF32C4
+# passes: P1:1646ms P2:929ms P3:1037ms+c
+vmess://eyJhZGQiOiIxNTQuNjQuMjM5LjIyIiwiYWlkIjoiMCIsImlkIjoiOWZhNzMyZDYtZGNkNi00N2JiLWMyNTUtMDk0YmFkNzE3NjVkIiwibmV0Ijoibm9uZSIsInBvcnQiOiIyNjQyMSIsInBzIjoiVVMg8J+HuvCfh7ggfCBAUmF5ZGlrYWx4IHwgQ0YzMkM0Iiwic2N5IjoiYXV0byIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+
+# 2. score 66.2 | 3/3 passes | delay 3351ms | spread 346ms | tcp 400ms | EPODONIOS
+# passes: P1:3257ms P2:4295ms P3:3351ms+c
+vless://dc1acdb4-d2a8-42f4-87de-437733f3a9e7@86.54.42.91:420?security=reality&encryption=none&pbk=eDBTff9fQM2sXms--xj4iP23ajzOY6mw1gT8YHWXmwA&headerType=&fp=chrome&spx=/202cb85b04d8675&type=tcp&sni=android.clients.google.com&sid=c2488d654e410190#EPODONIOS
+
+# 3. score 64.8 | 3/3 passes | delay 3056ms | spread 612ms | tcp 139ms | EPODONIOS
+# passes: P1:3056ms P2:3789ms P3:1952ms+c
+vless://f02e4193-8d89-452f-93d7-c6b133e82b9e@43.249.72.255:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=henzoo.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#EPODONIOS
+
+# 4. score 63.4 | 3/3 passes | delay 2902ms | spread 1399ms | tcp 586ms | EPODONIOS
+# passes: P1:5943ms P2:2902ms P3:1746ms+c
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#EPODONIOS
