@@ -1,22 +1,47 @@
-trojan://mitivpn@167.82.64.46:443?security=tls&sni=firefox.com&alpn=http%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=mitivpn--s2.global.ssl.fastly.net&path=%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2FNLSs---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1#EPODONIOS
+# Working V2Ray/Xray configs
+# Generated: 2026-10-17 09:53:09
+# Core: xray Xray 26.6.1 (Xray, Penetrates Everything.) 9f96d16 (go1.26.3 windows/amd64)
+# Kept 10 of 8803 tested; minimum 3/3 successful passes, final pass content-verified
+# Ranking profile: balanced (reliability, latency, stability, throughput)
+# WARNING: these links contain credentials. Treat this file as a secret.
+# ==============================================================
+
+# 1. score 71.8 | 3/3 passes | delay 4182ms | spread 64ms | tcp 417ms | EPODONIOS
+# passes: P1:4182ms P2:4063ms P3:4254ms+c
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@20.234.202.46:443#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJZEJzcEJjaHFwSW5PWkZL@20.164.209.198:443#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJZEJzcEJjaHFwSW5PWkZL@20.164.209.198:443#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJZEJzcEJjaHFwSW5PWkZL@20.164.209.198:443#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJZEJzcEJjaHFwSW5PWkZL@20.164.209.198:443#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJZEJzcEJjaHFwSW5PWkZL@20.164.209.198:443#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJZEJzcEJjaHFwSW5PWkZL@20.164.209.198:443#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJZEJzcEJjaHFwSW5PWkZL@20.164.209.198:443#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#EPODONIOS
-ss://YWVzLTI1Ni1nY206SnVENk1OZ3RYM25WcEN6RnpYWVZZakRUWjduc21hVHY%3D@191.223.221.53:8388#EPODONIOS
+
+# 2. score 69.0 | 3/3 passes | delay 1591ms | spread 311ms | tcp 292ms | TCP, Яндекс [V.O.I.D]
+# passes: P1:2278ms P2:1591ms P3:1346ms+c
+vless://408c51e8-9246-483d-ba73-34ab4e202eb9@finkawwwbroy5.qcloud.surf:20324?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=RK2g-bLoaa9GD9cJRRk2ktU9nAvP4-YmUPnBs1-UC1A&sid=a9391e22&sni=metrika.yandex.ru&encryption=none#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
+
+# 3. score 68.5 | 3/3 passes | delay 1283ms | spread 503ms | tcp 292ms | Reality, Яндекс [V.O.I.D]
+# passes: P1:2515ms P2:1006ms P3:1283ms+c
+vless://408c51e8-9246-483d-ba73-34ab4e202eb9@201.58.176.73:20324?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=RK2g-bLoaa9GD9cJRRk2ktU9nAvP4-YmUPnBs1-UC1A&security=reality&sid=a9391e22&sni=metrika.yandex.ru&type=tcp#Reality%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
+
+# 4. score 67.6 | 3/3 passes | delay 1563ms | spread 511ms | tcp 1516ms | US 🇺🇸 | @Raydikalx | AA9499
+# passes: P1:2472ms P2:1563ms P3:940ms+c
+vmess://eyJhZGQiOiIzOC40NS42Ni4xODciLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImFlNjY3MmRkLWZmMjAtNDUzZi1lZDk4LTQ3YTA3OGJkMGNiYyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTIyODgiLCJwcyI6IlVTIPCfh7rwn4e4IHwgQFJheWRpa2FseCB8IEFBOTQ5OSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+
+# 5. score 67.0 | 3/3 passes | delay 1213ms | spread 1146ms | tcp 292ms | Reality, Яндекс [V.O.I.D]
+# passes: P1:4456ms P2:1018ms P3:1213ms+c
+vless://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@201.58.176.73:20324?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=RK2g-bLoaa9GD9cJRRk2ktU9nAvP4-YmUPnBs1-UC1A&security=reality&sid=a9391e22&sni=metrika.yandex.ru&type=tcp#Reality%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
+
+# 6. score 65.7 | 3/3 passes | delay 3808ms | spread 365ms | tcp 289ms | EPODONIOS
+# passes: P1:3426ms P2:3808ms P3:4520ms+c
+vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?security=none&encryption=none&headerType=none&type=tcp&sni=45.138.100.248#EPODONIOS
+
+# 7. score 65.0 | 3/3 passes | delay 2619ms | spread 674ms | tcp 338ms | EPODONIOS
+# passes: P1:3387ms P2:1366ms P3:2619ms+c
+vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+
+# 8. score 64.8 | 3/3 passes | delay 3720ms | spread 506ms | tcp 247ms | EPODONIOS
+# passes: P1:3720ms P2:4276ms P3:2758ms+c
+vless://468dfb17-11a0-4d34-b6fa-a454a6deea12@tamiiiiz.aryan-sport.ir:443?mode=auto&path=/&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=s1.aryan-sport.ir.&type=xhttp&allowInsecure=0&sni=s1.aryan-sport.ir#EPODONIOS
+
+# 9. score 64.3 | 3/3 passes | delay 2190ms | spread 1435ms | tcp 292ms | TCP, Яндекс [V.O.I.D]
+# passes: P1:5686ms P2:2190ms P3:1380ms+c
+vless://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@finkawwwbroy5.qcloud.surf:20324?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=RK2g-bLoaa9GD9cJRRk2ktU9nAvP4-YmUPnBs1-UC1A&sid=a9391e22&sni=metrika.yandex.ru&encryption=none#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
+
+# 10. score 64.0 | 3/3 passes | delay 3995ms | spread 671ms | tcp 247ms | EPODONIOS
+# passes: P1:3273ms P2:5287ms P3:3995ms+c
+vless://468dfb17-11a0-4d34-b6fa-a454a6deea12@tamiiiiz.aryan-sport.ir:443?mode=auto&path=/&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=s13.aryan-sport.ir.&type=xhttp&allowInsecure=0&sni=s20.aryan-sport.ir#EPODONIOS
