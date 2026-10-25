@@ -1,28 +1,26 @@
 # Working Configs
 
 ## Statistics
-- Tested: 8803
-- Answered at least one pass: 13
-- Passed every pass: 10
-- Published (>= 3/3): 10
-- Content-verified: 10
+- Tested: 8827
+- Answered at least one pass: 12
+- Passed every pass: 8
+- Published (>= 3/3): 8
+- Content-verified: 8
 - Throughput sampled: 0
-- Updated: 2026-10-17 06:23 UTC
+- Updated: 2026-10-25 07:12 UTC
 
 ## Top configs
 
 | # | Name | Passes | Delay | Spread | Throughput | Score |
 |---|------|--------|-------|--------|------------|-------|
-| 1 | EPODONIOS | 3/3 | 4182ms | 64ms | - | 71.8 |
-| 2 | TCP, Яндекс [V.O.I.D] | 3/3 | 1591ms | 311ms | - | 69.0 |
-| 3 | Reality, Яндекс [V.O.I.D] | 3/3 | 1283ms | 503ms | - | 68.5 |
-| 4 | US 🇺🇸 | @Raydikalx | AA9499 | 3/3 | 1563ms | 511ms | - | 67.6 |
-| 5 | Reality, Яндекс [V.O.I.D] | 3/3 | 1213ms | 1146ms | - | 67.0 |
-| 6 | EPODONIOS | 3/3 | 3808ms | 365ms | - | 65.7 |
-| 7 | EPODONIOS | 3/3 | 2619ms | 674ms | - | 65.0 |
-| 8 | EPODONIOS | 3/3 | 3720ms | 506ms | - | 64.8 |
-| 9 | TCP, Яндекс [V.O.I.D] | 3/3 | 2190ms | 1435ms | - | 64.3 |
-| 10 | EPODONIOS | 3/3 | 3995ms | 671ms | - | 64.0 |
+| 1 | CA 🇨🇦 | @Raydikalx | 0AD519 | 3/3 | 780ms | 4ms | - | 82.5 |
+| 2 | US 🇺🇸 | @Raydikalx | 25DD23 | 3/3 | 1191ms | 49ms | - | 76.9 |
+| 3 | HK 🇭🇰 | @Raydikalx | A36995 | 3/3 | 1255ms | 296ms | - | 70.2 |
+| 4 | EPODONIOS | 3/3 | 2365ms | 987ms | - | 64.6 |
+| 5 | EPODONIOS | 3/3 | 3613ms | 915ms | - | 63.6 |
+| 6 | EPODONIOS | 3/3 | 2933ms | 1644ms | - | 63.2 |
+| 7 | EPODONIOS | 3/3 | 3428ms | 1266ms | - | 63.1 |
+| 8 | EPODONIOS | 3/3 | 5032ms | 1137ms | - | 62.5 |
 
 ## How this was measured
 
