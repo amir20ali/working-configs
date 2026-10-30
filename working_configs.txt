@@ -1,39 +1,167 @@
 # Working V2Ray/Xray configs
-# Generated: 2026-10-25 10:42:41
+# Generated: 2026-10-30 13:57:29
 # Core: xray Xray 26.6.1 (Xray, Penetrates Everything.) 9f96d16 (go1.26.3 windows/amd64)
-# Kept 8 of 8827 tested; minimum 3/3 successful passes, final pass content-verified
+# Kept 40 of 4913 tested; minimum 3/3 successful passes, final pass content-verified
 # Ranking profile: balanced (reliability, latency, stability, throughput)
 # WARNING: these links contain credentials. Treat this file as a secret.
 # ==============================================================
 
-# 1. score 82.5 | 3/3 passes | delay 780ms | spread 4ms | tcp 107ms | CA 🇨🇦 | @Raydikalx | 0AD519
-# passes: P1:792ms P2:780ms P3:779ms+c
-vmess://eyJhZGQiOiIxNzIuNjcuMTg3LjE0NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoidm1lc3MubGJ3NjY2LmRwZG5zLm9yZyIsImlkIjoiMGNmNmQ5NzAtM2YxZC00YWFlLWE5ODktOTJhOGY3NmFlM2RiIiwibmFtZSI6IkNBIPCfh6jwn4emIHwgQFJheWRpa2FseCB8IDBBRDUxOSIsIm5ldCI6IndzIiwicGF0aCI6Ii93cz9lZD0yMDQ4IiwicG9ydCI6ODAsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgMEFENTE5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+# 1. score 80.1 | 3/3 passes | delay 938ms | spread 20ms | tcp 198ms | ⚡ b2n.ir/v2ray-configs | 285
+# passes: P1:983ms P2:938ms P3:924ms+c
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#⚡ b2n.ir/v2ray-configs | 285
 
-# 2. score 76.9 | 3/3 passes | delay 1191ms | spread 49ms | tcp 232ms | US 🇺🇸 | @Raydikalx | 25DD23
-# passes: P1:1200ms P2:1191ms P3:1053ms+c
-vmess://eyJhZGQiOiJ1cy0yMy5oaWh1Lm5ldCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiOGE5YWFhNzAtY2VkOS0xMWYxLWI5MzQtMjA1YzZkNWY1ZDc4IiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6IjgwIiwicHMiOiJVUyDwn4e68J+HuCB8IEBSYXlkaWthbHggfCAyNUREMjMiLCJzbmkiOiIxNzIuNjYuMC4yNTEiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+# 2. score 79.2 | 3/3 passes | delay 1026ms | spread 25ms | tcp 232ms | ⚡ b2n.ir/v2ray-configs | 61
+# passes: P1:1026ms P2:1041ms P3:966ms+c
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#⚡ b2n.ir/v2ray-configs | 61
 
-# 3. score 70.2 | 3/3 passes | delay 1255ms | spread 296ms | tcp 348ms | HK 🇭🇰 | @Raydikalx | A36995
-# passes: P1:2139ms P2:1255ms P3:1250ms+c
-vmess://eyJhZGQiOiJkb2ctdXMua3VubHVuMDFkbnMuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijk0NjRjYTQwLWRkNzUtMzc0Mi1hNjI4LWQ5MzFhOWY0MTNiMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjEwMDkiLCJwcyI6IkhLIPCfh63wn4ewIHwgQFJheWRpa2FseCB8IEEzNjk5NSIsInNjeSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+# 3. score 79.0 | 3/3 passes | delay 1169ms | spread 18ms | tcp 212ms | US 🇺🇸 | @Raydikalx | 3A610C
+# passes: P1:1186ms P2:1132ms P3:1169ms+c
+vmess://eyJ2IjpudWxsLCJwcyI6IlVTIPCfh7rwn4e4IHwgQFJheWRpa2FseCB8IDNBNjEwQyIsImFkZCI6IjM4LjkxLjEwNy40OSIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInNuaSI6bnVsbCwiZnAiOm51bGwsIm5hbWUiOiJVUyDwn4e68J+HuCB8IEBSYXlkaWthbHggfCAzQTYxMEMifQ==
 
-# 4. score 64.6 | 3/3 passes | delay 2365ms | spread 987ms | tcp 27ms | EPODONIOS
-# passes: P1:2365ms P2:1146ms P3:4106ms+c
-vless://b20f71dc-13da-4142-845f-10c9da190215@de5.premiumsell.ir:80?encryption=none&path=/&security=none&type=ws#EPODONIOS
+# 4. score 78.4 | 3/3 passes | delay 720ms | spread 73ms | tcp 137ms | ⚡ b2n.ir/v2ray-configs | 957
+# passes: P1:685ms P2:720ms P3:904ms+c
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#⚡ b2n.ir/v2ray-configs | 957
 
-# 5. score 63.6 | 3/3 passes | delay 3613ms | spread 915ms | tcp 1250ms | EPODONIOS
-# passes: P1:3613ms P2:3363ms P3:6109ms+c
-vless://086bf957-9cd0-4e55-8280-bbef10435b41@ai.smrtai.top:443?security=reality&encryption=none&pbk=R-w7BpNgtryZRBMyRoHx81OnjzAwrKhVtV1EUKLFJzc&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=086bf957#EPODONIOS
+# 5. score 77.9 | 3/3 passes | delay 863ms | spread 61ms | tcp 120ms | ⚡ b2n.ir/v2ray-configs | 438
+# passes: P1:780ms P2:963ms P3:863ms+c
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw==@132.243.175.144:8388#⚡ b2n.ir/v2ray-configs | 438
 
-# 6. score 63.2 | 3/3 passes | delay 2933ms | spread 1644ms | tcp 110ms | EPODONIOS
-# passes: P1:2933ms P2:570ms P3:5502ms+c
-vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
+# 6. score 77.6 | 3/3 passes | delay 812ms | spread 73ms | tcp 135ms | ⚡ b2n.ir/v2ray-configs | 217
+# passes: P1:940ms P2:812ms P3:721ms+c
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#⚡ b2n.ir/v2ray-configs | 217
 
-# 7. score 63.1 | 3/3 passes | delay 3428ms | spread 1266ms | tcp 148ms | EPODONIOS
-# passes: P1:5983ms P2:3428ms P3:2184ms+c
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+# 7. score 77.5 | 3/3 passes | delay 993ms | spread 55ms | tcp 200ms | CA 🇨🇦 | @Raydikalx | 874860
+# passes: P1:1086ms P2:993ms P3:921ms+c
+vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOjAsImhvc3QiOiIxMzQuMTk1LjE5Ni4yMTEiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjE4MDAwIiwicHMiOiJDQSDwn4eo8J+HpiB8IEBSYXlkaWthbHggfCA4NzQ4NjAiLCJzbmkiOiIxMzQuMTk1LjE5Ni4yMTEiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
-# 8. score 62.5 | 3/3 passes | delay 5032ms | spread 1137ms | tcp 101ms | EPODONIOS
-# passes: P1:3022ms P2:5032ms P3:6433ms+c
-vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
+# 8. score 76.5 | 3/3 passes | delay 1145ms | spread 60ms | tcp 200ms | CA 🇨🇦 | @Raydikalx | A7D452
+# passes: P1:1145ms P2:1174ms P3:995ms+c
+vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6IkNBIPCfh6jwn4emIHwgQFJheWRpa2FseCB8IEE3RDQ1MiIsInNuaSI6IjEzNC4xOTUuMTk2LjIxMSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+
+# 9. score 76.2 | 3/3 passes | delay 1088ms | spread 71ms | tcp 234ms | ⚡ b2n.ir/v2ray-configs | 151
+# passes: P1:1088ms P2:983ms P3:1197ms+c
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#⚡ b2n.ir/v2ray-configs | 151
+
+# 10. score 75.9 | 3/3 passes | delay 905ms | spread 102ms | tcp 126ms | ⚡ b2n.ir/v2ray-configs | 939
+# passes: P1:1084ms P2:905ms P3:778ms+c
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.34:8080#⚡ b2n.ir/v2ray-configs | 939
+
+# 11. score 75.8 | 3/3 passes | delay 747ms | spread 140ms | tcp 131ms | ⚡ b2n.ir/v2ray-configs | 40
+# passes: P1:537ms P2:747ms P3:958ms+c
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#⚡ b2n.ir/v2ray-configs | 40
+
+# 12. score 75.7 | 3/3 passes | delay 1327ms | spread 61ms | tcp 257ms | SG 🇸🇬 | @Raydikalx | 481627
+# passes: P1:1411ms P2:1327ms P3:1229ms+c
+vmess://eyJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoicmF3IiwicGF0aCI6Ii80YmMwMjdhNDQ1MzIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6IlNHIPCfh7jwn4esIHwgQFJheWRpa2FseCB8IDQ4MTYyNyIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+
+# 13. score 75.3 | 3/3 passes | delay 731ms | spread 164ms | tcp 217ms | CA 🇨🇦 | @Raydikalx | 0940F6
+# passes: P1:1210ms P2:731ms P3:717ms+c
+vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsImFpZCI6MCwiaG9zdCI6IjIzLjE2Mi4yMDAuMTk4IiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJDQSDwn4eo8J+HpiB8IEBSYXlkaWthbHggfCAwOTQwRjYiLCJzbmkiOiIyMy4xNjIuMjAwLjE5OCIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+
+# 14. score 75.2 | 3/3 passes | delay 1464ms | spread 61ms | tcp 122ms | ⚡ b2n.ir/v2ray-configs | 301
+# passes: P1:1464ms P2:1544ms P3:1360ms+c
+vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@pl.peregrine-sub.net:1443?security=reality&encryption=none&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.peregrine-sub.net&sid=7b6803a79bba5c52#⚡ b2n.ir/v2ray-configs | 301
+
+# 15. score 75.2 | 3/3 passes | delay 1188ms | spread 84ms | tcp 219ms | ⚡ b2n.ir/v2ray-configs | 429
+# passes: P1:1047ms P2:1298ms P3:1188ms+c
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#⚡ b2n.ir/v2ray-configs | 429
+
+# 16. score 74.9 | 3/3 passes | delay 1011ms | spread 112ms | tcp 160ms | IT 🇮🇹 | @Raydikalx | B7F8D3
+# passes: P1:1228ms P2:1011ms P3:892ms+c
+vmess://eyJhZGQiOiJhZXNhZmRmYWVzZnYuYXNvcGFyZGF6LmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJhZXNhZmRmYWVzZnYuYXNvcGFyZGF6LmlyIiwiaWQiOiJjZTcxYjhjMi01NGE0LTRkZDAtYjc4MC1hNDUyMWIxNmYyZmQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL2Y5YkdiRzdaTnk1TDB0ZFFwVWJMWEhISUFsR3YiLCJwb3J0IjoiODAiLCJwcyI6IklUIPCfh67wn4e5IHwgQFJheWRpa2FseCB8IEI3RjhEMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+
+# 17. score 74.9 | 3/3 passes | delay 1273ms | spread 83ms | tcp 262ms | US 🇺🇸 | @Raydikalx | 2755E5
+# passes: P1:1413ms P2:1273ms P3:1164ms+c
+vmess://eyJhZGQiOiI4NC4xNy40MS4yIiwiYWlkIjowLCJob3N0IjoiYmoxYWEyenlqeHlhbXl1ay52LjNkbnMudmlwIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6IjE4MDAwIiwicHMiOiJVUyDwn4e68J+HuCB8IEBSYXlkaWthbHggfCAyNzU1RTUiLCJzbmkiOiJiajFhYTJ6eWp4eWFteXVrLnYuM2Rucy52aXAiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+
+# 18. score 74.8 | 3/3 passes | delay 1286ms | spread 84ms | tcp 253ms | US 🇺🇸 | @Raydikalx | 4D7399
+# passes: P1:1506ms P2:1254ms P3:1286ms+c
+vmess://eyJhZGQiOiIxNjkuMTk3LjE0Mi4yMiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiVVMg8J+HuvCfh7ggfCBAUmF5ZGlrYWx4IHwgNEQ3Mzk5Iiwic25pIjoidjJyYXkxLmRvemFwcC54eXoiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+
+# 19. score 74.6 | 3/3 passes | delay 997ms | spread 125ms | tcp 122ms | ⚡ b2n.ir/v2ray-configs | 447
+# passes: P1:997ms P2:826ms P3:1201ms+c
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080#⚡ b2n.ir/v2ray-configs | 447
+
+# 20. score 74.5 | 3/3 passes | delay 961ms | spread 134ms | tcp 257ms | SG 🇸🇬 | @Raydikalx | CAF34F
+# passes: P1:1361ms P2:961ms P3:959ms+c
+vmess://eyJ2IjpudWxsLCJwcyI6IlNHIPCfh7jwn4esIHwgQFJheWRpa2FseCB8IENBRjM0RiIsImFkZCI6IjE0OS44OC4yMy4yMDciLCJwb3J0IjoxODAwMCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInNuaSI6bnVsbCwiZnAiOm51bGwsIm5hbWUiOiJTRyDwn4e48J+HrCB8IEBSYXlkaWthbHggfCBDQUYzNEYifQ==
+
+# 21. score 74.2 | 3/3 passes | delay 963ms | spread 145ms | tcp 262ms | US 🇺🇸 | @Raydikalx | 101269
+# passes: P1:1330ms P2:896ms P3:963ms+c
+vmess://eyJ2IjpudWxsLCJwcyI6IlVTIPCfh7rwn4e4IHwgQFJheWRpa2FseCB8IDEwMTI2OSIsImFkZCI6Ijg0LjE3LjQxLjIiLCJwb3J0IjoxODAwMCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6Im5vbmUiLCJzbmkiOm51bGwsImZwIjpudWxsLCJuYW1lIjoiVVMg8J+HuvCfh7ggfCBAUmF5ZGlrYWx4IHwgMTAxMjY5In0=
+
+# 22. score 74.2 | 3/3 passes | delay 1228ms | spread 105ms | tcp 212ms | US 🇺🇸 | @Raydikalx | F52172
+# passes: P1:1228ms P2:971ms P3:1285ms+c
+vmess://eyJhZGQiOiIzOC45MS4xMDcuNDkiLCJhaWQiOjAsImhvc3QiOiJndWFud2FuZy5hd3Nuby5jb20iLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InRjcCIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgiLCJwb3J0IjoiMTgwMDAiLCJwcyI6IlVTIPCfh7rwn4e4IHwgQFJheWRpa2FseCB8IEY1MjE3MiIsInNuaSI6Imd1YW53YW5nLmF3c25vLmNvbSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+
+# 23. score 74.0 | 3/3 passes | delay 1535ms | spread 82ms | tcp 145ms | ⚡ b2n.ir/v2ray-configs | 370
+# passes: P1:1477ms P2:1724ms P3:1535ms+c
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#⚡ b2n.ir/v2ray-configs | 370
+
+# 24. score 74.0 | 3/3 passes | delay 1030ms | spread 138ms | tcp 203ms | ⚡ b2n.ir/v2ray-configs | 187
+# passes: P1:1082ms P2:1030ms P3:669ms+c
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#⚡ b2n.ir/v2ray-configs | 187
+
+# 25. score 74.0 | 3/3 passes | delay 1183ms | spread 117ms | tcp 452ms | ⚡ b2n.ir/v2ray-configs | 831
+# passes: P1:1183ms P2:874ms P3:1225ms+c
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none#⚡ b2n.ir/v2ray-configs | 831
+
+# 26. score 73.9 | 3/3 passes | delay 1154ms | spread 121ms | tcp 30ms | IR 🇮🇷 | @Raydikalx | 7D17DE
+# passes: P1:1348ms P2:984ms P3:1154ms+c
+vmess://eyJhZGQiOiIyMTIuODAuOC4xODQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOWVkNzkzMDUtNWU0YS00OTc3LTkyZmItMDE0ZGI4YjBhNjJmIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IklSIPCfh67wn4e3IHwgQFJheWRpa2FseCB8IDdEMTdERSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
+
+# 27. score 73.9 | 3/3 passes | delay 1295ms | spread 106ms | tcp 262ms | US 🇺🇸 | @Raydikalx | 94BA12
+# passes: P1:1295ms P2:1258ms P3:1576ms+c
+vmess://eyJhZGQiOiI4NC4xNy40MS4yIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJVUyDwn4e68J+HuCB8IEBSYXlkaWthbHggfCA5NEJBMTIiLCJzbmkiOiI4NC4xNy40MS4yIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+
+# 28. score 73.8 | 3/3 passes | delay 1105ms | spread 134ms | tcp 241ms | 🇺🇸 Misha Lan VPN
+# passes: P1:1459ms P2:1105ms P3:1057ms+c
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#%F0%9F%87%BA%F0%9F%87%B8%20Misha%20Lan%20VPN
+
+# 29. score 72.8 | 3/3 passes | delay 862ms | spread 248ms | tcp 200ms | CA 🇨🇦 | @Raydikalx | 91E816
+# passes: P1:1485ms P2:742ms P3:862ms+c
+vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6IkNBIPCfh6jwn4emIHwgQFJheWRpa2FseCB8IDkxRTgxNiIsInNuaSI6ImxlYXJuLmhlYWx0aGNhcmVqb2JzaHViZW5oYW5jZW1lZGljYWxwcm9mZXNzaW9uYWxza2lsbHN0b2RheS5jb20iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+
+# 30. score 72.7 | 3/3 passes | delay 1558ms | spread 116ms | tcp 348ms | KR 🇰🇷 | @Raydikalx | 168118
+# passes: P1:1491ms P2:1840ms P3:1558ms+c
+vmess://eyJ2IjoiMiIsInBzIjoiS1Ig8J+HsPCfh7cgfCBAUmF5ZGlrYWx4IHwgMTY4MTE4IiwiYWRkIjoiMjE3LjE0Mi4xMzguNjEiLCJwb3J0IjoiODAiLCJpZCI6ImFjMWI5MzNkLWFmZmYtNDQ4Ny05M2VmLWY1NzEzMGE1NWRmZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJ0bHMiOiIiLCJhbHBuIjoiIiwicGF0aCI6Ii8ifQ==
+
+# 31. score 72.4 | 3/3 passes | delay 1126ms | spread 190ms | tcp 235ms | ⚡ b2n.ir/v2ray-configs | 438
+# passes: P1:1302ms P2:734ms P3:1126ms+c
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#⚡ b2n.ir/v2ray-configs | 438
+
+# 32. score 72.3 | 3/3 passes | delay 1494ms | spread 136ms | tcp 343ms | ⚡ b2n.ir/v2ray-configs | 815
+# passes: P1:1580ms P2:1494ms P3:1172ms+c
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#⚡ b2n.ir/v2ray-configs | 815
+
+# 33. score 72.3 | 3/3 passes | delay 1194ms | spread 180ms | tcp 200ms | CA 🇨🇦 | @Raydikalx | A53DAC
+# passes: P1:1295ms P2:1194ms P3:754ms+c
+vmess://eyJ2IjpudWxsLCJwcyI6IkNBIPCfh6jwn4emIHwgQFJheWRpa2FseCB8IEE1M0RBQyIsImFkZCI6IjEzNC4xOTUuMTk2LjIxMSIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwic25pIjpudWxsLCJmcCI6bnVsbCwibmFtZSI6IkNBIPCfh6jwn4emIHwgQFJheWRpa2FseCB8IEE1M0RBQyJ9
+
+# 34. score 72.2 | 3/3 passes | delay 1068ms | spread 213ms | tcp 253ms | US 🇺🇸 | @Raydikalx | B79C28
+# passes: P1:1504ms P2:1068ms P3:864ms+c
+vmess://eyJhZGQiOiIxNjkuMTk3LjE0Mi4yMiIsImFpZCI6MCwiaG9zdCI6IjE2OS4xOTcuMTQyLjIyIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJVUyDwn4e68J+HuCB8IEBSYXlkaWthbHggfCBCNzlDMjgiLCJzbmkiOiIxNjkuMTk3LjE0Mi4yMiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+
+# 35. score 72.2 | 3/3 passes | delay 1213ms | spread 180ms | tcp 203ms | ⚡ b2n.ir/v2ray-configs | 593
+# passes: P1:1213ms P2:892ms P3:1433ms+c
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#⚡ b2n.ir/v2ray-configs | 593
+
+# 36. score 72.0 | 3/3 passes | delay 2022ms | spread 107ms | tcp 115ms | CA 🇨🇦 | @Raydikalx | F744E2
+# passes: P1:2022ms P2:1887ms P3:2207ms+c
+vmess://eyJ2IjoiMiIsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgRjc0NEUyIiwiYWRkIjoid3d3LndpbmRvd3Ntc2lkb3dubG9hZHMuY29tIiwicG9ydCI6IjQ0MyIsImlkIjoiODBiZTJkZWItM2IyNy00Nzc1LTliZDEtN2YyYTJiOWMyNjFiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiJ0bHMiLCJhbHBuIjoiIiwic25pIjoid3d3LndpbmRvd3Ntc2lkb3dubG9hZHMuY29tIiwicGF0aCI6Ii90cnV0aCJ9
+
+# 37. score 71.9 | 3/3 passes | delay 1509ms | spread 151ms | tcp 358ms | ⚡ b2n.ir/v2ray-configs | 125
+# passes: P1:1593ms P2:1140ms P3:1509ms+c
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#⚡ b2n.ir/v2ray-configs | 125
+
+# 38. score 71.7 | 3/3 passes | delay 652ms | spread 605ms | tcp 109ms | ⚡ b2n.ir/v2ray-configs | 504
+# passes: P1:2437ms P2:623ms P3:652ms+c
+vless://d0d3d49c-56e8-40e1-9e83-793d03f83d93@hw7.divarkhaghazi.com:465?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hw7.divarkhaghazi.com.&fp=chrome&type=ws&allowInsecure=0&sni=hw7.divarkhaghazi.com.#⚡ b2n.ir/v2ray-configs | 504
+
+# 39. score 71.6 | 3/3 passes | delay 1495ms | spread 165ms | tcp 219ms | ⚡ b2n.ir/v2ray-configs | 684
+# passes: P1:1733ms P2:1495ms P3:1237ms+c
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.235:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=%2F%3FTELEGRAM--i10VPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#⚡ b2n.ir/v2ray-configs | 684
+
+# 40. score 71.5 | 3/3 passes | delay 1238ms | spread 212ms | tcp 136ms | ⚡ b2n.ir/v2ray-configs | 698
+# passes: P1:1238ms P2:952ms P3:1587ms+c
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=Telegram-mtmvpn&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#⚡ b2n.ir/v2ray-configs | 698
