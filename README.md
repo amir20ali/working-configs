@@ -1,26 +1,33 @@
 # Working Configs
 
 ## Statistics
-- Tested: 8827
-- Answered at least one pass: 12
-- Passed every pass: 8
-- Published (>= 3/3): 8
-- Content-verified: 8
+- Tested: 4913
+- Answered at least one pass: 109
+- Passed every pass: 87
+- Published (>= 3/3): 40
+- Content-verified: 40
 - Throughput sampled: 0
-- Updated: 2026-10-25 07:12 UTC
+- Updated: 2026-10-30 10:27 UTC
 
 ## Top configs
 
 | # | Name | Passes | Delay | Spread | Throughput | Score |
 |---|------|--------|-------|--------|------------|-------|
-| 1 | CA 🇨🇦 | @Raydikalx | 0AD519 | 3/3 | 780ms | 4ms | - | 82.5 |
-| 2 | US 🇺🇸 | @Raydikalx | 25DD23 | 3/3 | 1191ms | 49ms | - | 76.9 |
-| 3 | HK 🇭🇰 | @Raydikalx | A36995 | 3/3 | 1255ms | 296ms | - | 70.2 |
-| 4 | EPODONIOS | 3/3 | 2365ms | 987ms | - | 64.6 |
-| 5 | EPODONIOS | 3/3 | 3613ms | 915ms | - | 63.6 |
-| 6 | EPODONIOS | 3/3 | 2933ms | 1644ms | - | 63.2 |
-| 7 | EPODONIOS | 3/3 | 3428ms | 1266ms | - | 63.1 |
-| 8 | EPODONIOS | 3/3 | 5032ms | 1137ms | - | 62.5 |
+| 1 | ⚡ b2n.ir/v2ray-configs | 285 | 3/3 | 938ms | 20ms | - | 80.1 |
+| 2 | ⚡ b2n.ir/v2ray-configs | 61 | 3/3 | 1026ms | 25ms | - | 79.2 |
+| 3 | US 🇺🇸 | @Raydikalx | 3A610C | 3/3 | 1169ms | 18ms | - | 79.0 |
+| 4 | ⚡ b2n.ir/v2ray-configs | 957 | 3/3 | 720ms | 73ms | - | 78.4 |
+| 5 | ⚡ b2n.ir/v2ray-configs | 438 | 3/3 | 863ms | 61ms | - | 77.9 |
+| 6 | ⚡ b2n.ir/v2ray-configs | 217 | 3/3 | 812ms | 73ms | - | 77.6 |
+| 7 | CA 🇨🇦 | @Raydikalx | 874860 | 3/3 | 993ms | 55ms | - | 77.5 |
+| 8 | CA 🇨🇦 | @Raydikalx | A7D452 | 3/3 | 1145ms | 60ms | - | 76.5 |
+| 9 | ⚡ b2n.ir/v2ray-configs | 151 | 3/3 | 1088ms | 71ms | - | 76.2 |
+| 10 | ⚡ b2n.ir/v2ray-configs | 939 | 3/3 | 905ms | 102ms | - | 75.9 |
+| 11 | ⚡ b2n.ir/v2ray-configs | 40 | 3/3 | 747ms | 140ms | - | 75.8 |
+| 12 | SG 🇸🇬 | @Raydikalx | 481627 | 3/3 | 1327ms | 61ms | - | 75.7 |
+| 13 | CA 🇨🇦 | @Raydikalx | 0940F6 | 3/3 | 731ms | 164ms | - | 75.3 |
+| 14 | ⚡ b2n.ir/v2ray-configs | 301 | 3/3 | 1464ms | 61ms | - | 75.2 |
+| 15 | ⚡ b2n.ir/v2ray-configs | 429 | 3/3 | 1188ms | 84ms | - | 75.2 |
 
 ## How this was measured
 
