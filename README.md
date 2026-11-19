@@ -1,33 +1,33 @@
 # Working Configs
 
 ## Statistics
-- Tested: 4785
-- Answered at least one pass: 80
-- Passed every pass: 27
-- Published (>= 3/3): 27
-- Content-verified: 27
+- Tested: 4677
+- Answered at least one pass: 79
+- Passed every pass: 37
+- Published (>= 3/3): 37
+- Content-verified: 37
 - Throughput sampled: 0
-- Updated: 2026-11-15 08:16 UTC
+- Updated: 2026-11-19 18:44 UTC
 
 ## Top configs
 
 | # | Name | Passes | Delay | Spread | Throughput | Score |
 |---|------|--------|-------|--------|------------|-------|
-| 1 | ⚡ b2n.ir/v2ray-configs | 156 | 3/3 | 495ms | 160ms | - | 77.8 |
-| 2 | US 🇺🇸 | @Raydikalx | CA0DCB | 3/3 | 784ms | 165ms | - | 74.8 |
-| 3 | 🇧🇪 Misha Lan VPN | 3/3 | 1232ms | 141ms | - | 73.0 |
-| 4 | ⚡ b2n.ir/v2ray-configs | 887 | 3/3 | 1232ms | 218ms | - | 71.4 |
-| 5 | US 🇺🇸 | @Raydikalx | 1B8231 | 3/3 | 2027ms | 261ms | - | 68.7 |
-| 6 | 🇺🇸 Misha Lan VPN | 3/3 | 2221ms | 239ms | - | 68.7 |
-| 7 | FI 🇫🇮 | @Raydikalx | 3FAF16 | 3/3 | 1715ms | 383ms | - | 68.0 |
-| 8 | ⚡ b2n.ir/v2ray-configs | 627 | 3/3 | 2162ms | 350ms | - | 67.5 |
-| 9 | ⚡ b2n.ir/v2ray-configs | 601 | 3/3 | 1319ms | 756ms | - | 67.4 |
-| 10 | US 🇺🇸 | @Raydikalx | 9B4F83 | 3/3 | 1976ms | 428ms | - | 67.2 |
-| 11 | US 🇺🇸 | @Raydikalx | DE08A7 | 3/3 | 1222ms | 1226ms | - | 66.9 |
-| 12 | ⚡ b2n.ir/v2ray-configs | 462 | 3/3 | 2117ms | 537ms | - | 66.3 |
-| 13 | ⚡ b2n.ir/v2ray-configs | 484 | 3/3 | 1579ms | 1151ms | - | 65.8 |
-| 14 | ⚡ b2n.ir/v2ray-configs | 246 | 3/3 | 2703ms | 513ms | - | 65.6 |
-| 15 | CA 🇨🇦 | @Raydikalx | A9BDF3 | 3/3 | 2603ms | 541ms | - | 65.6 |
+| 1 | ⚡ b2n.ir/v2ray-configs | 787 | 3/3 | 408ms | 52ms | - | 83.0 |
+| 2 | 🇬🇧GB-57.129.132.223-1048 | 3/3 | 565ms | 212ms | - | 75.9 |
+| 3 | GB 🇬🇧 | @Raydikalx | 360227 | 3/3 | 836ms | 143ms | - | 75.0 |
+| 4 | ⚡ b2n.ir/v2ray-configs | 375 | 3/3 | 588ms | 259ms | - | 74.9 |
+| 5 | ⚡ b2n.ir/v2ray-configs | 42 | 3/3 | 737ms | 229ms | - | 74.0 |
+| 6 | ⚡ b2n.ir/v2ray-configs | 797 | 3/3 | 844ms | 207ms | - | 73.6 |
+| 7 | ⚡ b2n.ir/v2ray-configs | 177 | 3/3 | 552ms | 491ms | - | 73.3 |
+| 8 | ⚡ b2n.ir/v2ray-configs | 81 | 3/3 | 615ms | 437ms | - | 72.9 |
+| 9 | CA 🇨🇦 | @Raydikalx | F0DDD9 | 3/3 | 1261ms | 242ms | - | 70.9 |
+| 10 | CA 🇨🇦 | @Raydikalx | 1CA799 | 3/3 | 1651ms | 190ms | - | 70.6 |
+| 11 | ⚡ b2n.ir/v2ray-configs | 575 | 3/3 | 1024ms | 359ms | - | 70.6 |
+| 12 | ⚡ b2n.ir/v2ray-configs | 850 | 3/3 | 1240ms | 281ms | - | 70.5 |
+| 13 | ⚡ b2n.ir/v2ray-configs | 598 | 3/3 | 994ms | 423ms | - | 70.3 |
+| 14 | GB 🇬🇧 | @Raydikalx | 4B9793 | 3/3 | 1223ms | 369ms | - | 69.6 |
+| 15 | ⚡ b2n.ir/v2ray-configs | 780 | 3/3 | 1497ms | 419ms | - | 68.3 |
 
 ## How this was measured
 
